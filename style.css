@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.screen {
+    padding: 20px;
+}
+.hidden {
+    display: none;
+}
+#question span.correct {
+    color: green;
+}
+#question span.incorrect {
+    color: red;
+}
+#info {
+    margin-bottom: 20px;
+}
