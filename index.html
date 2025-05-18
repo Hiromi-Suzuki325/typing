@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Typing Practice</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+    <div id="start-screen" class="screen">
+        <h1>Typing Practice</h1>
+        <div id="difficulty-select">
+            <label><input type="radio" name="difficulty" value="1" checked> 初級</label>
+            <label><input type="radio" name="difficulty" value="2"> 中級</label>
+            <label><input type="radio" name="difficulty" value="3"> 上級</label>
+            <label><input type="radio" name="difficulty" value="4"> 達人</label>
+        </div>
+        <p class="message">スペースキーをおしてスタート</p>
+    </div>
+
+    <div id="countdown-screen" class="screen hidden">
+        <p id="countdown"></p>
+    </div>
+
+    <div id="typing-screen" class="screen hidden">
+        <div id="info">
+            <span id="timer">0.0</span>s
+            <span id="score">0</span>pt
+        </div>
+        <div id="question"></div>
+    </div>
+
+    <div id="result-screen" class="screen hidden">
+        <h2>結果</h2>
+        <p id="final-score"></p>
+        <button id="retry">もう一度挑戦する</button>
+    </div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>

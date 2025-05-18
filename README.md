@@ -94,3 +94,6 @@ JavaScriptの Workspace API を使用して、選択された難易度に対応�
 4.1. アクセシビリティ
 4.2. パフォーマンス
 4.3. 対応ブラウザ
+
+## Usage
+Open index.html in a modern browser to run the typing practice.
