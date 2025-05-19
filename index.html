@@ -1,42 +1,106 @@
 <!DOCTYPE html>
 <html lang="ja">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Typing Practice</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-<div id="app">
-    <div id="start-screen" class="screen">
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="app">
+      <div id="start-screen" class="screen">
         <h1>Typing Practice</h1>
         <div id="difficulty-select">
-            <label><input type="radio" name="difficulty" value="1" checked> 初級</label>
-            <label><input type="radio" name="difficulty" value="2"> 中級</label>
-            <label><input type="radio" name="difficulty" value="3"> 上級</label>
-            <label><input type="radio" name="difficulty" value="4"> 達人</label>
+          <label
+            ><input type="radio" name="difficulty" value="1" checked />
+            初級</label
+          >
+          <label><input type="radio" name="difficulty" value="2" /> 中級</label>
+          <label><input type="radio" name="difficulty" value="3" /> 上級</label>
+          <label><input type="radio" name="difficulty" value="4" /> 達人</label>
         </div>
         <p class="message">スペースキーをおしてスタート</p>
-    </div>
+      </div>
 
-    <div id="countdown-screen" class="screen hidden">
+      <div id="countdown-screen" class="screen hidden">
         <p id="countdown"></p>
-    </div>
+      </div>
 
-    <div id="typing-screen" class="screen hidden">
+      <div id="typing-screen" class="screen hidden">
         <div id="info">
-            <span id="timer">0.0</span>s
-            <span id="score">0</span>pt
+          <span id="timer">0.0</span>s <span id="score">0</span>pt
         </div>
         <div id="question"></div>
-    </div>
+      </div>
 
-    <div id="result-screen" class="screen hidden">
+      <div id="result-screen" class="screen hidden">
         <h2>結果</h2>
         <p id="final-score"></p>
         <button id="retry">もう一度挑戦する</button>
+      </div>
     </div>
-</div>
-<script src="script.js"></script>
-</body>
+
+    <div id="virtual-keyboard">
+      <div class="vk-row">
+        <div class="vk-key" data-key="`">`</div>
+        <div class="vk-key" data-key="1">1</div>
+        <div class="vk-key" data-key="2">2</div>
+        <div class="vk-key" data-key="3">3</div>
+        <div class="vk-key" data-key="4">4</div>
+        <div class="vk-key" data-key="5">5</div>
+        <div class="vk-key" data-key="6">6</div>
+        <div class="vk-key" data-key="7">7</div>
+        <div class="vk-key" data-key="8">8</div>
+        <div class="vk-key" data-key="9">9</div>
+        <div class="vk-key" data-key="0">0</div>
+        <div class="vk-key" data-key="-">-</div>
+        <div class="vk-key" data-key="=">=</div>
+      </div>
+      <div class="vk-row">
+        <div class="vk-key" data-key="q">Q</div>
+        <div class="vk-key" data-key="w">W</div>
+        <div class="vk-key" data-key="e">E</div>
+        <div class="vk-key" data-key="r">R</div>
+        <div class="vk-key" data-key="t">T</div>
+        <div class="vk-key" data-key="y">Y</div>
+        <div class="vk-key" data-key="u">U</div>
+        <div class="vk-key" data-key="i">I</div>
+        <div class="vk-key" data-key="o">O</div>
+        <div class="vk-key" data-key="p">P</div>
+        <div class="vk-key" data-key="[">[</div>
+        <div class="vk-key" data-key="]">]</div>
+        <div class="vk-key" data-key="¥">¥</div>
+      </div>
+      <div class="vk-row">
+        <div class="vk-key" data-key="a">A</div>
+        <div class="vk-key" data-key="s">S</div>
+        <div class="vk-key" data-key="d">D</div>
+        <div class="vk-key" data-key="f">F</div>
+        <div class="vk-key" data-key="g">G</div>
+        <div class="vk-key" data-key="h">H</div>
+        <div class="vk-key" data-key="j">J</div>
+        <div class="vk-key" data-key="k">K</div>
+        <div class="vk-key" data-key="l">L</div>
+        <div class="vk-key" data-key=";">;</div>
+        <div class="vk-key" data-key="'">'</div>
+      </div>
+      <div class="vk-row">
+        <div class="vk-key" data-key="z">Z</div>
+        <div class="vk-key" data-key="x">X</div>
+        <div class="vk-key" data-key="c">C</div>
+        <div class="vk-key" data-key="v">V</div>
+        <div class="vk-key" data-key="b">B</div>
+        <div class="vk-key" data-key="n">N</div>
+        <div class="vk-key" data-key="m">M</div>
+        <div class="vk-key" data-key=",">,</div>
+        <div class="vk-key" data-key=".">.</div>
+        <div class="vk-key" data-key="/">/</div>
+      </div>
+      <div class="vk-row">
+        <div class="vk-key wide" data-key="space">Space</div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
 </html>
