@@ -1,5 +1,2774 @@
 [
-  "Financial planning is important.",
-  "Invest wisely for the future.",
-  "Budgeting helps control spending."
+  {
+    "id": "fp3_l2_0001",
+    "level": 2,
+    "category": "life_planning",
+    "display": "ライフプランの基本",
+    "input": "raifu puran no kihon",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0002",
+    "level": 2,
+    "category": "life_planning",
+    "display": "ライフプランの確認",
+    "input": "raifu puran no kakunin",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0003",
+    "level": 2,
+    "category": "life_planning",
+    "display": "ライフプランの見直し",
+    "input": "raifu puran no minaoshi",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0004",
+    "level": 2,
+    "category": "life_planning",
+    "display": "ファイナンシャルプランナーの基本",
+    "input": "fainansharu puranna no kihon",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0005",
+    "level": 2,
+    "category": "life_planning",
+    "display": "ファイナンシャルプランナーの確認",
+    "input": "fainansharu puranna no kakunin",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0006",
+    "level": 2,
+    "category": "life_planning",
+    "display": "ファイナンシャルプランナーの見直し",
+    "input": "fainansharu puranna no minaoshi",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0007",
+    "level": 2,
+    "category": "life_planning",
+    "display": "資金計画の基本",
+    "input": "shikin keikaku no kihon",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0008",
+    "level": 2,
+    "category": "life_planning",
+    "display": "資金計画の確認",
+    "input": "shikin keikaku no kakunin",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0009",
+    "level": 2,
+    "category": "life_planning",
+    "display": "資金計画の見直し",
+    "input": "shikin keikaku no minaoshi",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0010",
+    "level": 2,
+    "category": "life_planning",
+    "display": "キャッシュフロー表の基本",
+    "input": "kyasshu furo hyou no kihon",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0011",
+    "level": 2,
+    "category": "life_planning",
+    "display": "キャッシュフロー表の確認",
+    "input": "kyasshu furo hyou no kakunin",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0012",
+    "level": 2,
+    "category": "life_planning",
+    "display": "キャッシュフロー表の見直し",
+    "input": "kyasshu furo hyou no minaoshi",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0013",
+    "level": 2,
+    "category": "life_planning",
+    "display": "バランスシートの基本",
+    "input": "baransu shito no kihon",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0014",
+    "level": 2,
+    "category": "life_planning",
+    "display": "バランスシートの確認",
+    "input": "baransu shito no kakunin",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0015",
+    "level": 2,
+    "category": "life_planning",
+    "display": "バランスシートの見直し",
+    "input": "baransu shito no minaoshi",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0016",
+    "level": 2,
+    "category": "life_planning",
+    "display": "可処分所得の基本",
+    "input": "kashobun shotoku no kihon",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0017",
+    "level": 2,
+    "category": "life_planning",
+    "display": "可処分所得の確認",
+    "input": "kashobun shotoku no kakunin",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0018",
+    "level": 2,
+    "category": "life_planning",
+    "display": "可処分所得の見直し",
+    "input": "kashobun shotoku no minaoshi",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0019",
+    "level": 2,
+    "category": "life_planning",
+    "display": "ライフイベント表の基本",
+    "input": "raifu ibento hyou no kihon",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0020",
+    "level": 2,
+    "category": "life_planning",
+    "display": "ライフイベント表の確認",
+    "input": "raifu ibento hyou no kakunin",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0021",
+    "level": 2,
+    "category": "life_planning",
+    "display": "ライフイベント表の見直し",
+    "input": "raifu ibento hyou no minaoshi",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0022",
+    "level": 2,
+    "category": "life_planning",
+    "display": "教育資金の基本",
+    "input": "kyouiku shikin no kihon",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0023",
+    "level": 2,
+    "category": "life_planning",
+    "display": "教育資金の確認",
+    "input": "kyouiku shikin no kakunin",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0024",
+    "level": 2,
+    "category": "life_planning",
+    "display": "教育資金の見直し",
+    "input": "kyouiku shikin no minaoshi",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0025",
+    "level": 2,
+    "category": "life_planning",
+    "display": "住宅資金の基本",
+    "input": "juutaku shikin no kihon",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0026",
+    "level": 2,
+    "category": "life_planning",
+    "display": "住宅資金の確認",
+    "input": "juutaku shikin no kakunin",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0027",
+    "level": 2,
+    "category": "life_planning",
+    "display": "住宅資金の見直し",
+    "input": "juutaku shikin no minaoshi",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0028",
+    "level": 2,
+    "category": "life_planning",
+    "display": "老後資金の基本",
+    "input": "rougo shikin no kihon",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0029",
+    "level": 2,
+    "category": "life_planning",
+    "display": "老後資金の確認",
+    "input": "rougo shikin no kakunin",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0030",
+    "level": 2,
+    "category": "life_planning",
+    "display": "老後資金の見直し",
+    "input": "rougo shikin no minaoshi",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0031",
+    "level": 2,
+    "category": "life_planning",
+    "display": "公的年金の基本",
+    "input": "kouteki nenkin no kihon",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0032",
+    "level": 2,
+    "category": "life_planning",
+    "display": "公的年金の確認",
+    "input": "kouteki nenkin no kakunin",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0033",
+    "level": 2,
+    "category": "life_planning",
+    "display": "公的年金の見直し",
+    "input": "kouteki nenkin no minaoshi",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0034",
+    "level": 2,
+    "category": "life_planning",
+    "display": "厚生年金の基本",
+    "input": "kousei nenkin no kihon",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0035",
+    "level": 2,
+    "category": "life_planning",
+    "display": "厚生年金の確認",
+    "input": "kousei nenkin no kakunin",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0036",
+    "level": 2,
+    "category": "life_planning",
+    "display": "厚生年金の見直し",
+    "input": "kousei nenkin no minaoshi",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0037",
+    "level": 2,
+    "category": "life_planning",
+    "display": "国民年金の基本",
+    "input": "kokumin nenkin no kihon",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0038",
+    "level": 2,
+    "category": "life_planning",
+    "display": "国民年金の確認",
+    "input": "kokumin nenkin no kakunin",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0039",
+    "level": 2,
+    "category": "life_planning",
+    "display": "国民年金の見直し",
+    "input": "kokumin nenkin no minaoshi",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0040",
+    "level": 2,
+    "category": "life_planning",
+    "display": "企業年金の基本",
+    "input": "kigyou nenkin no kihon",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0041",
+    "level": 2,
+    "category": "life_planning",
+    "display": "企業年金の確認",
+    "input": "kigyou nenkin no kakunin",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0042",
+    "level": 2,
+    "category": "life_planning",
+    "display": "企業年金の見直し",
+    "input": "kigyou nenkin no minaoshi",
+    "tags": [
+      "life_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0043",
+    "level": 2,
+    "category": "risk_management",
+    "display": "リスク管理の基本",
+    "input": "risuku kanri no kihon",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0044",
+    "level": 2,
+    "category": "risk_management",
+    "display": "リスク管理の確認",
+    "input": "risuku kanri no kakunin",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0045",
+    "level": 2,
+    "category": "risk_management",
+    "display": "リスク管理の見直し",
+    "input": "risuku kanri no minaoshi",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0046",
+    "level": 2,
+    "category": "risk_management",
+    "display": "生命保険の基本",
+    "input": "seimei hoken no kihon",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0047",
+    "level": 2,
+    "category": "risk_management",
+    "display": "生命保険の確認",
+    "input": "seimei hoken no kakunin",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0048",
+    "level": 2,
+    "category": "risk_management",
+    "display": "生命保険の見直し",
+    "input": "seimei hoken no minaoshi",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0049",
+    "level": 2,
+    "category": "risk_management",
+    "display": "損害保険の基本",
+    "input": "songai hoken no kihon",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0050",
+    "level": 2,
+    "category": "risk_management",
+    "display": "損害保険の確認",
+    "input": "songai hoken no kakunin",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0051",
+    "level": 2,
+    "category": "risk_management",
+    "display": "損害保険の見直し",
+    "input": "songai hoken no minaoshi",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0052",
+    "level": 2,
+    "category": "risk_management",
+    "display": "第三分野保険の基本",
+    "input": "daisan bunya hoken no kihon",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0053",
+    "level": 2,
+    "category": "risk_management",
+    "display": "第三分野保険の確認",
+    "input": "daisan bunya hoken no kakunin",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0054",
+    "level": 2,
+    "category": "risk_management",
+    "display": "第三分野保険の見直し",
+    "input": "daisan bunya hoken no minaoshi",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0055",
+    "level": 2,
+    "category": "risk_management",
+    "display": "定期保険の基本",
+    "input": "teiki hoken no kihon",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0056",
+    "level": 2,
+    "category": "risk_management",
+    "display": "定期保険の確認",
+    "input": "teiki hoken no kakunin",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0057",
+    "level": 2,
+    "category": "risk_management",
+    "display": "定期保険の見直し",
+    "input": "teiki hoken no minaoshi",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0058",
+    "level": 2,
+    "category": "risk_management",
+    "display": "終身保険の基本",
+    "input": "shuushin hoken no kihon",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0059",
+    "level": 2,
+    "category": "risk_management",
+    "display": "終身保険の確認",
+    "input": "shuushin hoken no kakunin",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0060",
+    "level": 2,
+    "category": "risk_management",
+    "display": "終身保険の見直し",
+    "input": "shuushin hoken no minaoshi",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0061",
+    "level": 2,
+    "category": "risk_management",
+    "display": "養老保険の基本",
+    "input": "yourou hoken no kihon",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0062",
+    "level": 2,
+    "category": "risk_management",
+    "display": "養老保険の確認",
+    "input": "yourou hoken no kakunin",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0063",
+    "level": 2,
+    "category": "risk_management",
+    "display": "養老保険の見直し",
+    "input": "yourou hoken no minaoshi",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0064",
+    "level": 2,
+    "category": "risk_management",
+    "display": "医療保険の基本",
+    "input": "iryou hoken no kihon",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0065",
+    "level": 2,
+    "category": "risk_management",
+    "display": "医療保険の確認",
+    "input": "iryou hoken no kakunin",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0066",
+    "level": 2,
+    "category": "risk_management",
+    "display": "医療保険の見直し",
+    "input": "iryou hoken no minaoshi",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0067",
+    "level": 2,
+    "category": "risk_management",
+    "display": "がん保険の基本",
+    "input": "gan hoken no kihon",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0068",
+    "level": 2,
+    "category": "risk_management",
+    "display": "がん保険の確認",
+    "input": "gan hoken no kakunin",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0069",
+    "level": 2,
+    "category": "risk_management",
+    "display": "がん保険の見直し",
+    "input": "gan hoken no minaoshi",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0070",
+    "level": 2,
+    "category": "risk_management",
+    "display": "介護保険の基本",
+    "input": "kaigo hoken no kihon",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0071",
+    "level": 2,
+    "category": "risk_management",
+    "display": "介護保険の確認",
+    "input": "kaigo hoken no kakunin",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0072",
+    "level": 2,
+    "category": "risk_management",
+    "display": "介護保険の見直し",
+    "input": "kaigo hoken no minaoshi",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0073",
+    "level": 2,
+    "category": "risk_management",
+    "display": "個人年金保険の基本",
+    "input": "kojin nenkin hoken no kihon",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0074",
+    "level": 2,
+    "category": "risk_management",
+    "display": "個人年金保険の確認",
+    "input": "kojin nenkin hoken no kakunin",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0075",
+    "level": 2,
+    "category": "risk_management",
+    "display": "個人年金保険の見直し",
+    "input": "kojin nenkin hoken no minaoshi",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0076",
+    "level": 2,
+    "category": "risk_management",
+    "display": "収入保障保険の基本",
+    "input": "shuunyuu hoshou hoken no kihon",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0077",
+    "level": 2,
+    "category": "risk_management",
+    "display": "収入保障保険の確認",
+    "input": "shuunyuu hoshou hoken no kakunin",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0078",
+    "level": 2,
+    "category": "risk_management",
+    "display": "収入保障保険の見直し",
+    "input": "shuunyuu hoshou hoken no minaoshi",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0079",
+    "level": 2,
+    "category": "risk_management",
+    "display": "学資保険の基本",
+    "input": "gakushi hoken no kihon",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0080",
+    "level": 2,
+    "category": "risk_management",
+    "display": "学資保険の確認",
+    "input": "gakushi hoken no kakunin",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0081",
+    "level": 2,
+    "category": "risk_management",
+    "display": "学資保険の見直し",
+    "input": "gakushi hoken no minaoshi",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0082",
+    "level": 2,
+    "category": "risk_management",
+    "display": "火災保険の基本",
+    "input": "kasai hoken no kihon",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0083",
+    "level": 2,
+    "category": "risk_management",
+    "display": "火災保険の確認",
+    "input": "kasai hoken no kakunin",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0084",
+    "level": 2,
+    "category": "risk_management",
+    "display": "火災保険の見直し",
+    "input": "kasai hoken no minaoshi",
+    "tags": [
+      "risk_management",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0085",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "金融資産運用の基本",
+    "input": "kinyuu shisan unyou no kihon",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0086",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "金融資産運用の確認",
+    "input": "kinyuu shisan unyou no kakunin",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0087",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "金融資産運用の見直し",
+    "input": "kinyuu shisan unyou no minaoshi",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0088",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "預貯金の基本",
+    "input": "yochokin no kihon",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0089",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "預貯金の確認",
+    "input": "yochokin no kakunin",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0090",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "預貯金の見直し",
+    "input": "yochokin no minaoshi",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0091",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "普通預金の基本",
+    "input": "futsuu yokin no kihon",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0092",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "普通預金の確認",
+    "input": "futsuu yokin no kakunin",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0093",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "普通預金の見直し",
+    "input": "futsuu yokin no minaoshi",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0094",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "定期預金の基本",
+    "input": "teiki yokin no kihon",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0095",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "定期預金の確認",
+    "input": "teiki yokin no kakunin",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0096",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "定期預金の見直し",
+    "input": "teiki yokin no minaoshi",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0097",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "外貨預金の基本",
+    "input": "gaika yokin no kihon",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0098",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "外貨預金の確認",
+    "input": "gaika yokin no kakunin",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0099",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "外貨預金の見直し",
+    "input": "gaika yokin no minaoshi",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0100",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "金利の基本",
+    "input": "kinri no kihon",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0101",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "金利の確認",
+    "input": "kinri no kakunin",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0102",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "金利の見直し",
+    "input": "kinri no minaoshi",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0103",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "利回りの基本",
+    "input": "rimawari no kihon",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0104",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "利回りの確認",
+    "input": "rimawari no kakunin",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0105",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "利回りの見直し",
+    "input": "rimawari no minaoshi",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0106",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "単利の基本",
+    "input": "tanri no kihon",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0107",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "単利の確認",
+    "input": "tanri no kakunin",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0108",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "単利の見直し",
+    "input": "tanri no minaoshi",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0109",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "複利の基本",
+    "input": "fukuri no kihon",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0110",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "複利の確認",
+    "input": "fukuri no kakunin",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0111",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "複利の見直し",
+    "input": "fukuri no minaoshi",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0112",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "債券の基本",
+    "input": "saiken no kihon",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0113",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "債券の確認",
+    "input": "saiken no kakunin",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0114",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "債券の見直し",
+    "input": "saiken no minaoshi",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0115",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "国債の基本",
+    "input": "kokusai no kihon",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0116",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "国債の確認",
+    "input": "kokusai no kakunin",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0117",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "国債の見直し",
+    "input": "kokusai no minaoshi",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0118",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "社債の基本",
+    "input": "shasai no kihon",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0119",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "社債の確認",
+    "input": "shasai no kakunin",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0120",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "社債の見直し",
+    "input": "shasai no minaoshi",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0121",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "株式の基本",
+    "input": "kabushiki no kihon",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0122",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "株式の確認",
+    "input": "kabushiki no kakunin",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0123",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "株式の見直し",
+    "input": "kabushiki no minaoshi",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0124",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "投資信託の基本",
+    "input": "toushi shintaku no kihon",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0125",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "投資信託の確認",
+    "input": "toushi shintaku no kakunin",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0126",
+    "level": 2,
+    "category": "financial_assets",
+    "display": "投資信託の見直し",
+    "input": "toushi shintaku no minaoshi",
+    "tags": [
+      "financial_assets",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0127",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "タックスプランニングの基本",
+    "input": "takkusu puranningu no kihon",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0128",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "タックスプランニングの確認",
+    "input": "takkusu puranningu no kakunin",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0129",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "タックスプランニングの見直し",
+    "input": "takkusu puranningu no minaoshi",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0130",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "所得税の基本",
+    "input": "shotoku zei no kihon",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0131",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "所得税の確認",
+    "input": "shotoku zei no kakunin",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0132",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "所得税の見直し",
+    "input": "shotoku zei no minaoshi",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0133",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "住民税の基本",
+    "input": "juumin zei no kihon",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0134",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "住民税の確認",
+    "input": "juumin zei no kakunin",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0135",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "住民税の見直し",
+    "input": "juumin zei no minaoshi",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0136",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "法人税の基本",
+    "input": "houjin zei no kihon",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0137",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "法人税の確認",
+    "input": "houjin zei no kakunin",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0138",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "法人税の見直し",
+    "input": "houjin zei no minaoshi",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0139",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "消費税の基本",
+    "input": "shouhi zei no kihon",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0140",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "消費税の確認",
+    "input": "shouhi zei no kakunin",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0141",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "消費税の見直し",
+    "input": "shouhi zei no minaoshi",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0142",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "相続税の基本",
+    "input": "souzoku zei no kihon",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0143",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "相続税の確認",
+    "input": "souzoku zei no kakunin",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0144",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "相続税の見直し",
+    "input": "souzoku zei no minaoshi",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0145",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "贈与税の基本",
+    "input": "zouyo zei no kihon",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0146",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "贈与税の確認",
+    "input": "zouyo zei no kakunin",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0147",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "贈与税の見直し",
+    "input": "zouyo zei no minaoshi",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0148",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "固定資産税の基本",
+    "input": "kotei shisan zei no kihon",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0149",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "固定資産税の確認",
+    "input": "kotei shisan zei no kakunin",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0150",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "固定資産税の見直し",
+    "input": "kotei shisan zei no minaoshi",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0151",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "所得の基本",
+    "input": "shotoku no kihon",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0152",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "所得の確認",
+    "input": "shotoku no kakunin",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0153",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "所得の見直し",
+    "input": "shotoku no minaoshi",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0154",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "収入の基本",
+    "input": "shuunyuu no kihon",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0155",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "収入の確認",
+    "input": "shuunyuu no kakunin",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0156",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "収入の見直し",
+    "input": "shuunyuu no minaoshi",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0157",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "必要経費の基本",
+    "input": "hitsuyou keihi no kihon",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0158",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "必要経費の確認",
+    "input": "hitsuyou keihi no kakunin",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0159",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "必要経費の見直し",
+    "input": "hitsuyou keihi no minaoshi",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0160",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "所得控除の基本",
+    "input": "shotoku koujo no kihon",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0161",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "所得控除の確認",
+    "input": "shotoku koujo no kakunin",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0162",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "所得控除の見直し",
+    "input": "shotoku koujo no minaoshi",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0163",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "税額控除の基本",
+    "input": "zeigaku koujo no kihon",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0164",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "税額控除の確認",
+    "input": "zeigaku koujo no kakunin",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0165",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "税額控除の見直し",
+    "input": "zeigaku koujo no minaoshi",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0166",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "課税所得の基本",
+    "input": "kazei shotoku no kihon",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0167",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "課税所得の確認",
+    "input": "kazei shotoku no kakunin",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0168",
+    "level": 2,
+    "category": "tax_planning",
+    "display": "課税所得の見直し",
+    "input": "kazei shotoku no minaoshi",
+    "tags": [
+      "tax_planning",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0169",
+    "level": 2,
+    "category": "real_estate",
+    "display": "不動産の基本",
+    "input": "fudousan no kihon",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0170",
+    "level": 2,
+    "category": "real_estate",
+    "display": "不動産の確認",
+    "input": "fudousan no kakunin",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0171",
+    "level": 2,
+    "category": "real_estate",
+    "display": "不動産の見直し",
+    "input": "fudousan no minaoshi",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0172",
+    "level": 2,
+    "category": "real_estate",
+    "display": "土地の基本",
+    "input": "tochi no kihon",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0173",
+    "level": 2,
+    "category": "real_estate",
+    "display": "土地の確認",
+    "input": "tochi no kakunin",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0174",
+    "level": 2,
+    "category": "real_estate",
+    "display": "土地の見直し",
+    "input": "tochi no minaoshi",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0175",
+    "level": 2,
+    "category": "real_estate",
+    "display": "建物の基本",
+    "input": "tatemono no kihon",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0176",
+    "level": 2,
+    "category": "real_estate",
+    "display": "建物の確認",
+    "input": "tatemono no kakunin",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0177",
+    "level": 2,
+    "category": "real_estate",
+    "display": "建物の見直し",
+    "input": "tatemono no minaoshi",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0178",
+    "level": 2,
+    "category": "real_estate",
+    "display": "宅地の基本",
+    "input": "takuchi no kihon",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0179",
+    "level": 2,
+    "category": "real_estate",
+    "display": "宅地の確認",
+    "input": "takuchi no kakunin",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0180",
+    "level": 2,
+    "category": "real_estate",
+    "display": "宅地の見直し",
+    "input": "takuchi no minaoshi",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0181",
+    "level": 2,
+    "category": "real_estate",
+    "display": "地目の基本",
+    "input": "chimoku no kihon",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0182",
+    "level": 2,
+    "category": "real_estate",
+    "display": "地目の確認",
+    "input": "chimoku no kakunin",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0183",
+    "level": 2,
+    "category": "real_estate",
+    "display": "地目の見直し",
+    "input": "chimoku no minaoshi",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0184",
+    "level": 2,
+    "category": "real_estate",
+    "display": "地積の基本",
+    "input": "chiseki no kihon",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0185",
+    "level": 2,
+    "category": "real_estate",
+    "display": "地積の確認",
+    "input": "chiseki no kakunin",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0186",
+    "level": 2,
+    "category": "real_estate",
+    "display": "地積の見直し",
+    "input": "chiseki no minaoshi",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0187",
+    "level": 2,
+    "category": "real_estate",
+    "display": "登記簿の基本",
+    "input": "toukibo no kihon",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0188",
+    "level": 2,
+    "category": "real_estate",
+    "display": "登記簿の確認",
+    "input": "toukibo no kakunin",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0189",
+    "level": 2,
+    "category": "real_estate",
+    "display": "登記簿の見直し",
+    "input": "toukibo no minaoshi",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0190",
+    "level": 2,
+    "category": "real_estate",
+    "display": "登記事項証明書の基本",
+    "input": "touki jikou shoumeisho no kihon",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0191",
+    "level": 2,
+    "category": "real_estate",
+    "display": "登記事項証明書の確認",
+    "input": "touki jikou shoumeisho no kakunin",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0192",
+    "level": 2,
+    "category": "real_estate",
+    "display": "登記事項証明書の見直し",
+    "input": "touki jikou shoumeisho no minaoshi",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0193",
+    "level": 2,
+    "category": "real_estate",
+    "display": "所有権の基本",
+    "input": "shoyuuken no kihon",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0194",
+    "level": 2,
+    "category": "real_estate",
+    "display": "所有権の確認",
+    "input": "shoyuuken no kakunin",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0195",
+    "level": 2,
+    "category": "real_estate",
+    "display": "所有権の見直し",
+    "input": "shoyuuken no minaoshi",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0196",
+    "level": 2,
+    "category": "real_estate",
+    "display": "抵当権の基本",
+    "input": "teitouken no kihon",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0197",
+    "level": 2,
+    "category": "real_estate",
+    "display": "抵当権の確認",
+    "input": "teitouken no kakunin",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0198",
+    "level": 2,
+    "category": "real_estate",
+    "display": "抵当権の見直し",
+    "input": "teitouken no minaoshi",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0199",
+    "level": 2,
+    "category": "real_estate",
+    "display": "借地権の基本",
+    "input": "shakuchiken no kihon",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0200",
+    "level": 2,
+    "category": "real_estate",
+    "display": "借地権の確認",
+    "input": "shakuchiken no kakunin",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0201",
+    "level": 2,
+    "category": "real_estate",
+    "display": "借地権の見直し",
+    "input": "shakuchiken no minaoshi",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0202",
+    "level": 2,
+    "category": "real_estate",
+    "display": "借家権の基本",
+    "input": "shakkaken no kihon",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0203",
+    "level": 2,
+    "category": "real_estate",
+    "display": "借家権の確認",
+    "input": "shakkaken no kakunin",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0204",
+    "level": 2,
+    "category": "real_estate",
+    "display": "借家権の見直し",
+    "input": "shakkaken no minaoshi",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0205",
+    "level": 2,
+    "category": "real_estate",
+    "display": "賃貸借契約の基本",
+    "input": "chintaishaku keiyaku no kihon",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0206",
+    "level": 2,
+    "category": "real_estate",
+    "display": "賃貸借契約の確認",
+    "input": "chintaishaku keiyaku no kakunin",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0207",
+    "level": 2,
+    "category": "real_estate",
+    "display": "賃貸借契約の見直し",
+    "input": "chintaishaku keiyaku no minaoshi",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0208",
+    "level": 2,
+    "category": "real_estate",
+    "display": "売買契約の基本",
+    "input": "baibai keiyaku no kihon",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0209",
+    "level": 2,
+    "category": "real_estate",
+    "display": "売買契約の確認",
+    "input": "baibai keiyaku no kakunin",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0210",
+    "level": 2,
+    "category": "real_estate",
+    "display": "売買契約の見直し",
+    "input": "baibai keiyaku no minaoshi",
+    "tags": [
+      "real_estate",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0211",
+    "level": 2,
+    "category": "inheritance",
+    "display": "相続の基本",
+    "input": "souzoku no kihon",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0212",
+    "level": 2,
+    "category": "inheritance",
+    "display": "相続の確認",
+    "input": "souzoku no kakunin",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0213",
+    "level": 2,
+    "category": "inheritance",
+    "display": "相続の見直し",
+    "input": "souzoku no minaoshi",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0214",
+    "level": 2,
+    "category": "inheritance",
+    "display": "贈与の基本",
+    "input": "zouyo no kihon",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0215",
+    "level": 2,
+    "category": "inheritance",
+    "display": "贈与の確認",
+    "input": "zouyo no kakunin",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0216",
+    "level": 2,
+    "category": "inheritance",
+    "display": "贈与の見直し",
+    "input": "zouyo no minaoshi",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0217",
+    "level": 2,
+    "category": "inheritance",
+    "display": "遺言の基本",
+    "input": "yuigon no kihon",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0218",
+    "level": 2,
+    "category": "inheritance",
+    "display": "遺言の確認",
+    "input": "yuigon no kakunin",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0219",
+    "level": 2,
+    "category": "inheritance",
+    "display": "遺言の見直し",
+    "input": "yuigon no minaoshi",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0220",
+    "level": 2,
+    "category": "inheritance",
+    "display": "遺産分割の基本",
+    "input": "isan bunkatsu no kihon",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0221",
+    "level": 2,
+    "category": "inheritance",
+    "display": "遺産分割の確認",
+    "input": "isan bunkatsu no kakunin",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0222",
+    "level": 2,
+    "category": "inheritance",
+    "display": "遺産分割の見直し",
+    "input": "isan bunkatsu no minaoshi",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0223",
+    "level": 2,
+    "category": "inheritance",
+    "display": "法定相続人の基本",
+    "input": "houtei souzokunin no kihon",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0224",
+    "level": 2,
+    "category": "inheritance",
+    "display": "法定相続人の確認",
+    "input": "houtei souzokunin no kakunin",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0225",
+    "level": 2,
+    "category": "inheritance",
+    "display": "法定相続人の見直し",
+    "input": "houtei souzokunin no minaoshi",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0226",
+    "level": 2,
+    "category": "inheritance",
+    "display": "推定相続人の基本",
+    "input": "suitei souzokunin no kihon",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0227",
+    "level": 2,
+    "category": "inheritance",
+    "display": "推定相続人の確認",
+    "input": "suitei souzokunin no kakunin",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0228",
+    "level": 2,
+    "category": "inheritance",
+    "display": "推定相続人の見直し",
+    "input": "suitei souzokunin no minaoshi",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0229",
+    "level": 2,
+    "category": "inheritance",
+    "display": "相続財産の基本",
+    "input": "souzoku zaisan no kihon",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0230",
+    "level": 2,
+    "category": "inheritance",
+    "display": "相続財産の確認",
+    "input": "souzoku zaisan no kakunin",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0231",
+    "level": 2,
+    "category": "inheritance",
+    "display": "相続財産の見直し",
+    "input": "souzoku zaisan no minaoshi",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0232",
+    "level": 2,
+    "category": "inheritance",
+    "display": "遺留分の基本",
+    "input": "iryubun no kihon",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0233",
+    "level": 2,
+    "category": "inheritance",
+    "display": "遺留分の確認",
+    "input": "iryubun no kakunin",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0234",
+    "level": 2,
+    "category": "inheritance",
+    "display": "遺留分の見直し",
+    "input": "iryubun no minaoshi",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0235",
+    "level": 2,
+    "category": "inheritance",
+    "display": "遺贈の基本",
+    "input": "izou no kihon",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0236",
+    "level": 2,
+    "category": "inheritance",
+    "display": "遺贈の確認",
+    "input": "izou no kakunin",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0237",
+    "level": 2,
+    "category": "inheritance",
+    "display": "遺贈の見直し",
+    "input": "izou no minaoshi",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0238",
+    "level": 2,
+    "category": "inheritance",
+    "display": "死因贈与の基本",
+    "input": "shiin zouyo no kihon",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0239",
+    "level": 2,
+    "category": "inheritance",
+    "display": "死因贈与の確認",
+    "input": "shiin zouyo no kakunin",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0240",
+    "level": 2,
+    "category": "inheritance",
+    "display": "死因贈与の見直し",
+    "input": "shiin zouyo no minaoshi",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0241",
+    "level": 2,
+    "category": "inheritance",
+    "display": "生前贈与の基本",
+    "input": "seizen zouyo no kihon",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0242",
+    "level": 2,
+    "category": "inheritance",
+    "display": "生前贈与の確認",
+    "input": "seizen zouyo no kakunin",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0243",
+    "level": 2,
+    "category": "inheritance",
+    "display": "生前贈与の見直し",
+    "input": "seizen zouyo no minaoshi",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0244",
+    "level": 2,
+    "category": "inheritance",
+    "display": "相続放棄の基本",
+    "input": "souzoku houki no kihon",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0245",
+    "level": 2,
+    "category": "inheritance",
+    "display": "相続放棄の確認",
+    "input": "souzoku houki no kakunin",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0246",
+    "level": 2,
+    "category": "inheritance",
+    "display": "相続放棄の見直し",
+    "input": "souzoku houki no minaoshi",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0247",
+    "level": 2,
+    "category": "inheritance",
+    "display": "限定承認の基本",
+    "input": "gentei shounin no kihon",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0248",
+    "level": 2,
+    "category": "inheritance",
+    "display": "限定承認の確認",
+    "input": "gentei shounin no kakunin",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0249",
+    "level": 2,
+    "category": "inheritance",
+    "display": "限定承認の見直し",
+    "input": "gentei shounin no minaoshi",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0250",
+    "level": 2,
+    "category": "inheritance",
+    "display": "単純承認の基本",
+    "input": "tanjun shounin no kihon",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0251",
+    "level": 2,
+    "category": "inheritance",
+    "display": "単純承認の確認",
+    "input": "tanjun shounin no kakunin",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  },
+  {
+    "id": "fp3_l2_0252",
+    "level": 2,
+    "category": "inheritance",
+    "display": "単純承認の見直し",
+    "input": "tanjun shounin no minaoshi",
+    "tags": [
+      "inheritance",
+      "compound"
+    ]
+  }
 ]

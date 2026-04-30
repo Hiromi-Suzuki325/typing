@@ -1,6 +1,3002 @@
 [
-  "apple",
-  "finance",
-  "money",
-  "saving"
+  {
+    "id": "fp3_l1_0001",
+    "level": 1,
+    "category": "life_planning",
+    "display": "ライフプラン",
+    "input": "raifu puran",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0002",
+    "level": 1,
+    "category": "life_planning",
+    "display": "ファイナンシャルプランナー",
+    "input": "fainansharu puranna",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0003",
+    "level": 1,
+    "category": "life_planning",
+    "display": "資金計画",
+    "input": "shikin keikaku",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0004",
+    "level": 1,
+    "category": "life_planning",
+    "display": "キャッシュフロー表",
+    "input": "kyasshu furo hyou",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0005",
+    "level": 1,
+    "category": "life_planning",
+    "display": "バランスシート",
+    "input": "baransu shito",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0006",
+    "level": 1,
+    "category": "life_planning",
+    "display": "可処分所得",
+    "input": "kashobun shotoku",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0007",
+    "level": 1,
+    "category": "life_planning",
+    "display": "ライフイベント表",
+    "input": "raifu ibento hyou",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0008",
+    "level": 1,
+    "category": "life_planning",
+    "display": "教育資金",
+    "input": "kyouiku shikin",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0009",
+    "level": 1,
+    "category": "life_planning",
+    "display": "住宅資金",
+    "input": "juutaku shikin",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0010",
+    "level": 1,
+    "category": "life_planning",
+    "display": "老後資金",
+    "input": "rougo shikin",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0011",
+    "level": 1,
+    "category": "life_planning",
+    "display": "公的年金",
+    "input": "kouteki nenkin",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0012",
+    "level": 1,
+    "category": "life_planning",
+    "display": "厚生年金",
+    "input": "kousei nenkin",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0013",
+    "level": 1,
+    "category": "life_planning",
+    "display": "国民年金",
+    "input": "kokumin nenkin",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0014",
+    "level": 1,
+    "category": "life_planning",
+    "display": "企業年金",
+    "input": "kigyou nenkin",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0015",
+    "level": 1,
+    "category": "life_planning",
+    "display": "個人年金",
+    "input": "kojin nenkin",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0016",
+    "level": 1,
+    "category": "life_planning",
+    "display": "退職給付",
+    "input": "taishoku kyuufu",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0017",
+    "level": 1,
+    "category": "life_planning",
+    "display": "雇用保険",
+    "input": "koyou hoken",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0018",
+    "level": 1,
+    "category": "life_planning",
+    "display": "労災保険",
+    "input": "rousai hoken",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0019",
+    "level": 1,
+    "category": "life_planning",
+    "display": "健康保険",
+    "input": "kenkou hoken",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0020",
+    "level": 1,
+    "category": "life_planning",
+    "display": "介護保険",
+    "input": "kaigo hoken",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0021",
+    "level": 1,
+    "category": "life_planning",
+    "display": "公的医療保険",
+    "input": "kouteki iryou hoken",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0022",
+    "level": 1,
+    "category": "life_planning",
+    "display": "後期高齢者医療",
+    "input": "kouki koureisha iryou",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0023",
+    "level": 1,
+    "category": "life_planning",
+    "display": "奨学金",
+    "input": "shougakukin",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0024",
+    "level": 1,
+    "category": "life_planning",
+    "display": "教育ローン",
+    "input": "kyouiku ron",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0025",
+    "level": 1,
+    "category": "life_planning",
+    "display": "住宅ローン",
+    "input": "juutaku ron",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0026",
+    "level": 1,
+    "category": "life_planning",
+    "display": "繰上返済",
+    "input": "kuriage hensai",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0027",
+    "level": 1,
+    "category": "life_planning",
+    "display": "固定金利",
+    "input": "kotei kinri",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0028",
+    "level": 1,
+    "category": "life_planning",
+    "display": "変動金利",
+    "input": "hendou kinri",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0029",
+    "level": 1,
+    "category": "life_planning",
+    "display": "元利均等返済",
+    "input": "ganri kintou hensai",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0030",
+    "level": 1,
+    "category": "life_planning",
+    "display": "元金均等返済",
+    "input": "gankin kintou hensai",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0031",
+    "level": 1,
+    "category": "life_planning",
+    "display": "団体信用生命保険",
+    "input": "dantai shinyou seimei hoken",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0032",
+    "level": 1,
+    "category": "life_planning",
+    "display": "財形貯蓄",
+    "input": "zaikei chochiku",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0033",
+    "level": 1,
+    "category": "life_planning",
+    "display": "確定拠出年金",
+    "input": "kakutei kyoshutsu nenkin",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0034",
+    "level": 1,
+    "category": "life_planning",
+    "display": "確定給付企業年金",
+    "input": "kakutei kyuufu kigyou nenkin",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0035",
+    "level": 1,
+    "category": "life_planning",
+    "display": "付加年金",
+    "input": "fuka nenkin",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0036",
+    "level": 1,
+    "category": "life_planning",
+    "display": "任意加入",
+    "input": "nini kanyuu",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0037",
+    "level": 1,
+    "category": "life_planning",
+    "display": "老齢給付",
+    "input": "rourei kyuufu",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0038",
+    "level": 1,
+    "category": "life_planning",
+    "display": "障害給付",
+    "input": "shougai kyuufu",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0039",
+    "level": 1,
+    "category": "life_planning",
+    "display": "遺族給付",
+    "input": "izoku kyuufu",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0040",
+    "level": 1,
+    "category": "life_planning",
+    "display": "被保険者",
+    "input": "hihokensha",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0041",
+    "level": 1,
+    "category": "life_planning",
+    "display": "保険料免除",
+    "input": "hokenryou menjo",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0042",
+    "level": 1,
+    "category": "life_planning",
+    "display": "受給資格",
+    "input": "jukyuu shikaku",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0043",
+    "level": 1,
+    "category": "life_planning",
+    "display": "在職老齢年金",
+    "input": "zaishoku rourei nenkin",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0044",
+    "level": 1,
+    "category": "life_planning",
+    "display": "高年齢雇用継続",
+    "input": "kourei koyou keizoku",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0045",
+    "level": 1,
+    "category": "life_planning",
+    "display": "基本手当",
+    "input": "kihon teate",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0046",
+    "level": 1,
+    "category": "life_planning",
+    "display": "育児休業給付",
+    "input": "ikuji kyuugyou kyuufu",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0047",
+    "level": 1,
+    "category": "life_planning",
+    "display": "介護休業給付",
+    "input": "kaigo kyuugyou kyuufu",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0048",
+    "level": 1,
+    "category": "life_planning",
+    "display": "ライフデザイン",
+    "input": "raifu dezain",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0049",
+    "level": 1,
+    "category": "life_planning",
+    "display": "リタイアメントプラン",
+    "input": "ritaiamento puran",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0050",
+    "level": 1,
+    "category": "life_planning",
+    "display": "社会保険",
+    "input": "shakai hoken",
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0051",
+    "level": 1,
+    "category": "risk_management",
+    "display": "リスク管理",
+    "input": "risuku kanri",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0052",
+    "level": 1,
+    "category": "risk_management",
+    "display": "生命保険",
+    "input": "seimei hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0053",
+    "level": 1,
+    "category": "risk_management",
+    "display": "損害保険",
+    "input": "songai hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0054",
+    "level": 1,
+    "category": "risk_management",
+    "display": "第三分野保険",
+    "input": "daisan bunya hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0055",
+    "level": 1,
+    "category": "risk_management",
+    "display": "定期保険",
+    "input": "teiki hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0056",
+    "level": 1,
+    "category": "risk_management",
+    "display": "終身保険",
+    "input": "shuushin hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0057",
+    "level": 1,
+    "category": "risk_management",
+    "display": "養老保険",
+    "input": "yourou hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0058",
+    "level": 1,
+    "category": "risk_management",
+    "display": "医療保険",
+    "input": "iryou hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0059",
+    "level": 1,
+    "category": "risk_management",
+    "display": "がん保険",
+    "input": "gan hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0060",
+    "level": 1,
+    "category": "risk_management",
+    "display": "介護保険",
+    "input": "kaigo hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0061",
+    "level": 1,
+    "category": "risk_management",
+    "display": "個人年金保険",
+    "input": "kojin nenkin hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0062",
+    "level": 1,
+    "category": "risk_management",
+    "display": "収入保障保険",
+    "input": "shuunyuu hoshou hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0063",
+    "level": 1,
+    "category": "risk_management",
+    "display": "学資保険",
+    "input": "gakushi hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0064",
+    "level": 1,
+    "category": "risk_management",
+    "display": "火災保険",
+    "input": "kasai hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0065",
+    "level": 1,
+    "category": "risk_management",
+    "display": "地震保険",
+    "input": "jishin hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0066",
+    "level": 1,
+    "category": "risk_management",
+    "display": "自動車保険",
+    "input": "jidousha hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0067",
+    "level": 1,
+    "category": "risk_management",
+    "display": "傷害保険",
+    "input": "shougai hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0068",
+    "level": 1,
+    "category": "risk_management",
+    "display": "賠償責任保険",
+    "input": "baishou sekinin hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0069",
+    "level": 1,
+    "category": "risk_management",
+    "display": "保険契約者",
+    "input": "hoken keiyakusha",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0070",
+    "level": 1,
+    "category": "risk_management",
+    "display": "被保険者",
+    "input": "hihokensha",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0071",
+    "level": 1,
+    "category": "risk_management",
+    "display": "保険金受取人",
+    "input": "hokenkin uketorinin",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0072",
+    "level": 1,
+    "category": "risk_management",
+    "display": "保険料",
+    "input": "hokenryou",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0073",
+    "level": 1,
+    "category": "risk_management",
+    "display": "保険金",
+    "input": "hokenkin",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0074",
+    "level": 1,
+    "category": "risk_management",
+    "display": "解約返戻金",
+    "input": "kaiyaku henreikin",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0075",
+    "level": 1,
+    "category": "risk_management",
+    "display": "告知義務",
+    "input": "kokuchi gimu",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0076",
+    "level": 1,
+    "category": "risk_management",
+    "display": "免責",
+    "input": "menseki",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0077",
+    "level": 1,
+    "category": "risk_management",
+    "display": "約款",
+    "input": "yakkan",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0078",
+    "level": 1,
+    "category": "risk_management",
+    "display": "契約者貸付",
+    "input": "keiyakusha kashitsuke",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0079",
+    "level": 1,
+    "category": "risk_management",
+    "display": "クーリングオフ",
+    "input": "kuringu ofu",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0080",
+    "level": 1,
+    "category": "risk_management",
+    "display": "予定利率",
+    "input": "yotei riritsu",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0081",
+    "level": 1,
+    "category": "risk_management",
+    "display": "配当金",
+    "input": "haitoukin",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0082",
+    "level": 1,
+    "category": "risk_management",
+    "display": "主契約",
+    "input": "shu keiyaku",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0083",
+    "level": 1,
+    "category": "risk_management",
+    "display": "特約",
+    "input": "tokuyaku",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0084",
+    "level": 1,
+    "category": "risk_management",
+    "display": "払込期間",
+    "input": "haraikomi kikan",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0085",
+    "level": 1,
+    "category": "risk_management",
+    "display": "保険期間",
+    "input": "hoken kikan",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0086",
+    "level": 1,
+    "category": "risk_management",
+    "display": "更新型",
+    "input": "koushin gata",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0087",
+    "level": 1,
+    "category": "risk_management",
+    "display": "全期型",
+    "input": "zenki gata",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0088",
+    "level": 1,
+    "category": "risk_management",
+    "display": "告知",
+    "input": "kokuchi",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0089",
+    "level": 1,
+    "category": "risk_management",
+    "display": "診査",
+    "input": "shinsa",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0090",
+    "level": 1,
+    "category": "risk_management",
+    "display": "保険証券",
+    "input": "hoken shouken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0091",
+    "level": 1,
+    "category": "risk_management",
+    "display": "契約転換",
+    "input": "keiyaku tenkan",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0092",
+    "level": 1,
+    "category": "risk_management",
+    "display": "減額",
+    "input": "gengaku",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0093",
+    "level": 1,
+    "category": "risk_management",
+    "display": "払済保険",
+    "input": "haraizumi hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0094",
+    "level": 1,
+    "category": "risk_management",
+    "display": "延長保険",
+    "input": "enchou hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0095",
+    "level": 1,
+    "category": "risk_management",
+    "display": "自動振替貸付",
+    "input": "jidou furikae kashitsuke",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0096",
+    "level": 1,
+    "category": "risk_management",
+    "display": "失効",
+    "input": "shikkou",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0097",
+    "level": 1,
+    "category": "risk_management",
+    "display": "復活",
+    "input": "fukkatsu",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0098",
+    "level": 1,
+    "category": "risk_management",
+    "display": "ソルベンシーマージン",
+    "input": "sorubenshi majin",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0099",
+    "level": 1,
+    "category": "risk_management",
+    "display": "少額短期保険",
+    "input": "shougaku tanki hoken",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0100",
+    "level": 1,
+    "category": "risk_management",
+    "display": "リスク移転",
+    "input": "risuku iten",
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_0101",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "金融資産運用",
+    "input": "kinyuu shisan unyou",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0102",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "預貯金",
+    "input": "yochokin",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0103",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "普通預金",
+    "input": "futsuu yokin",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0104",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "定期預金",
+    "input": "teiki yokin",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0105",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "外貨預金",
+    "input": "gaika yokin",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0106",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "金利",
+    "input": "kinri",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0107",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "利回り",
+    "input": "rimawari",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0108",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "単利",
+    "input": "tanri",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0109",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "複利",
+    "input": "fukuri",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0110",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "債券",
+    "input": "saiken",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0111",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "国債",
+    "input": "kokusai",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0112",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "社債",
+    "input": "shasai",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0113",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "株式",
+    "input": "kabushiki",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0114",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "投資信託",
+    "input": "toushi shintaku",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0115",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "上場投資信託",
+    "input": "joujou toushi shintaku",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0116",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "不動産投資信託",
+    "input": "fudousan toushi shintaku",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0117",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "分配金",
+    "input": "bunpaikin",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0118",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "配当金",
+    "input": "haitoukin",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0119",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "売却益",
+    "input": "baikyaku eki",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0120",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "キャピタルゲイン",
+    "input": "kyapitaru gein",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0121",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "インカムゲイン",
+    "input": "inkamu gein",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0122",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "ポートフォリオ",
+    "input": "potoforio",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0123",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "アセットアロケーション",
+    "input": "asetto arokeishon",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0124",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "分散投資",
+    "input": "bunsan toushi",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0125",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "リスク",
+    "input": "risuku",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0126",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "リターン",
+    "input": "ritan",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0127",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "流動性",
+    "input": "ryuudousei",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0128",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "信用リスク",
+    "input": "shinyou risuku",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0129",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "価格変動リスク",
+    "input": "kakaku hendou risuku",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0130",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "為替リスク",
+    "input": "kawase risuku",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0131",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "金利変動リスク",
+    "input": "kinri hendou risuku",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0132",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "インフレーション",
+    "input": "infureshon",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0133",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "デフレーション",
+    "input": "defureshon",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0134",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "景気動向",
+    "input": "keiki doukou",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0135",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "経済指標",
+    "input": "keizai shihyou",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0136",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "金融政策",
+    "input": "kinyuu seisaku",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0137",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "財政政策",
+    "input": "zaisei seisaku",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0138",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "日経平均株価",
+    "input": "nikkei heikin kabuka",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0139",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "東証株価指数",
+    "input": "toushou kabuka shisuu",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0140",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "円高",
+    "input": "endaka",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0141",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "円安",
+    "input": "enyasu",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0142",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "為替相場",
+    "input": "kawase souba",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0143",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "指値注文",
+    "input": "sashine chuumon",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0144",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "成行注文",
+    "input": "nariyuki chuumon",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0145",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "目論見書",
+    "input": "mokuromisho",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0146",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "基準価額",
+    "input": "kijun kagaku",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0147",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "信託報酬",
+    "input": "shintaku houshuu",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0148",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "短期金融商品",
+    "input": "tanki kinyuu shouhin",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0149",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "上場株式",
+    "input": "joujou kabushiki",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0150",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "証券会社",
+    "input": "shouken gaisha",
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_0151",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "タックスプランニング",
+    "input": "takkusu puranningu",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0152",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "所得税",
+    "input": "shotoku zei",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0153",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "住民税",
+    "input": "juumin zei",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0154",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "法人税",
+    "input": "houjin zei",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0155",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "消費税",
+    "input": "shouhi zei",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0156",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "相続税",
+    "input": "souzoku zei",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0157",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "贈与税",
+    "input": "zouyo zei",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0158",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "固定資産税",
+    "input": "kotei shisan zei",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0159",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "所得",
+    "input": "shotoku",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0160",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "収入",
+    "input": "shuunyuu",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0161",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "必要経費",
+    "input": "hitsuyou keihi",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0162",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "所得控除",
+    "input": "shotoku koujo",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0163",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "税額控除",
+    "input": "zeigaku koujo",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0164",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "課税所得",
+    "input": "kazei shotoku",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0165",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "確定申告",
+    "input": "kakutei shinkoku",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0166",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "源泉徴収",
+    "input": "gensen choushuu",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0167",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "年末調整",
+    "input": "nenmatsu chousei",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0168",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "青色申告",
+    "input": "aoiro shinkoku",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0169",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "白色申告",
+    "input": "shiroiro shinkoku",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0170",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "給与所得",
+    "input": "kyuuyo shotoku",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0171",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "事業所得",
+    "input": "jigyou shotoku",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0172",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "不動産所得",
+    "input": "fudousan shotoku",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0173",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "利子所得",
+    "input": "rishi shotoku",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0174",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "配当所得",
+    "input": "haitou shotoku",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0175",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "退職所得",
+    "input": "taishoku shotoku",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0176",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "譲渡所得",
+    "input": "jouto shotoku",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0177",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "一時所得",
+    "input": "ichiji shotoku",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0178",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "雑所得",
+    "input": "zatsu shotoku",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0179",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "総合課税",
+    "input": "sougou kazei",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0180",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "分離課税",
+    "input": "bunri kazei",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0181",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "損益通算",
+    "input": "soneki tsuusan",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0182",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "繰越控除",
+    "input": "kurikoshi koujo",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0183",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "医療費控除",
+    "input": "iryouhi koujo",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0184",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "社会保険料控除",
+    "input": "shakai hokenryou koujo",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0185",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "生命保険料控除",
+    "input": "seimei hokenryou koujo",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0186",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "地震保険料控除",
+    "input": "jishin hokenryou koujo",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0187",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "配偶者控除",
+    "input": "haiguusha koujo",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0188",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "扶養控除",
+    "input": "fuyou koujo",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0189",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "基礎控除",
+    "input": "kiso koujo",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0190",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "寄附金控除",
+    "input": "kifukin koujo",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0191",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "住宅ローン控除",
+    "input": "juutaku ron koujo",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0192",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "源泉徴収票",
+    "input": "gensen choushuuhyou",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0193",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "確定申告書",
+    "input": "kakutei shinkokusho",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0194",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "税務署",
+    "input": "zeimusho",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0195",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "納税",
+    "input": "nouzei",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0196",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "還付",
+    "input": "kanpu",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0197",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "予定納税",
+    "input": "yotei nouzei",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0198",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "申告納税",
+    "input": "shinkoku nouzei",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0199",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "賦課課税",
+    "input": "fuka kazei",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0200",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "課税標準",
+    "input": "kazei hyoujun",
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_0201",
+    "level": 1,
+    "category": "real_estate",
+    "display": "不動産",
+    "input": "fudousan",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0202",
+    "level": 1,
+    "category": "real_estate",
+    "display": "土地",
+    "input": "tochi",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0203",
+    "level": 1,
+    "category": "real_estate",
+    "display": "建物",
+    "input": "tatemono",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0204",
+    "level": 1,
+    "category": "real_estate",
+    "display": "宅地",
+    "input": "takuchi",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0205",
+    "level": 1,
+    "category": "real_estate",
+    "display": "地目",
+    "input": "chimoku",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0206",
+    "level": 1,
+    "category": "real_estate",
+    "display": "地積",
+    "input": "chiseki",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0207",
+    "level": 1,
+    "category": "real_estate",
+    "display": "登記簿",
+    "input": "toukibo",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0208",
+    "level": 1,
+    "category": "real_estate",
+    "display": "登記事項証明書",
+    "input": "touki jikou shoumeisho",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0209",
+    "level": 1,
+    "category": "real_estate",
+    "display": "所有権",
+    "input": "shoyuuken",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0210",
+    "level": 1,
+    "category": "real_estate",
+    "display": "抵当権",
+    "input": "teitouken",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0211",
+    "level": 1,
+    "category": "real_estate",
+    "display": "借地権",
+    "input": "shakuchiken",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0212",
+    "level": 1,
+    "category": "real_estate",
+    "display": "借家権",
+    "input": "shakkaken",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0213",
+    "level": 1,
+    "category": "real_estate",
+    "display": "賃貸借契約",
+    "input": "chintaishaku keiyaku",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0214",
+    "level": 1,
+    "category": "real_estate",
+    "display": "売買契約",
+    "input": "baibai keiyaku",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0215",
+    "level": 1,
+    "category": "real_estate",
+    "display": "重要事項説明",
+    "input": "juuyou jikou setsumei",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0216",
+    "level": 1,
+    "category": "real_estate",
+    "display": "宅地建物取引士",
+    "input": "takuchi tatemono torihikishi",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0217",
+    "level": 1,
+    "category": "real_estate",
+    "display": "不動産広告",
+    "input": "fudousan koukoku",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0218",
+    "level": 1,
+    "category": "real_estate",
+    "display": "建ぺい率",
+    "input": "kenpei ritsu",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0219",
+    "level": 1,
+    "category": "real_estate",
+    "display": "容積率",
+    "input": "youseki ritsu",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0220",
+    "level": 1,
+    "category": "real_estate",
+    "display": "用途地域",
+    "input": "youto chiiki",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0221",
+    "level": 1,
+    "category": "real_estate",
+    "display": "都市計画区域",
+    "input": "toshi keikaku kuiki",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0222",
+    "level": 1,
+    "category": "real_estate",
+    "display": "市街化区域",
+    "input": "shigaika kuiki",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0223",
+    "level": 1,
+    "category": "real_estate",
+    "display": "市街化調整区域",
+    "input": "shigaika chousei kuiki",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0224",
+    "level": 1,
+    "category": "real_estate",
+    "display": "接道義務",
+    "input": "setsudou gimu",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0225",
+    "level": 1,
+    "category": "real_estate",
+    "display": "建築確認",
+    "input": "kenchiku kakunin",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0226",
+    "level": 1,
+    "category": "real_estate",
+    "display": "固定資産税評価額",
+    "input": "kotei shisan zei hyoukagaku",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0227",
+    "level": 1,
+    "category": "real_estate",
+    "display": "公示価格",
+    "input": "kouji kakaku",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0228",
+    "level": 1,
+    "category": "real_estate",
+    "display": "基準地標準価格",
+    "input": "kijunchi hyoujun kakaku",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0229",
+    "level": 1,
+    "category": "real_estate",
+    "display": "路線価",
+    "input": "rosenka",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0230",
+    "level": 1,
+    "category": "real_estate",
+    "display": "鑑定評価",
+    "input": "kantei hyouka",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0231",
+    "level": 1,
+    "category": "real_estate",
+    "display": "取引事例比較法",
+    "input": "torihiki jirei hikaku hou",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0232",
+    "level": 1,
+    "category": "real_estate",
+    "display": "原価法",
+    "input": "genka hou",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0233",
+    "level": 1,
+    "category": "real_estate",
+    "display": "収益還元法",
+    "input": "shuueki kangen hou",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0234",
+    "level": 1,
+    "category": "real_estate",
+    "display": "不動産所得",
+    "input": "fudousan shotoku",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0235",
+    "level": 1,
+    "category": "real_estate",
+    "display": "管理費",
+    "input": "kanrihi",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0236",
+    "level": 1,
+    "category": "real_estate",
+    "display": "修繕積立金",
+    "input": "shuuzen tsumitatekin",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0237",
+    "level": 1,
+    "category": "real_estate",
+    "display": "敷金",
+    "input": "shikikin",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0238",
+    "level": 1,
+    "category": "real_estate",
+    "display": "礼金",
+    "input": "reikin",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0239",
+    "level": 1,
+    "category": "real_estate",
+    "display": "更新料",
+    "input": "koushinryou",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0240",
+    "level": 1,
+    "category": "real_estate",
+    "display": "借地借家法",
+    "input": "shakuchi shakka hou",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0241",
+    "level": 1,
+    "category": "real_estate",
+    "display": "区分所有法",
+    "input": "kubun shoyuu hou",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0242",
+    "level": 1,
+    "category": "real_estate",
+    "display": "マンション管理",
+    "input": "manshon kanri",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0243",
+    "level": 1,
+    "category": "real_estate",
+    "display": "専有部分",
+    "input": "senyuu bubun",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0244",
+    "level": 1,
+    "category": "real_estate",
+    "display": "共用部分",
+    "input": "kyouyou bubun",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0245",
+    "level": 1,
+    "category": "real_estate",
+    "display": "抵当権設定",
+    "input": "teitouken settei",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0246",
+    "level": 1,
+    "category": "real_estate",
+    "display": "所有権移転登記",
+    "input": "shoyuuken iten touki",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0247",
+    "level": 1,
+    "category": "real_estate",
+    "display": "不動産取得税",
+    "input": "fudousan shutoku zei",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0248",
+    "level": 1,
+    "category": "real_estate",
+    "display": "登録免許税",
+    "input": "touroku menkyo zei",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0249",
+    "level": 1,
+    "category": "real_estate",
+    "display": "譲渡所得",
+    "input": "jouto shotoku",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0250",
+    "level": 1,
+    "category": "real_estate",
+    "display": "空き家",
+    "input": "akiya",
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_0251",
+    "level": 1,
+    "category": "inheritance",
+    "display": "相続",
+    "input": "souzoku",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0252",
+    "level": 1,
+    "category": "inheritance",
+    "display": "贈与",
+    "input": "zouyo",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0253",
+    "level": 1,
+    "category": "inheritance",
+    "display": "遺言",
+    "input": "yuigon",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0254",
+    "level": 1,
+    "category": "inheritance",
+    "display": "遺産分割",
+    "input": "isan bunkatsu",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0255",
+    "level": 1,
+    "category": "inheritance",
+    "display": "法定相続人",
+    "input": "houtei souzokunin",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0256",
+    "level": 1,
+    "category": "inheritance",
+    "display": "推定相続人",
+    "input": "suitei souzokunin",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0257",
+    "level": 1,
+    "category": "inheritance",
+    "display": "相続財産",
+    "input": "souzoku zaisan",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0258",
+    "level": 1,
+    "category": "inheritance",
+    "display": "遺留分",
+    "input": "iryubun",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0259",
+    "level": 1,
+    "category": "inheritance",
+    "display": "遺贈",
+    "input": "izou",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0260",
+    "level": 1,
+    "category": "inheritance",
+    "display": "死因贈与",
+    "input": "shiin zouyo",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0261",
+    "level": 1,
+    "category": "inheritance",
+    "display": "生前贈与",
+    "input": "seizen zouyo",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0262",
+    "level": 1,
+    "category": "inheritance",
+    "display": "相続放棄",
+    "input": "souzoku houki",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0263",
+    "level": 1,
+    "category": "inheritance",
+    "display": "限定承認",
+    "input": "gentei shounin",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0264",
+    "level": 1,
+    "category": "inheritance",
+    "display": "単純承認",
+    "input": "tanjun shounin",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0265",
+    "level": 1,
+    "category": "inheritance",
+    "display": "代襲相続",
+    "input": "daishuu souzoku",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0266",
+    "level": 1,
+    "category": "inheritance",
+    "display": "配偶者",
+    "input": "haiguusha",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0267",
+    "level": 1,
+    "category": "inheritance",
+    "display": "直系尊属",
+    "input": "chokkei sonzoku",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0268",
+    "level": 1,
+    "category": "inheritance",
+    "display": "直系卑属",
+    "input": "chokkei hizoku",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0269",
+    "level": 1,
+    "category": "inheritance",
+    "display": "兄弟姉妹",
+    "input": "kyoudai shimai",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0270",
+    "level": 1,
+    "category": "inheritance",
+    "display": "親族",
+    "input": "shinzoku",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0271",
+    "level": 1,
+    "category": "inheritance",
+    "display": "戸籍",
+    "input": "koseki",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0272",
+    "level": 1,
+    "category": "inheritance",
+    "display": "遺言書",
+    "input": "yuigonsho",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0273",
+    "level": 1,
+    "category": "inheritance",
+    "display": "自筆証書遺言",
+    "input": "jihitsu shousho yuigon",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0274",
+    "level": 1,
+    "category": "inheritance",
+    "display": "公正証書遺言",
+    "input": "kousei shousho yuigon",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0275",
+    "level": 1,
+    "category": "inheritance",
+    "display": "秘密証書遺言",
+    "input": "himitsu shousho yuigon",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0276",
+    "level": 1,
+    "category": "inheritance",
+    "display": "検認",
+    "input": "kennin",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0277",
+    "level": 1,
+    "category": "inheritance",
+    "display": "遺言執行者",
+    "input": "yuigon shikkousha",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0278",
+    "level": 1,
+    "category": "inheritance",
+    "display": "遺産分割協議",
+    "input": "isan bunkatsu kyougi",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0279",
+    "level": 1,
+    "category": "inheritance",
+    "display": "遺産分割協議書",
+    "input": "isan bunkatsu kyougisho",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0280",
+    "level": 1,
+    "category": "inheritance",
+    "display": "寄与分",
+    "input": "kiyobun",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0281",
+    "level": 1,
+    "category": "inheritance",
+    "display": "特別受益",
+    "input": "tokubetsu jueki",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0282",
+    "level": 1,
+    "category": "inheritance",
+    "display": "遺産評価",
+    "input": "isan hyouka",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0283",
+    "level": 1,
+    "category": "inheritance",
+    "display": "小規模宅地",
+    "input": "shoukibo takuchi",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0284",
+    "level": 1,
+    "category": "inheritance",
+    "display": "生命保険金",
+    "input": "seimei hokenkin",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0285",
+    "level": 1,
+    "category": "inheritance",
+    "display": "死亡退職金",
+    "input": "shibou taishokukin",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0286",
+    "level": 1,
+    "category": "inheritance",
+    "display": "債務控除",
+    "input": "saimu koujo",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0287",
+    "level": 1,
+    "category": "inheritance",
+    "display": "葬式費用",
+    "input": "soushiki hiyou",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0288",
+    "level": 1,
+    "category": "inheritance",
+    "display": "贈与契約",
+    "input": "zouyo keiyaku",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0289",
+    "level": 1,
+    "category": "inheritance",
+    "display": "暦年贈与",
+    "input": "rekinen zouyo",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0290",
+    "level": 1,
+    "category": "inheritance",
+    "display": "相続時精算課税",
+    "input": "souzokuji seisan kazei",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0291",
+    "level": 1,
+    "category": "inheritance",
+    "display": "事業承継",
+    "input": "jigyou shoukei",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0292",
+    "level": 1,
+    "category": "inheritance",
+    "display": "後継者",
+    "input": "koukeisha",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0293",
+    "level": 1,
+    "category": "inheritance",
+    "display": "自社株",
+    "input": "jishakabu",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0294",
+    "level": 1,
+    "category": "inheritance",
+    "display": "株式評価",
+    "input": "kabushiki hyouka",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0295",
+    "level": 1,
+    "category": "inheritance",
+    "display": "取引相場",
+    "input": "torihiki souba",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0296",
+    "level": 1,
+    "category": "inheritance",
+    "display": "類似業種比準",
+    "input": "ruiji gyoushu hijun",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0297",
+    "level": 1,
+    "category": "inheritance",
+    "display": "純資産価額",
+    "input": "junshisan kagaku",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0298",
+    "level": 1,
+    "category": "inheritance",
+    "display": "遺産目録",
+    "input": "isan mokuroku",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0299",
+    "level": 1,
+    "category": "inheritance",
+    "display": "財産管理",
+    "input": "zaisan kanri",
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_0300",
+    "level": 1,
+    "category": "inheritance",
+    "display": "成年後見",
+    "input": "seinen kouken",
+    "tags": [
+      "inheritance"
+    ]
+  }
 ]

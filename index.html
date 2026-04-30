@@ -4,22 +4,33 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Typing Practice</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style.css?v=fp3-20260430" />
   </head>
   <body>
     <div id="app">
       <div id="start-screen" class="screen">
+        <p class="eyebrow">Focus typing trainer</p>
         <h1>Typing Practice</h1>
-        <div id="difficulty-select">
-          <label
-            ><input type="radio" name="difficulty" value="1" checked />
-            初級</label
-          >
-          <label><input type="radio" name="difficulty" value="2" /> 中級</label>
-          <label><input type="radio" name="difficulty" value="3" /> 上級</label>
-          <label><input type="radio" name="difficulty" value="4" /> 達人</label>
+        <p class="lead">難易度を選び、1分間だけ入力に集中します。</p>
+        <div id="difficulty-select" aria-label="難易度選択">
+          <label>
+            <input type="radio" name="difficulty" value="1" checked />
+            <span>初級</span>
+          </label>
+          <label>
+            <input type="radio" name="difficulty" value="2" />
+            <span>中級</span>
+          </label>
+          <label>
+            <input type="radio" name="difficulty" value="3" />
+            <span>上級</span>
+          </label>
+          <label>
+            <input type="radio" name="difficulty" value="4" />
+            <span>達人</span>
+          </label>
         </div>
-        <p class="message">スペースキーをおしてスタート</p>
+        <p class="message" aria-live="polite"><kbd>Space</kbd> をおしてスタート</p>
       </div>
 
       <div id="countdown-screen" class="screen hidden">
@@ -27,10 +38,29 @@
       </div>
 
       <div id="typing-screen" class="screen hidden">
-        <div id="info">
-          <span id="timer">0.0</span>s <span id="score">0</span>pt
+        <div id="info" aria-live="polite">
+          <div class="metric">
+            <span class="metric-label">Time</span>
+            <span><span id="timer">0.0</span>s</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Score</span>
+            <span><span id="score">0</span>pt</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Level</span>
+            <span id="active-level">初級</span>
+          </div>
         </div>
-        <div id="question"></div>
+        <div id="prompt-panel">
+          <span id="question-category">FP3級</span>
+          <p id="question-display">問題を読み込み中</p>
+        </div>
+        <div id="progress" aria-hidden="true">
+          <div id="progress-bar"></div>
+        </div>
+        <div id="question" aria-live="polite"></div>
+        <p id="next-key">Next: <span>-</span></p>
       </div>
 
       <div id="result-screen" class="screen hidden">
@@ -101,6 +131,6 @@
       </div>
     </div>
 
-    <script src="script.js"></script>
+    <script src="script.js?v=fp3-20260430"></script>
   </body>
 </html>
