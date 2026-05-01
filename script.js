@@ -1,8 +1,14 @@
+import { buildLatticeFromTokens } from "./engine/buildLattice.js";
+import { TypingMachine } from "./engine/typingMachine.js";
+
 let questions = [];
 let currentQuestion = null;
-let currentInput = "";
-let currentIndex = 0;
+let currentLattice = [];
+let machine = null;
+let pastInput = [];
 let score = 0;
+let totalChars = 0;
+let totalMistypes = 0;
 let startTime;
 let timerInterval;
 let isComposing = false;
@@ -17,7 +23,6 @@ const LEVEL_LABELS = {
   3: "上級",
   4: "達人",
 };
-
 const startScreen = document.getElementById("start-screen");
 const countdownScreen = document.getElementById("countdown-screen");
 const typingScreen = document.getElementById("typing-screen");
@@ -27,9 +32,11 @@ const questionEl = document.getElementById("question");
 const timerEl = document.getElementById("timer");
 const scoreEl = document.getElementById("score");
 const finalScoreEl = document.getElementById("final-score");
+const finalCharsEl = document.getElementById("final-chars");
+const finalSpeedEl = document.getElementById("final-speed");
+const finalMistypeRateEl = document.getElementById("final-mistype-rate");
 const retryBtn = document.getElementById("retry");
 const activeLevelEl = document.getElementById("active-level");
-const progressBarEl = document.getElementById("progress-bar");
 const nextKeyEl = document.querySelector("#next-key span");
 const questionDisplayEl = document.getElementById("question-display");
 const questionCategoryEl = document.getElementById("question-category");
@@ -43,20 +50,19 @@ function showScreen(screen) {
 }
 
 function loadQuestions(level) {
-  const file = `data/questions_level${level}.json`;
+  const file = `data/v2/questions_level${level}.json`;
   const fetchJson = (path) => fetch(path, { cache: "no-store" }).then((r) => r.json());
 
   return fetch(file, { cache: "no-store" })
     .then((res) => {
       if (!res.ok) {
-        console.error(`Failed to load level ${level}, falling back to level 1`);
-        return fetchJson("data/questions_level1.json");
+        throw new Error(`Failed to load v2 level ${level}: ${res.status}`);
       }
       return res.json();
     })
     .catch((err) => {
       console.error("Error loading questions:", err);
-      return fetchJson("data/questions_level1.json");
+      return fetchJson("data/v2/questions_level1.json");
     });
 }
 
@@ -66,47 +72,100 @@ function prepareQuestion() {
     return;
   }
   currentQuestion = questions.shift();
-  currentInput = currentQuestion.input.toLowerCase();
-  currentIndex = 0;
-  skipOptionalSpaces();
+  currentLattice = buildLatticeFromTokens(currentQuestion.tokens);
+  machine = new TypingMachine(currentLattice);
+  pastInput = [];
   renderQuestion();
 }
 
 function renderQuestion() {
   questionDisplayEl.textContent = currentQuestion.display;
   questionCategoryEl.textContent = currentQuestion.categoryLabel;
-  questionEl.classList.toggle("long", currentInput.length > 54);
+  questionEl.classList.toggle("long", getTypingGuideText(currentQuestion.tokens).length > 34);
   questionEl.innerHTML = "";
-  for (let i = 0; i < currentInput.length; i++) {
-    const span = document.createElement("span");
-    span.textContent = currentInput[i];
-    if (i < currentIndex) {
-      span.className = "correct";
-    } else if (i === currentIndex) {
-      span.className = "current";
-    }
-    questionEl.appendChild(span);
-  }
-  debugLog(
-    `Rendered question: ${currentInput}, Current index: ${currentIndex}`
-  );
-  updateProgress();
+
+  const { moraDone } = machine?.getProgress() || { moraDone: 0 };
+  renderTypingGuideSpans(moraDone);
+  debugLog(`Rendered question: ${currentQuestion.display}, mora: ${moraDone}`);
   updateNextKey();
+}
+
+function getTypingGuideText(tokens) {
+  return tokens.map(getTypingGuideTokenText).join("");
+}
+
+function getTypingGuideTokenText(token) {
+  if (token.kind === "raw") return token.text;
+  if (token.yomi) return token.yomi;
+  return token.text;
+}
+
+function renderTypingGuideSpans(moraDone) {
+  const latticeByToken = new Map();
+  currentLattice.forEach((entry, latticeIndex) => {
+    const tokenIndex = entry.displayRange?.tokenIndex;
+    if (tokenIndex === undefined) return;
+    if (!latticeByToken.has(tokenIndex)) latticeByToken.set(tokenIndex, []);
+    latticeByToken.get(tokenIndex).push({ entry, latticeIndex });
+  });
+
+  currentQuestion.tokens.forEach((token, tokenIndex) => {
+    const entries = latticeByToken.get(tokenIndex);
+    if (!entries || entries.length === 0) {
+      appendTypingGuideSpan(getTypingGuideTokenText(token), getSkippedTokenClass(tokenIndex, moraDone));
+      return;
+    }
+
+    for (const item of entries) {
+      appendTypingGuideSpan(getLatticeGuideText(item.entry), getLatticeSpanClass(item.latticeIndex, moraDone));
+    }
+  });
+}
+
+function appendTypingGuideSpan(text, className = "") {
+  if (!text) return;
+  const span = document.createElement("span");
+  span.textContent = text;
+  if (className) span.className = className;
+  questionEl.appendChild(span);
+}
+
+function getLatticeGuideText(entry) {
+  if (entry.kind === "raw") return entry.text;
+  return entry.mora;
+}
+
+function getLatticeSpanClass(latticeIndex, moraDone) {
+  if (latticeIndex < moraDone) return "correct";
+  if (latticeIndex === moraDone) return "current";
+  return "";
+}
+
+function getSkippedTokenClass(tokenIndex, moraDone) {
+  const previous = [...currentLattice]
+    .reverse()
+    .find((entry) => entry.displayRange?.tokenIndex < tokenIndex);
+  if (!previous) return moraDone === 0 ? "current" : "";
+
+  const previousIndex = currentLattice.indexOf(previous);
+  return previousIndex < moraDone ? "correct" : "";
 }
 
 function startGame() {
   if (isGameStarting) return;
   isGameStarting = true;
   score = 0;
+  totalChars = 0;
+  totalMistypes = 0;
   lastElapsed = 0;
   currentQuestion = null;
-  currentInput = "";
-  currentIndex = 0;
+  currentLattice = [];
+  machine = null;
+  pastInput = [];
   scoreEl.textContent = "0";
   timerEl.textContent = "0.0";
   questionDisplayEl.textContent = "問題を読み込み中";
   questionCategoryEl.textContent = "FP3級";
-  updateProgress();
   updateNextKey();
 
   const level = getSelectedLevel();
@@ -155,10 +214,21 @@ function startTyping() {
 function finishGame() {
   clearInterval(timerInterval);
   isGameStarting = false;
-  timerEl.textContent = Math.min(lastElapsed, TIME_LIMIT).toFixed(1);
+  const elapsedSec = Math.min(lastElapsed, TIME_LIMIT);
+  timerEl.textContent = elapsedSec.toFixed(1);
   finalScoreEl.textContent = `スコア: ${score}`;
+  finalCharsEl.textContent = totalChars;
+  // 経過秒が0でも0除算を避ける
+  const speed = elapsedSec > 0 ? totalChars / elapsedSec : 0;
+  finalSpeedEl.textContent = speed.toFixed(1);
+  finalMistypeRateEl.textContent = getMistypeRate().toFixed(1);
   clearNextKey();
   showScreen(resultScreen);
+}
+
+function getMistypeRate() {
+  const attempts = totalChars + totalMistypes;
+  return attempts > 0 ? (totalMistypes / attempts) * 100 : 0;
 }
 
 function getSelectedLevel() {
@@ -182,31 +252,22 @@ retryBtn.addEventListener("click", () => {
   showScreen(startScreen);
 });
 
-function updateProgress() {
-  if (!progressBarEl || currentInput.length === 0) {
-    progressBarEl.style.width = "0%";
-    return;
-  }
-
-  const progress = (currentIndex / currentInput.length) * 100;
-  progressBarEl.style.width = `${progress}%`;
-}
-
 function updateNextKey() {
   clearNextKey();
-  if (!nextKeyEl || currentInput.length === 0) return;
+  if (!nextKeyEl || !machine) return;
 
-  const nextChar = getNextRequiredChar();
-  if (!nextChar) {
+  const nextChars = [...machine.getNextChars()];
+  if (nextChars.length === 0) {
     nextKeyEl.textContent = "-";
     return;
   }
 
-  const key = getVirtualKeyName(nextChar);
-  nextKeyEl.textContent = key === "space" ? "Space" : nextChar;
+  nextKeyEl.textContent = nextChars.map((char) => char.toUpperCase()).join("/");
 
-  const vk = findVirtualKey(key);
-  if (vk) vk.classList.add("next");
+  nextChars.forEach((char) => {
+    const vk = findVirtualKey(getVirtualKeyName(char));
+    if (vk) vk.classList.add("next");
+  });
 }
 
 function clearNextKey() {
@@ -226,22 +287,37 @@ function findVirtualKey(key) {
   );
 }
 
-function skipOptionalSpaces() {
-  while (currentInput[currentIndex] === " ") {
-    currentIndex++;
-  }
-}
-
-function getNextRequiredChar() {
-  let index = currentIndex;
-  while (currentInput[index] === " ") {
-    index++;
-  }
-  return currentInput[index];
-}
-
 function getScoreValue() {
-  return currentInput.replaceAll(" ", "").length;
+  return machine ? machine.getProgress().moraTotal : 0;
+}
+
+function handleTypingChar(inputChar) {
+  if (!machine || inputChar === " ") return;
+
+  const char = inputChar.toLowerCase();
+  if (!machine.step(char)) {
+    totalMistypes += 1;
+    return;
+  }
+
+  pastInput.push(char);
+  totalChars += 1;
+
+  if (machine.isComplete()) {
+    score += getScoreValue();
+    scoreEl.textContent = score;
+    prepareQuestion();
+  } else {
+    renderQuestion();
+  }
+}
+
+function handleBackspace() {
+  if (!machine || pastInput.length === 0) return;
+  pastInput.pop();
+  machine.reset();
+  for (const char of pastInput) machine.step(char);
+  renderQuestion();
 }
 
 function normalizeQuestions(data, level) {
@@ -251,18 +327,11 @@ function normalizeQuestions(data, level) {
 
   return data.map((question, index) => {
     if (typeof question === "string") {
-      return {
-        id: `legacy_${level}_${String(index + 1).padStart(3, "0")}`,
-        level: Number(level),
-        category: "legacy",
-        categoryLabel: "FP3級",
-        display: question,
-        input: question,
-      };
+      throw new Error(`question must be tokenized object: ${index + 1}`);
     }
 
-    if (!question.input || !question.display) {
-      throw new Error(`question is missing display or input: ${index + 1}`);
+    if (!question.display || !Array.isArray(question.tokens)) {
+      throw new Error(`question is missing display or tokens: ${index + 1}`);
     }
 
     return {
@@ -272,7 +341,7 @@ function normalizeQuestions(data, level) {
         `question_${level}_${String(index + 1).padStart(3, "0")}`,
       level: Number(question.level || level),
       display: String(question.display),
-      input: String(question.input).toLowerCase(),
+      tokens: question.tokens,
       categoryLabel: getCategoryLabel(question.category),
     };
   });
@@ -322,34 +391,13 @@ document.addEventListener("keydown", (e) => {
     }
 
     if (e.key === "Backspace") {
-      if (currentIndex > 0) {
-        currentIndex--;
-        while (currentIndex > 0 && currentInput[currentIndex] === " ") {
-          currentIndex--;
-        }
-        renderQuestion();
-      }
+      handleBackspace();
     } else if (e.key === "Escape") {
       finishGame();
     }
     // Handle normal single‑character input (Option 2: roman letter per keystroke)
     else if (e.key.length === 1) {
-      const inputChar = e.key.toLowerCase();
-      if (inputChar === " " && currentInput[currentIndex] !== " ") {
-        return;
-      }
-      if (inputChar !== " ") skipOptionalSpaces();
-      if (inputChar === currentInput[currentIndex]) {
-        currentIndex++;
-        skipOptionalSpaces();
-        if (currentIndex === currentInput.length) {
-          score += getScoreValue();
-          scoreEl.textContent = score;
-          prepareQuestion();
-        } else {
-          renderQuestion();
-        }
-      }
+      handleTypingChar(e.key);
     }
   } else if (!startScreen.classList.contains("hidden")) {
     debugLog("Start screen is active");
@@ -380,26 +428,8 @@ document.addEventListener("compositionend", (e) => {
   isComposing = false;
 
   if (!typingScreen.classList.contains("hidden")) {
-    const input = e.data;
-    if (input !== " ") skipOptionalSpaces();
-    debugLog(
-      `Comparing composition: '${input}' with '${currentInput[currentIndex]}'`
-    );
-
-    // 入力された文字が現在の文字と一致するか確認
-    if (input === currentInput[currentIndex]) {
-      debugLog("Correct input!");
-      currentIndex++;
-      skipOptionalSpaces();
-      if (currentIndex === currentInput.length) {
-        score += getScoreValue();
-        scoreEl.textContent = score;
-        prepareQuestion();
-      } else {
-        renderQuestion();
-      }
-    } else {
-      debugLog("Incorrect input!");
+    for (const inputChar of e.data) {
+      handleTypingChar(inputChar);
     }
   }
 

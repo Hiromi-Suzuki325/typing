@@ -15,7 +15,7 @@
     "level": 4,
     "category": "life_planning",
     "display": "次の記述はライフプランに関する学習上の整理である。生活設計では現在の収支だけでなく将来の支出時期や働き方の変化も合わせて確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa raifu puran ni kansuru gakushuu jou no seiri de aru seikatsu sekkei dewa genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha raifu puran ni kansuru gakushuu jou no seiri de aru seikatsu sekkei deha genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "life_planning",
       "exam_style"
@@ -37,7 +37,7 @@
     "level": 4,
     "category": "life_planning",
     "display": "次の記述はファイナンシャルプランナーに関する学習上の整理である。生活設計では現在の収支だけでなく将来の支出時期や働き方の変化も合わせて確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa fainansharu puranna ni kansuru gakushuu jou no seiri de aru seikatsu sekkei dewa genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha fainansharu puranna ni kansuru gakushuu jou no seiri de aru seikatsu sekkei deha genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "life_planning",
       "exam_style"
@@ -59,7 +59,7 @@
     "level": 4,
     "category": "life_planning",
     "display": "次の記述は資金計画に関する学習上の整理である。生活設計では現在の収支だけでなく将来の支出時期や働き方の変化も合わせて確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa shikin keikaku ni kansuru gakushuu jou no seiri de aru seikatsu sekkei dewa genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha shikin keikaku ni kansuru gakushuu jou no seiri de aru seikatsu sekkei deha genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "life_planning",
       "exam_style"
@@ -70,7 +70,7 @@
     "level": 4,
     "category": "life_planning",
     "display": "FP3級の学習でキャッシュフロー表を扱う場合、制度名だけを覚えるのではなく、相談者の目的、契約や手続きの内容、将来の変化を合わせて読み取る姿勢が重要である。",
-    "input": "fp sankyuu no gakushuu de kyasshu furo hyou wo atsukau baai seido mei dake de naku soudansha no mokuteki keiyaku ya tetsuzuki no naiyou shourai no henka wo yomitoru",
+    "input": "fp sankyuu no gakushuu de kyasshu furo- hyou wo atsukau baai seido mei dake de naku soudansha no mokuteki keiyaku ya tetsuzuki no naiyou shourai no henka wo yomitoru",
     "tags": [
       "life_planning",
       "exam_style"
@@ -81,7 +81,7 @@
     "level": 4,
     "category": "life_planning",
     "display": "次の記述はキャッシュフロー表に関する学習上の整理である。生活設計では現在の収支だけでなく将来の支出時期や働き方の変化も合わせて確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa kyasshu furo hyou ni kansuru gakushuu jou no seiri de aru seikatsu sekkei dewa genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha kyasshu furo- hyou ni kansuru gakushuu jou no seiri de aru seikatsu sekkei deha genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "life_planning",
       "exam_style"
@@ -92,7 +92,7 @@
     "level": 4,
     "category": "life_planning",
     "display": "FP3級の学習でバランスシートを扱う場合、制度名だけを覚えるのではなく、相談者の目的、契約や手続きの内容、将来の変化を合わせて読み取る姿勢が重要である。",
-    "input": "fp sankyuu no gakushuu de baransu shito wo atsukau baai seido mei dake de naku soudansha no mokuteki keiyaku ya tetsuzuki no naiyou shourai no henka wo yomitoru",
+    "input": "fp sankyuu no gakushuu de baransu shi-to wo atsukau baai seido mei dake de naku soudansha no mokuteki keiyaku ya tetsuzuki no naiyou shourai no henka wo yomitoru",
     "tags": [
       "life_planning",
       "exam_style"
@@ -103,7 +103,7 @@
     "level": 4,
     "category": "life_planning",
     "display": "次の記述はバランスシートに関する学習上の整理である。生活設計では現在の収支だけでなく将来の支出時期や働き方の変化も合わせて確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa baransu shito ni kansuru gakushuu jou no seiri de aru seikatsu sekkei dewa genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha baransu shi-to ni kansuru gakushuu jou no seiri de aru seikatsu sekkei deha genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "life_planning",
       "exam_style"
@@ -125,7 +125,7 @@
     "level": 4,
     "category": "life_planning",
     "display": "次の記述は可処分所得に関する学習上の整理である。生活設計では現在の収支だけでなく将来の支出時期や働き方の変化も合わせて確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa kashobun shotoku ni kansuru gakushuu jou no seiri de aru seikatsu sekkei dewa genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha kashobun shotoku ni kansuru gakushuu jou no seiri de aru seikatsu sekkei deha genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "life_planning",
       "exam_style"
@@ -147,7 +147,7 @@
     "level": 4,
     "category": "life_planning",
     "display": "次の記述はライフイベント表に関する学習上の整理である。生活設計では現在の収支だけでなく将来の支出時期や働き方の変化も合わせて確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa raifu ibento hyou ni kansuru gakushuu jou no seiri de aru seikatsu sekkei dewa genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha raifu ibento hyou ni kansuru gakushuu jou no seiri de aru seikatsu sekkei deha genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "life_planning",
       "exam_style"
@@ -169,7 +169,7 @@
     "level": 4,
     "category": "life_planning",
     "display": "次の記述は教育資金に関する学習上の整理である。生活設計では現在の収支だけでなく将来の支出時期や働き方の変化も合わせて確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa kyouiku shikin ni kansuru gakushuu jou no seiri de aru seikatsu sekkei dewa genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha kyouiku shikin ni kansuru gakushuu jou no seiri de aru seikatsu sekkei deha genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "life_planning",
       "exam_style"
@@ -191,7 +191,7 @@
     "level": 4,
     "category": "life_planning",
     "display": "次の記述は住宅資金に関する学習上の整理である。生活設計では現在の収支だけでなく将来の支出時期や働き方の変化も合わせて確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa juutaku shikin ni kansuru gakushuu jou no seiri de aru seikatsu sekkei dewa genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha juutaku shikin ni kansuru gakushuu jou no seiri de aru seikatsu sekkei deha genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "life_planning",
       "exam_style"
@@ -213,7 +213,7 @@
     "level": 4,
     "category": "life_planning",
     "display": "次の記述は老後資金に関する学習上の整理である。生活設計では現在の収支だけでなく将来の支出時期や働き方の変化も合わせて確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa rougo shikin ni kansuru gakushuu jou no seiri de aru seikatsu sekkei dewa genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha rougo shikin ni kansuru gakushuu jou no seiri de aru seikatsu sekkei deha genzai no shuushi dake de naku shourai no shishutsu jiki ya hatarakikata no henka mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "life_planning",
       "exam_style"
@@ -235,7 +235,7 @@
     "level": 4,
     "category": "risk_management",
     "display": "次の記述はリスク管理に関する学習上の整理である。保険を検討するときは不安の大きさだけでなく契約者と被保険者と受取人の関係も整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa risuku kanri ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki wa fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha risuku kanri ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki ha fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "risk_management",
       "exam_style"
@@ -257,7 +257,7 @@
     "level": 4,
     "category": "risk_management",
     "display": "次の記述は生命保険に関する学習上の整理である。保険を検討するときは不安の大きさだけでなく契約者と被保険者と受取人の関係も整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa seimei hoken ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki wa fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha seimei hoken ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki ha fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "risk_management",
       "exam_style"
@@ -279,7 +279,7 @@
     "level": 4,
     "category": "risk_management",
     "display": "次の記述は損害保険に関する学習上の整理である。保険を検討するときは不安の大きさだけでなく契約者と被保険者と受取人の関係も整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa songai hoken ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki wa fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha songai hoken ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki ha fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "risk_management",
       "exam_style"
@@ -301,7 +301,7 @@
     "level": 4,
     "category": "risk_management",
     "display": "次の記述は第三分野保険に関する学習上の整理である。保険を検討するときは不安の大きさだけでなく契約者と被保険者と受取人の関係も整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa daisan bunya hoken ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki wa fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha daisan bunya hoken ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki ha fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "risk_management",
       "exam_style"
@@ -323,7 +323,7 @@
     "level": 4,
     "category": "risk_management",
     "display": "次の記述は定期保険に関する学習上の整理である。保険を検討するときは不安の大きさだけでなく契約者と被保険者と受取人の関係も整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa teiki hoken ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki wa fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha teiki hoken ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki ha fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "risk_management",
       "exam_style"
@@ -345,7 +345,7 @@
     "level": 4,
     "category": "risk_management",
     "display": "次の記述は終身保険に関する学習上の整理である。保険を検討するときは不安の大きさだけでなく契約者と被保険者と受取人の関係も整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa shuushin hoken ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki wa fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha shuushin hoken ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki ha fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "risk_management",
       "exam_style"
@@ -367,7 +367,7 @@
     "level": 4,
     "category": "risk_management",
     "display": "次の記述は養老保険に関する学習上の整理である。保険を検討するときは不安の大きさだけでなく契約者と被保険者と受取人の関係も整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa yourou hoken ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki wa fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha yourou hoken ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki ha fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "risk_management",
       "exam_style"
@@ -389,7 +389,7 @@
     "level": 4,
     "category": "risk_management",
     "display": "次の記述は医療保険に関する学習上の整理である。保険を検討するときは不安の大きさだけでなく契約者と被保険者と受取人の関係も整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa iryou hoken ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki wa fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha iryou hoken ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki ha fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "risk_management",
       "exam_style"
@@ -411,7 +411,7 @@
     "level": 4,
     "category": "risk_management",
     "display": "次の記述はがん保険に関する学習上の整理である。保険を検討するときは不安の大きさだけでなく契約者と被保険者と受取人の関係も整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa gan hoken ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki wa fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha gan hoken ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki ha fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "risk_management",
       "exam_style"
@@ -433,7 +433,7 @@
     "level": 4,
     "category": "risk_management",
     "display": "次の記述は介護保険に関する学習上の整理である。保険を検討するときは不安の大きさだけでなく契約者と被保険者と受取人の関係も整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa kaigo hoken ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki wa fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha kaigo hoken ni kansuru gakushuu jou no seiri de aru hoken wo kentou suru toki ha fuan no ookisa dake de naku keiyakusha hihokensha uketorinin no kankei mo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "risk_management",
       "exam_style"
@@ -455,7 +455,7 @@
     "level": 4,
     "category": "financial_assets",
     "display": "次の記述は金融資産運用に関する学習上の整理である。運用商品を比較するときは期待できる収益だけでなく価格変動や流動性の違いも確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa kinyuu shisan unyou ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki wa shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha kinyuu shisan unyou ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki ha shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "financial_assets",
       "exam_style"
@@ -477,7 +477,7 @@
     "level": 4,
     "category": "financial_assets",
     "display": "次の記述は預貯金に関する学習上の整理である。運用商品を比較するときは期待できる収益だけでなく価格変動や流動性の違いも確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa yochokin ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki wa shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha yochokin ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki ha shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "financial_assets",
       "exam_style"
@@ -499,7 +499,7 @@
     "level": 4,
     "category": "financial_assets",
     "display": "次の記述は普通預金に関する学習上の整理である。運用商品を比較するときは期待できる収益だけでなく価格変動や流動性の違いも確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa futsuu yokin ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki wa shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha futsuu yokin ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki ha shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "financial_assets",
       "exam_style"
@@ -521,7 +521,7 @@
     "level": 4,
     "category": "financial_assets",
     "display": "次の記述は定期預金に関する学習上の整理である。運用商品を比較するときは期待できる収益だけでなく価格変動や流動性の違いも確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa teiki yokin ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki wa shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha teiki yokin ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki ha shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "financial_assets",
       "exam_style"
@@ -543,7 +543,7 @@
     "level": 4,
     "category": "financial_assets",
     "display": "次の記述は外貨預金に関する学習上の整理である。運用商品を比較するときは期待できる収益だけでなく価格変動や流動性の違いも確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa gaika yokin ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki wa shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha gaika yokin ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki ha shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "financial_assets",
       "exam_style"
@@ -565,7 +565,7 @@
     "level": 4,
     "category": "financial_assets",
     "display": "次の記述は金利に関する学習上の整理である。運用商品を比較するときは期待できる収益だけでなく価格変動や流動性の違いも確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa kinri ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki wa shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha kinri ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki ha shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "financial_assets",
       "exam_style"
@@ -587,7 +587,7 @@
     "level": 4,
     "category": "financial_assets",
     "display": "次の記述は利回りに関する学習上の整理である。運用商品を比較するときは期待できる収益だけでなく価格変動や流動性の違いも確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa rimawari ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki wa shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha rimawari ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki ha shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "financial_assets",
       "exam_style"
@@ -609,7 +609,7 @@
     "level": 4,
     "category": "financial_assets",
     "display": "次の記述は単利に関する学習上の整理である。運用商品を比較するときは期待できる収益だけでなく価格変動や流動性の違いも確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa tanri ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki wa shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha tanri ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki ha shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "financial_assets",
       "exam_style"
@@ -631,7 +631,7 @@
     "level": 4,
     "category": "financial_assets",
     "display": "次の記述は複利に関する学習上の整理である。運用商品を比較するときは期待できる収益だけでなく価格変動や流動性の違いも確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa fukuri ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki wa shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha fukuri ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki ha shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "financial_assets",
       "exam_style"
@@ -653,7 +653,7 @@
     "level": 4,
     "category": "financial_assets",
     "display": "次の記述は債券に関する学習上の整理である。運用商品を比較するときは期待できる収益だけでなく価格変動や流動性の違いも確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa saiken ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki wa shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha saiken ni kansuru gakushuu jou no seiri de aru unyou shouhin wo hikaku suru toki ha shuueki dake de naku kakaku hendou ya ryuudousei no chigai mo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "financial_assets",
       "exam_style"
@@ -675,7 +675,7 @@
     "level": 4,
     "category": "tax_planning",
     "display": "次の記述はタックスプランニングに関する学習上の整理である。税務の学習では用語の暗記だけでなく所得区分と申告手続きのつながりを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa takkusu puranningu ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu dewa yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha takkusu puranningu ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu deha yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "tax_planning",
       "exam_style"
@@ -697,7 +697,7 @@
     "level": 4,
     "category": "tax_planning",
     "display": "次の記述は所得税に関する学習上の整理である。税務の学習では用語の暗記だけでなく所得区分と申告手続きのつながりを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa shotoku zei ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu dewa yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha shotoku zei ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu deha yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "tax_planning",
       "exam_style"
@@ -719,7 +719,7 @@
     "level": 4,
     "category": "tax_planning",
     "display": "次の記述は住民税に関する学習上の整理である。税務の学習では用語の暗記だけでなく所得区分と申告手続きのつながりを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa juumin zei ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu dewa yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha juumin zei ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu deha yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "tax_planning",
       "exam_style"
@@ -741,7 +741,7 @@
     "level": 4,
     "category": "tax_planning",
     "display": "次の記述は法人税に関する学習上の整理である。税務の学習では用語の暗記だけでなく所得区分と申告手続きのつながりを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa houjin zei ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu dewa yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha houjin zei ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu deha yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "tax_planning",
       "exam_style"
@@ -763,7 +763,7 @@
     "level": 4,
     "category": "tax_planning",
     "display": "次の記述は消費税に関する学習上の整理である。税務の学習では用語の暗記だけでなく所得区分と申告手続きのつながりを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa shouhi zei ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu dewa yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha shouhi zei ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu deha yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "tax_planning",
       "exam_style"
@@ -785,7 +785,7 @@
     "level": 4,
     "category": "tax_planning",
     "display": "次の記述は相続税に関する学習上の整理である。税務の学習では用語の暗記だけでなく所得区分と申告手続きのつながりを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa souzoku zei ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu dewa yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha souzoku zei ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu deha yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "tax_planning",
       "exam_style"
@@ -807,7 +807,7 @@
     "level": 4,
     "category": "tax_planning",
     "display": "次の記述は贈与税に関する学習上の整理である。税務の学習では用語の暗記だけでなく所得区分と申告手続きのつながりを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa zouyo zei ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu dewa yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha zouyo zei ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu deha yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "tax_planning",
       "exam_style"
@@ -829,7 +829,7 @@
     "level": 4,
     "category": "tax_planning",
     "display": "次の記述は固定資産税に関する学習上の整理である。税務の学習では用語の暗記だけでなく所得区分と申告手続きのつながりを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa kotei shisan zei ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu dewa yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha kotei shisan zei ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu deha yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "tax_planning",
       "exam_style"
@@ -851,7 +851,7 @@
     "level": 4,
     "category": "tax_planning",
     "display": "次の記述は所得に関する学習上の整理である。税務の学習では用語の暗記だけでなく所得区分と申告手続きのつながりを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa shotoku ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu dewa yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha shotoku ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu deha yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "tax_planning",
       "exam_style"
@@ -873,7 +873,7 @@
     "level": 4,
     "category": "tax_planning",
     "display": "次の記述は収入に関する学習上の整理である。税務の学習では用語の暗記だけでなく所得区分と申告手続きのつながりを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa shuunyuu ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu dewa yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha shuunyuu ni kansuru gakushuu jou no seiri de aru zeimu no gakushuu deha yougo no anki dake de naku shotoku kubun to shinkoku tetsuzuki no tsunagari wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "tax_planning",
       "exam_style"
@@ -895,7 +895,7 @@
     "level": 4,
     "category": "real_estate",
     "display": "次の記述は不動産に関する学習上の整理である。不動産取引では価格だけでなく権利関係と法令上の制限と契約前の説明を確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa fudousan ni kansuru gakushuu jou no seiri de aru fudousan torihiki dewa kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha fudousan ni kansuru gakushuu jou no seiri de aru fudousan torihiki deha kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "real_estate",
       "exam_style"
@@ -917,7 +917,7 @@
     "level": 4,
     "category": "real_estate",
     "display": "次の記述は土地に関する学習上の整理である。不動産取引では価格だけでなく権利関係と法令上の制限と契約前の説明を確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa tochi ni kansuru gakushuu jou no seiri de aru fudousan torihiki dewa kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha tochi ni kansuru gakushuu jou no seiri de aru fudousan torihiki deha kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "real_estate",
       "exam_style"
@@ -939,7 +939,7 @@
     "level": 4,
     "category": "real_estate",
     "display": "次の記述は建物に関する学習上の整理である。不動産取引では価格だけでなく権利関係と法令上の制限と契約前の説明を確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa tatemono ni kansuru gakushuu jou no seiri de aru fudousan torihiki dewa kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha tatemono ni kansuru gakushuu jou no seiri de aru fudousan torihiki deha kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "real_estate",
       "exam_style"
@@ -961,7 +961,7 @@
     "level": 4,
     "category": "real_estate",
     "display": "次の記述は宅地に関する学習上の整理である。不動産取引では価格だけでなく権利関係と法令上の制限と契約前の説明を確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa takuchi ni kansuru gakushuu jou no seiri de aru fudousan torihiki dewa kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha takuchi ni kansuru gakushuu jou no seiri de aru fudousan torihiki deha kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "real_estate",
       "exam_style"
@@ -983,7 +983,7 @@
     "level": 4,
     "category": "real_estate",
     "display": "次の記述は地目に関する学習上の整理である。不動産取引では価格だけでなく権利関係と法令上の制限と契約前の説明を確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa chimoku ni kansuru gakushuu jou no seiri de aru fudousan torihiki dewa kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha chimoku ni kansuru gakushuu jou no seiri de aru fudousan torihiki deha kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "real_estate",
       "exam_style"
@@ -1005,7 +1005,7 @@
     "level": 4,
     "category": "real_estate",
     "display": "次の記述は地積に関する学習上の整理である。不動産取引では価格だけでなく権利関係と法令上の制限と契約前の説明を確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa chiseki ni kansuru gakushuu jou no seiri de aru fudousan torihiki dewa kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha chiseki ni kansuru gakushuu jou no seiri de aru fudousan torihiki deha kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "real_estate",
       "exam_style"
@@ -1027,7 +1027,7 @@
     "level": 4,
     "category": "real_estate",
     "display": "次の記述は登記簿に関する学習上の整理である。不動産取引では価格だけでなく権利関係と法令上の制限と契約前の説明を確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa toukibo ni kansuru gakushuu jou no seiri de aru fudousan torihiki dewa kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha toukibo ni kansuru gakushuu jou no seiri de aru fudousan torihiki deha kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "real_estate",
       "exam_style"
@@ -1049,7 +1049,7 @@
     "level": 4,
     "category": "real_estate",
     "display": "次の記述は登記事項証明書に関する学習上の整理である。不動産取引では価格だけでなく権利関係と法令上の制限と契約前の説明を確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa touki jikou shoumeisho ni kansuru gakushuu jou no seiri de aru fudousan torihiki dewa kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha touki jikou shoumeisho ni kansuru gakushuu jou no seiri de aru fudousan torihiki deha kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "real_estate",
       "exam_style"
@@ -1071,7 +1071,7 @@
     "level": 4,
     "category": "real_estate",
     "display": "次の記述は所有権に関する学習上の整理である。不動産取引では価格だけでなく権利関係と法令上の制限と契約前の説明を確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa shoyuuken ni kansuru gakushuu jou no seiri de aru fudousan torihiki dewa kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha shoyuuken ni kansuru gakushuu jou no seiri de aru fudousan torihiki deha kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "real_estate",
       "exam_style"
@@ -1093,7 +1093,7 @@
     "level": 4,
     "category": "real_estate",
     "display": "次の記述は抵当権に関する学習上の整理である。不動産取引では価格だけでなく権利関係と法令上の制限と契約前の説明を確認するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa teitouken ni kansuru gakushuu jou no seiri de aru fudousan torihiki dewa kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha teitouken ni kansuru gakushuu jou no seiri de aru fudousan torihiki deha kakaku dake de naku kenri kankei hourei seigen keiyaku mae no setsumei wo kakunin suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "real_estate",
       "exam_style"
@@ -1115,7 +1115,7 @@
     "level": 4,
     "category": "inheritance",
     "display": "次の記述は相続に関する学習上の整理である。相続と贈与では財産の内容だけでなく意思表示と家族関係と手続きの流れを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa souzoku ni kansuru gakushuu jou no seiri de aru souzoku to zouyo dewa zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha souzoku ni kansuru gakushuu jou no seiri de aru souzoku to zouyo deha zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "inheritance",
       "exam_style"
@@ -1137,7 +1137,7 @@
     "level": 4,
     "category": "inheritance",
     "display": "次の記述は贈与に関する学習上の整理である。相続と贈与では財産の内容だけでなく意思表示と家族関係と手続きの流れを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa zouyo ni kansuru gakushuu jou no seiri de aru souzoku to zouyo dewa zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha zouyo ni kansuru gakushuu jou no seiri de aru souzoku to zouyo deha zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "inheritance",
       "exam_style"
@@ -1159,7 +1159,7 @@
     "level": 4,
     "category": "inheritance",
     "display": "次の記述は遺言に関する学習上の整理である。相続と贈与では財産の内容だけでなく意思表示と家族関係と手続きの流れを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa yuigon ni kansuru gakushuu jou no seiri de aru souzoku to zouyo dewa zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha yuigon ni kansuru gakushuu jou no seiri de aru souzoku to zouyo deha zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "inheritance",
       "exam_style"
@@ -1181,7 +1181,7 @@
     "level": 4,
     "category": "inheritance",
     "display": "次の記述は遺産分割に関する学習上の整理である。相続と贈与では財産の内容だけでなく意思表示と家族関係と手続きの流れを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa isan bunkatsu ni kansuru gakushuu jou no seiri de aru souzoku to zouyo dewa zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha isan bunkatsu ni kansuru gakushuu jou no seiri de aru souzoku to zouyo deha zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "inheritance",
       "exam_style"
@@ -1203,7 +1203,7 @@
     "level": 4,
     "category": "inheritance",
     "display": "次の記述は法定相続人に関する学習上の整理である。相続と贈与では財産の内容だけでなく意思表示と家族関係と手続きの流れを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa houtei souzokunin ni kansuru gakushuu jou no seiri de aru souzoku to zouyo dewa zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha houtei souzokunin ni kansuru gakushuu jou no seiri de aru souzoku to zouyo deha zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "inheritance",
       "exam_style"
@@ -1225,7 +1225,7 @@
     "level": 4,
     "category": "inheritance",
     "display": "次の記述は推定相続人に関する学習上の整理である。相続と贈与では財産の内容だけでなく意思表示と家族関係と手続きの流れを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa suitei souzokunin ni kansuru gakushuu jou no seiri de aru souzoku to zouyo dewa zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha suitei souzokunin ni kansuru gakushuu jou no seiri de aru souzoku to zouyo deha zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "inheritance",
       "exam_style"
@@ -1247,7 +1247,7 @@
     "level": 4,
     "category": "inheritance",
     "display": "次の記述は相続財産に関する学習上の整理である。相続と贈与では財産の内容だけでなく意思表示と家族関係と手続きの流れを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa souzoku zaisan ni kansuru gakushuu jou no seiri de aru souzoku to zouyo dewa zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha souzoku zaisan ni kansuru gakushuu jou no seiri de aru souzoku to zouyo deha zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "inheritance",
       "exam_style"
@@ -1269,7 +1269,7 @@
     "level": 4,
     "category": "inheritance",
     "display": "次の記述は遺留分に関する学習上の整理である。相続と贈与では財産の内容だけでなく意思表示と家族関係と手続きの流れを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa iryubun ni kansuru gakushuu jou no seiri de aru souzoku to zouyo dewa zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha iryubun ni kansuru gakushuu jou no seiri de aru souzoku to zouyo deha zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "inheritance",
       "exam_style"
@@ -1291,7 +1291,7 @@
     "level": 4,
     "category": "inheritance",
     "display": "次の記述は遺贈に関する学習上の整理である。相続と贈与では財産の内容だけでなく意思表示と家族関係と手続きの流れを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa izou ni kansuru gakushuu jou no seiri de aru souzoku to zouyo dewa zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha izou ni kansuru gakushuu jou no seiri de aru souzoku to zouyo deha zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "inheritance",
       "exam_style"
@@ -1313,7 +1313,7 @@
     "level": 4,
     "category": "inheritance",
     "display": "次の記述は死因贈与に関する学習上の整理である。相続と贈与では財産の内容だけでなく意思表示と家族関係と手続きの流れを整理するため、細かな数値の暗記よりも考え方の筋道を押さえることが大切である。",
-    "input": "tsugi no kijutsu wa shiin zouyo ni kansuru gakushuu jou no seiri de aru souzoku to zouyo dewa zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
+    "input": "tsugi no kijutsu ha shiin zouyo ni kansuru gakushuu jou no seiri de aru souzoku to zouyo deha zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru tame komakai suuchi no anki yori kangaekata no michisuji wo osaeru",
     "tags": [
       "inheritance",
       "exam_style"

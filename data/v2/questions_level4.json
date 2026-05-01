@@ -1,0 +1,2795 @@
+[
+  {
+    "id": "fp3_l4_lp_01",
+    "level": 4,
+    "category": "life_planning",
+    "display": "老齢基礎年金の繰上げ受給は60歳から可能で、1か月あたり0.4%減額される",
+    "input": "roureikisonennkinnnokuriagejukyuuharokujussaikarakanoudeikkagetsuatarireitennyonnpaasenntogenngakusareru",
+    "tokens": [
+      {
+        "text": "老齢基礎年金の繰上げ受給は60歳から可能で、1か月あたり0.4%減額される",
+        "yomi": "ろうれいきそねんきんのくりあげじゅきゅうはろくじゅっさいからかのうでいっかげつあたりれいてんよんぱーせんとげんがくされる"
+      }
+    ],
+    "tags": [
+      "life_planning"
+    ],
+    "fallback": true,
+    "issues": [
+      "hiragana/katakana mismatch at part 18: expected \"される\", got \"\""
+    ]
+  },
+  {
+    "id": "fp3_l4_lp_02",
+    "level": 4,
+    "category": "life_planning",
+    "display": "老齢基礎年金の繰下げ受給は75歳まで可能で、1か月あたり0.7%増額される",
+    "input": "roureikisonennkinnnokurisagejukyuuhananajuugosaimadekanoudeikkagetsuatarireitennnanapaasenntozougakusareru",
+    "tokens": [
+      {
+        "text": "老齢基礎年金の繰下げ受給は75歳まで可能で、1か月あたり0.7%増額される",
+        "yomi": "ろうれいきそねんきんのくりさげじゅきゅうはななじゅうごさいまでかのうでいっかげつあたりれいてんななぱーせんとぞうがくされる"
+      }
+    ],
+    "tags": [
+      "life_planning"
+    ],
+    "fallback": true,
+    "issues": [
+      "hiragana/katakana mismatch at part 18: expected \"される\", got \"\""
+    ]
+  },
+  {
+    "id": "fp3_l4_lp_03",
+    "level": 4,
+    "category": "life_planning",
+    "display": "雇用保険の自己都合退職には2か月の給付制限があり、被保険者期間12か月以上が必要である",
+    "input": "koyouhokennojikotsugoutaishokunihanikagetsunokyuufuseigengaarihihokennshakikannjuunikagetsuijougahitsuyoudearu",
+    "tokens": [
+      {
+        "text": "雇用保険",
+        "yomi": "こようほけん"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "自己都合退職",
+        "yomi": "じこつごうたいしょく"
+      },
+      {
+        "text": "には",
+        "yomi": "には"
+      },
+      {
+        "text": "2",
+        "yomi": "に"
+      },
+      {
+        "text": "か",
+        "yomi": "か"
+      },
+      {
+        "text": "月",
+        "yomi": "げつ"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "給付制限",
+        "yomi": "きゅうふせいげん"
+      },
+      {
+        "text": "があり",
+        "yomi": "があり"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "被保険者期間12",
+        "yomi": "ひほけんしゃき"
+      },
+      {
+        "text": "か",
+        "yomi": "か"
+      },
+      {
+        "text": "月以上",
+        "yomi": "んじゅうにかげついじょう"
+      },
+      {
+        "text": "が",
+        "yomi": "が",
+        "particle": true
+      },
+      {
+        "text": "必要",
+        "yomi": "ひつよう"
+      },
+      {
+        "text": "である",
+        "yomi": "である"
+      }
+    ],
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l4_lp_04",
+    "level": 4,
+    "category": "life_planning",
+    "display": "健康保険の任意継続は最長2年間で、退職日翌日から20日以内に申請する",
+    "input": "kennkouhokennoninnikeizokuhasaichouninennkandetaishokubiyokujitsukarahatsukainainishinnseisuru",
+    "tokens": [
+      {
+        "text": "健康保険",
+        "yomi": "けんこうほけん"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "任意継続",
+        "yomi": "にんいけいぞく"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "最長2年間",
+        "yomi": "さいちょうにねんかん"
+      },
+      {
+        "text": "で",
+        "yomi": "で"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "退職日翌日",
+        "yomi": "たいしょくびよくじつ"
+      },
+      {
+        "text": "から",
+        "yomi": "から"
+      },
+      {
+        "text": "20日以内",
+        "yomi": "はつかいない"
+      },
+      {
+        "text": "に",
+        "yomi": "に",
+        "particle": true
+      },
+      {
+        "text": "申請",
+        "yomi": "しんせい"
+      },
+      {
+        "text": "する",
+        "yomi": "する"
+      }
+    ],
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l4_lp_05",
+    "level": 4,
+    "category": "life_planning",
+    "display": "国民年金保険料の免除期間は受給資格期間に算入されるが、年金額は減額される",
+    "input": "kokuminnnennkinnhokennryounomennjokikanhajukyuushikakukikannisannnyuusareruganennkinngakuhagenngakusareru",
+    "tokens": [
+      {
+        "text": "国民年金保険料",
+        "yomi": "こくみんねんきんほけんりょう"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "免除期間",
+        "yomi": "めんじょきかん"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "受給資格期間",
+        "yomi": "じゅきゅうしかくきかん"
+      },
+      {
+        "text": "に",
+        "yomi": "に",
+        "particle": true
+      },
+      {
+        "text": "算入",
+        "yomi": "さんにゅう"
+      },
+      {
+        "text": "されるが",
+        "yomi": "されるが"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "年金額",
+        "yomi": "ねんきんがく"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "減額",
+        "yomi": "げんがく"
+      },
+      {
+        "text": "される",
+        "yomi": "される"
+      }
+    ],
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l4_lp_06",
+    "level": 4,
+    "category": "life_planning",
+    "display": "厚生年金の標準報酬月額は4月から6月の報酬で決まり、9月から改定される",
+    "input": "kouseinennkinnohyoujunnhoushuugetsugakuhashigatsukararokugatsunohoushuudekimarikugatsukarakaiteisareru",
+    "tokens": [
+      {
+        "text": "厚生年金",
+        "yomi": "こうせいねんきん"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "標準報酬月額",
+        "yomi": "ひょうじゅんほうしゅうげつがく"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "4月",
+        "yomi": "しがつ"
+      },
+      {
+        "text": "から",
+        "yomi": "から"
+      },
+      {
+        "text": "6月",
+        "yomi": "ろくがつ"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "報酬",
+        "yomi": "ほうしゅう"
+      },
+      {
+        "text": "で",
+        "yomi": "で",
+        "particle": true
+      },
+      {
+        "text": "決",
+        "yomi": "き"
+      },
+      {
+        "text": "まり",
+        "yomi": "まり"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "9月",
+        "yomi": "くがつ"
+      },
+      {
+        "text": "から",
+        "yomi": "から"
+      },
+      {
+        "text": "改定",
+        "yomi": "かいてい"
+      },
+      {
+        "text": "される",
+        "yomi": "される"
+      }
+    ],
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l4_lp_07",
+    "level": 4,
+    "category": "life_planning",
+    "display": "国民健康保険の保険料は前年所得で算定され、世帯単位で課税される",
+    "input": "kokuminnkennkouhokennohokennryouhazennnennshotokudesannteisaresetaitannidekazeisareru",
+    "tokens": [
+      {
+        "text": "国民健康保険",
+        "yomi": "こくみんけんこうほけん"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "保険料",
+        "yomi": "ほけんりょう"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "前年所得",
+        "yomi": "ぜんねんしょとく"
+      },
+      {
+        "text": "で",
+        "yomi": "で",
+        "particle": true
+      },
+      {
+        "text": "算定",
+        "yomi": "さんてい"
+      },
+      {
+        "text": "され",
+        "yomi": "され"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "世帯単位",
+        "yomi": "せたいたんい"
+      },
+      {
+        "text": "で",
+        "yomi": "で",
+        "particle": true
+      },
+      {
+        "text": "課税",
+        "yomi": "かぜい"
+      },
+      {
+        "text": "される",
+        "yomi": "される"
+      }
+    ],
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l4_lp_08",
+    "level": 4,
+    "category": "life_planning",
+    "display": "介護保険の自己負担は原則1割で、所得により2割または3割になる",
+    "input": "kaigohokennojikofutanhagennsokuichiwarideshotokuniyoriniwarimatahasannwarininaru",
+    "tokens": [
+      {
+        "text": "介護保険",
+        "yomi": "かいごほけん"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "自己負担",
+        "yomi": "じこふたん"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "原則1割",
+        "yomi": "げんそくいちわり"
+      },
+      {
+        "text": "で",
+        "yomi": "で"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "所得",
+        "yomi": "しょとく"
+      },
+      {
+        "text": "により",
+        "yomi": "により"
+      },
+      {
+        "text": "2割",
+        "yomi": "にわり"
+      },
+      {
+        "text": "または",
+        "yomi": "または"
+      },
+      {
+        "text": "3割",
+        "yomi": "さんわり"
+      },
+      {
+        "text": "になる",
+        "yomi": "になる"
+      }
+    ],
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l4_rm_01",
+    "level": 4,
+    "category": "risk_management",
+    "display": "生命保険料控除は所得税で最大12万円、住民税で最大7万円が控除される",
+    "input": "seimeihokennryoukoujohashotokuzeidesaidaijuunimannennjuuminnzeidesaidainanamannenngakoujosareru",
+    "tokens": [
+      {
+        "text": "生命保険料控除は所得税で最大12万円、住民税で最大7万円が控除される",
+        "yomi": "せいめいほけんりょうこうじょはしょとくぜいでさいだいじゅうにまんえんじゅうみんぜいでさいだいななまんえんがこうじょされる"
+      }
+    ],
+    "tags": [
+      "risk_management"
+    ],
+    "fallback": true,
+    "issues": [
+      "hiragana/katakana mismatch at part 7: expected \"で\", got \"\"",
+      "hiragana/katakana mismatch at part 9: expected \"が\", got \"\"",
+      "hiragana/katakana mismatch at part 11: expected \"される\", got \"\""
+    ]
+  },
+  {
+    "id": "fp3_l4_rm_02",
+    "level": 4,
+    "category": "risk_management",
+    "display": "死亡保険金の非課税限度額は500万円×法定相続人の数で、相続人以外は対象外である",
+    "input": "shibouhokennkinnohikazeigenndogakuhagohyakumannennkakeruhouteisouzokuninnokazudesouzokuninnigaihataishougaidearu",
+    "tokens": [
+      {
+        "text": "死亡保険金",
+        "yomi": "しぼうほけんきん"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "非課税限度額",
+        "yomi": "ひかぜいげんどがく"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "500万円×法定相続人",
+        "yomi": "ごひゃくまんえんかけるほうていそうぞくにん"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "数",
+        "yomi": "かず"
+      },
+      {
+        "text": "で",
+        "yomi": "で"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "相続人以外",
+        "yomi": "そうぞくにんいがい"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "対象外",
+        "yomi": "たいしょうがい"
+      },
+      {
+        "text": "である",
+        "yomi": "である"
+      }
+    ],
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l4_rm_03",
+    "level": 4,
+    "category": "risk_management",
+    "display": "クーリングオフは契約日と書面交付日のいずれか遅い日から、8日以内に可能である",
+    "input": "kuurinnguofuhakeiyakubitoshomennkoufubinoizurekaosoihikarayoukainainikanoudearu",
+    "tokens": [
+      {
+        "text": "クーリングオフ",
+        "yomi": "くーりんぐおふ"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "契約日",
+        "yomi": "けいやくび"
+      },
+      {
+        "text": "と",
+        "yomi": "と",
+        "particle": true
+      },
+      {
+        "text": "書面交付日",
+        "yomi": "しょめんこうふび"
+      },
+      {
+        "text": "のいずれか",
+        "yomi": "のいずれか"
+      },
+      {
+        "text": "遅",
+        "yomi": "おそ"
+      },
+      {
+        "text": "い",
+        "yomi": "い"
+      },
+      {
+        "text": "日",
+        "yomi": "ひ"
+      },
+      {
+        "text": "から",
+        "yomi": "から"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "8日以内",
+        "yomi": "ようかいない"
+      },
+      {
+        "text": "に",
+        "yomi": "に",
+        "particle": true
+      },
+      {
+        "text": "可能",
+        "yomi": "かのう"
+      },
+      {
+        "text": "である",
+        "yomi": "である"
+      }
+    ],
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l4_rm_04",
+    "level": 4,
+    "category": "risk_management",
+    "display": "自賠責保険は対人賠償のみで、対物や搭乗者は任意保険で備える",
+    "input": "jibaisekihokenhataijinnbaishounomidetaibutsuyatoujoushahaninnihokendesonaeru",
+    "tokens": [
+      {
+        "text": "自賠責保険",
+        "yomi": "じばいせきほけん"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "対人賠償",
+        "yomi": "たいじんばいしょう"
+      },
+      {
+        "text": "のみで",
+        "yomi": "のみで"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "対物",
+        "yomi": "たいぶつ"
+      },
+      {
+        "text": "や",
+        "yomi": "や",
+        "particle": true
+      },
+      {
+        "text": "搭乗者",
+        "yomi": "とうじょうしゃ"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "任意保険",
+        "yomi": "にんいほけん"
+      },
+      {
+        "text": "で",
+        "yomi": "で",
+        "particle": true
+      },
+      {
+        "text": "備",
+        "yomi": "そな"
+      },
+      {
+        "text": "える",
+        "yomi": "える"
+      }
+    ],
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l4_rm_05",
+    "level": 4,
+    "category": "risk_management",
+    "display": "個人賠償責任保険は他人への損害を補償し、業務上の事故は対象外である",
+    "input": "kojinnbaishousekininnhokenhataninhenosonngaiwohoshoushigyoumujounojikohataishougaidearu",
+    "tokens": [
+      {
+        "text": "個人賠償責任保険",
+        "yomi": "こじんばいしょうせきにんほけん"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "他人",
+        "yomi": "たにん"
+      },
+      {
+        "text": "への",
+        "yomi": "への"
+      },
+      {
+        "text": "損害",
+        "yomi": "そんがい"
+      },
+      {
+        "text": "を",
+        "yomi": "を",
+        "particle": true
+      },
+      {
+        "text": "補償",
+        "yomi": "ほしょう"
+      },
+      {
+        "text": "し",
+        "yomi": "し"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "業務上",
+        "yomi": "ぎょうむじょう"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "事故",
+        "yomi": "じこ"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "対象外",
+        "yomi": "たいしょうがい"
+      },
+      {
+        "text": "である",
+        "yomi": "である"
+      }
+    ],
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l4_rm_06",
+    "level": 4,
+    "category": "risk_management",
+    "display": "失火責任法では軽過失の失火は免責だが、爆発や重過失の場合は対象外となる",
+    "input": "shikkasekininnhoudehakeikashitsunoshikkahamennsekidagabakuhatsuyajuukashitsunobaaihataishougaitonaru",
+    "tokens": [
+      {
+        "text": "失火責任法",
+        "yomi": "しっかせきにんほう"
+      },
+      {
+        "text": "では",
+        "yomi": "では"
+      },
+      {
+        "text": "軽過失",
+        "yomi": "けいかしつ"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "失火",
+        "yomi": "しっか"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "免責",
+        "yomi": "めんせき"
+      },
+      {
+        "text": "だが",
+        "yomi": "だが"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "爆発",
+        "yomi": "ばくはつ"
+      },
+      {
+        "text": "や",
+        "yomi": "や",
+        "particle": true
+      },
+      {
+        "text": "重過失",
+        "yomi": "じゅうかしつ"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "場合",
+        "yomi": "ばあい"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "対象外",
+        "yomi": "たいしょうがい"
+      },
+      {
+        "text": "となる",
+        "yomi": "となる"
+      }
+    ],
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l4_rm_07",
+    "level": 4,
+    "category": "risk_management",
+    "display": "自動車保険の対人賠償は自賠責の上乗せで、対物賠償は別途任意で加入する",
+    "input": "jidoushahokennotaijinnbaishouhajibaisekinouwanosedetaibutsubaishouhabettoninnidekanyuusuru",
+    "tokens": [
+      {
+        "text": "自動車保険",
+        "yomi": "じどうしゃほけん"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "対人賠償",
+        "yomi": "たいじんばいしょう"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "自賠責",
+        "yomi": "じばいせき"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "上乗",
+        "yomi": "うわの"
+      },
+      {
+        "text": "せで",
+        "yomi": "せで"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "対物賠償",
+        "yomi": "たいぶつばいしょう"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "別途任意",
+        "yomi": "べっとにんい"
+      },
+      {
+        "text": "で",
+        "yomi": "で",
+        "particle": true
+      },
+      {
+        "text": "加入",
+        "yomi": "かにゅう"
+      },
+      {
+        "text": "する",
+        "yomi": "する"
+      }
+    ],
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l4_rm_08",
+    "level": 4,
+    "category": "risk_management",
+    "display": "地震保険は単独加入できず、火災保険とセットで契約する",
+    "input": "jishinnhokenhatanndokukanyuudekizukasaihokentosettodekeiyakusuru",
+    "tokens": [
+      {
+        "text": "地震保険",
+        "yomi": "じしんほけん"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "単独加入",
+        "yomi": "たんどくかにゅう"
+      },
+      {
+        "text": "できず",
+        "yomi": "できず"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "火災保険",
+        "yomi": "かさいほけん"
+      },
+      {
+        "text": "と",
+        "yomi": "と",
+        "particle": true
+      },
+      {
+        "text": "セット",
+        "yomi": "せっと"
+      },
+      {
+        "text": "で",
+        "yomi": "で",
+        "particle": true
+      },
+      {
+        "text": "契約",
+        "yomi": "けいやく"
+      },
+      {
+        "text": "する",
+        "yomi": "する"
+      }
+    ],
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l4_fa_01",
+    "level": 4,
+    "category": "financial_assets",
+    "display": "新NISAの非課税保有限度額は1800万円で、うち成長投資枠は1200万円である",
+    "input": "shinNISAnohikazeihoyuugenndogakuhasennhappyakumannendeuchiseichoutoushiwakuhasennnihyakumannendearu",
+    "tokens": [
+      {
+        "text": "新",
+        "yomi": "しん"
+      },
+      {
+        "text": "NISA",
+        "kind": "raw"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "非課税保有限度額",
+        "yomi": "ひかぜいほゆうげんどがく"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "1800万円",
+        "yomi": "せんはっぴゃくまんえん"
+      },
+      {
+        "text": "で",
+        "yomi": "で"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "うち",
+        "yomi": "うち"
+      },
+      {
+        "text": "成長投資枠",
+        "yomi": "せいちょうとうしわく"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "1200万円",
+        "yomi": "せんにひゃくまんえん"
+      },
+      {
+        "text": "である",
+        "yomi": "である"
+      }
+    ],
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l4_fa_02",
+    "level": 4,
+    "category": "financial_assets",
+    "display": "預金保険は元本1000万円とその利息までを1金融機関1人あたり保護する",
+    "input": "yokinnhokenhagannponnsennmannentosonorisokumadewoichikinnyuukikannhitoriatarihogosuru",
+    "tokens": [
+      {
+        "text": "預金保険",
+        "yomi": "よきんほけん"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "元本1000万円",
+        "yomi": "がんぽんせんまんえん"
+      },
+      {
+        "text": "とその",
+        "yomi": "とその"
+      },
+      {
+        "text": "利息",
+        "yomi": "りそく"
+      },
+      {
+        "text": "までを",
+        "yomi": "までを"
+      },
+      {
+        "text": "1金融機関1人",
+        "yomi": "いちきんゆうきかんひとり"
+      },
+      {
+        "text": "あたり",
+        "yomi": "あたり"
+      },
+      {
+        "text": "保護",
+        "yomi": "ほご"
+      },
+      {
+        "text": "する",
+        "yomi": "する"
+      }
+    ],
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l4_fa_03",
+    "level": 4,
+    "category": "financial_assets",
+    "display": "上場株式の譲渡損失は確定申告により3年間繰り越せ、配当所得とも損益通算できる",
+    "input": "joujoukabushikinojoutosonnshitsuhakakuteishinnkokuniyorisannnennkannkurikosehaitoushotokutomosonnekitsuusanndekiru",
+    "tokens": [
+      {
+        "text": "上場株式の譲渡損失は確定申告により3年間繰り越せ、配当所得とも損益通算できる",
+        "yomi": "じょうじょうかぶしきのじょうとそんしつはかくていしんこくによりさんねんかんくりこせはいとうしょとくともそんえきつうさんできる"
+      }
+    ],
+    "tags": [
+      "financial_assets"
+    ],
+    "fallback": true,
+    "issues": [
+      "hiragana/katakana mismatch at part 12: expected \"とも\", got \"とう\""
+    ]
+  },
+  {
+    "id": "fp3_l4_fa_04",
+    "level": 4,
+    "category": "financial_assets",
+    "display": "株式の配当所得は申告分離課税を選択すると、譲渡損失と損益通算できる",
+    "input": "kabushikinohaitoushotokuhashinnkokubunnrikazeiwosenntakusurutojoutosonnshitsutosonnekitsuusandekiru",
+    "tokens": [
+      {
+        "text": "株式",
+        "yomi": "かぶしき"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "配当所得",
+        "yomi": "はいとうしょとく"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "申告分離課税",
+        "yomi": "しんこくぶんりかぜい"
+      },
+      {
+        "text": "を",
+        "yomi": "を",
+        "particle": true
+      },
+      {
+        "text": "選択",
+        "yomi": "せんたく"
+      },
+      {
+        "text": "すると",
+        "yomi": "すると"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "譲渡損失",
+        "yomi": "じょう"
+      },
+      {
+        "text": "と",
+        "yomi": "と",
+        "particle": true
+      },
+      {
+        "text": "損益通算",
+        "yomi": "そんしつとそんえきつうさん"
+      },
+      {
+        "text": "できる",
+        "yomi": "できる"
+      }
+    ],
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l4_fa_05",
+    "level": 4,
+    "category": "financial_assets",
+    "display": "iDeCoの掛金は全額所得控除で、運用益も非課税となる",
+    "input": "iDeConokakekinhazenngakushotokukoujodeunnyouekimohikazeitonaru",
+    "tokens": [
+      {
+        "text": "iDeCo",
+        "kind": "raw"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "掛金",
+        "yomi": "かけきん"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "全額所得控除",
+        "yomi": "ぜんがくしょとくこうじょ"
+      },
+      {
+        "text": "で",
+        "yomi": "で"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "運用益",
+        "yomi": "うんようえき"
+      },
+      {
+        "text": "も",
+        "yomi": "も",
+        "particle": true
+      },
+      {
+        "text": "非課税",
+        "yomi": "ひかぜい"
+      },
+      {
+        "text": "となる",
+        "yomi": "となる"
+      }
+    ],
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l4_fa_06",
+    "level": 4,
+    "category": "financial_assets",
+    "display": "投資信託の信託報酬は保有期間中継続して発生し、基準価額から日々控除される",
+    "input": "toushishinntakunoshinntakuhoushuuhahoyuukikannchuukeizokushitehasseishikijunnkakakukarahibikoujosareru",
+    "tokens": [
+      {
+        "text": "投資信託の信託報酬は保有期間中継続して発生し、基準価額から日々控除される",
+        "yomi": "とうししんたくのしんたくほうしゅうはほゆうきかんちゅうけいぞくしてはっせいしきじゅんかかくからひびこうじょされる"
+      }
+    ],
+    "tags": [
+      "financial_assets"
+    ],
+    "fallback": true,
+    "issues": [
+      "hiragana/katakana mismatch at part 10: expected \"から\", got \"かか\""
+    ]
+  },
+  {
+    "id": "fp3_l4_fa_07",
+    "level": 4,
+    "category": "financial_assets",
+    "display": "債券は満期保有で額面が戻るが、途中売却は時価評価で損益が出る",
+    "input": "saikenhamannkihoyuudegakumengamodorugatochuubaikyakuhajikahyoukadesonnekigaderu",
+    "tokens": [
+      {
+        "text": "債券",
+        "yomi": "さいけん"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "満期保有",
+        "yomi": "まんきほゆう"
+      },
+      {
+        "text": "で",
+        "yomi": "で",
+        "particle": true
+      },
+      {
+        "text": "額面",
+        "yomi": "がくめん"
+      },
+      {
+        "text": "が",
+        "yomi": "が",
+        "particle": true
+      },
+      {
+        "text": "戻",
+        "yomi": "もど"
+      },
+      {
+        "text": "るが",
+        "yomi": "るが"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "途中売却",
+        "yomi": "とちゅうばいきゃく"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "時価評価",
+        "yomi": "じかひょうか"
+      },
+      {
+        "text": "で",
+        "yomi": "で",
+        "particle": true
+      },
+      {
+        "text": "損益",
+        "yomi": "そんえき"
+      },
+      {
+        "text": "が",
+        "yomi": "が",
+        "particle": true
+      },
+      {
+        "text": "出",
+        "yomi": "で"
+      },
+      {
+        "text": "る",
+        "yomi": "る"
+      }
+    ],
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l4_fa_08",
+    "level": 4,
+    "category": "financial_assets",
+    "display": "シャープレシオはリスクに対するリターンを示し、数値が高いほど効率的である",
+    "input": "shaapureshioharisukunitaisururitaanwoshimeshisuuchigatakaihodokouritsutekidearu",
+    "tokens": [
+      {
+        "text": "シャープレシオ",
+        "yomi": "しゃーぷれしお"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "リスク",
+        "yomi": "りすく"
+      },
+      {
+        "text": "に",
+        "yomi": "に",
+        "particle": true
+      },
+      {
+        "text": "対",
+        "yomi": "たい"
+      },
+      {
+        "text": "する",
+        "yomi": "する"
+      },
+      {
+        "text": "リターン",
+        "yomi": "りたーん"
+      },
+      {
+        "text": "を",
+        "yomi": "を",
+        "particle": true
+      },
+      {
+        "text": "示",
+        "yomi": "しめ"
+      },
+      {
+        "text": "し",
+        "yomi": "し"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "数値",
+        "yomi": "すうち"
+      },
+      {
+        "text": "が",
+        "yomi": "が",
+        "particle": true
+      },
+      {
+        "text": "高",
+        "yomi": "たか"
+      },
+      {
+        "text": "いほど",
+        "yomi": "いほど"
+      },
+      {
+        "text": "効率的",
+        "yomi": "こうりつてき"
+      },
+      {
+        "text": "である",
+        "yomi": "である"
+      }
+    ],
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l4_tp_01",
+    "level": 4,
+    "category": "tax_planning",
+    "display": "退職所得控除は勤続20年以下が40万円×年数、20年超は800万円＋70万円×超過年数である",
+    "input": "taishokushotokukoujohakinnzokunijuunennikagayonnjuumannennkakerunennsuunijuunennchouhahappyakumannennpurasunanajuumannennkakeruchoukanennsuudearu",
+    "tokens": [
+      {
+        "text": "退職所得控除",
+        "yomi": "たいしょくしょとくこうじょ"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "勤続20年以下",
+        "yomi": "きんぞくにじゅうねんいか"
+      },
+      {
+        "text": "が",
+        "yomi": "が",
+        "particle": true
+      },
+      {
+        "text": "40万円×年数",
+        "yomi": "よんじゅうまんえんかけるねんすうにじゅうねんちょう"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "20年超",
+        "yomi": "は"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "800万円＋70万円×超過年数",
+        "yomi": "っぴゃくまんえんぷらすななじゅうまんえんかけるちょうかねんすう"
+      },
+      {
+        "text": "である",
+        "yomi": "である"
+      }
+    ],
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l4_tp_02",
+    "level": 4,
+    "category": "tax_planning",
+    "display": "住宅ローン控除は床面積50㎡以上が要件で、合計所得2000万円以下に適用される",
+    "input": "juutakuroonnkoujohayukamennsekigojuuheibeiijougayoukenndegoukeishotokunisennmannennikanitekiyousareru",
+    "tokens": [
+      {
+        "text": "住宅ローン控除は床面積50㎡以上が要件で、合計所得2000万円以下に適用される",
+        "yomi": "じゅうたくろーんこうじょはゆかめんせきごじゅうへいべいいじょうがようけんでごうけいしょとくにせんまんえんいかにてきようされる"
+      }
+    ],
+    "tags": [
+      "tax_planning"
+    ],
+    "fallback": true
+  },
+  {
+    "id": "fp3_l4_tp_03",
+    "level": 4,
+    "category": "tax_planning",
+    "display": "給与所得控除の最低額は55万円で、給与収入162.5万円以下が対象となる",
+    "input": "kyuuyoshotokukoujonosaiteigakuhagojuugomannenndekyuuyoshuunyuuhyakurokujuunitenngomannennikagataishoutonaru",
+    "tokens": [
+      {
+        "text": "給与所得控除の最低額は55万円で、給与収入162.5万円以下が対象となる",
+        "yomi": "きゅうよしょとくこうじょのさいていがくはごじゅうごまんえんできゅうよしゅうにゅうひゃくろくじゅうにてんごまんえんいかがたいしょうとなる"
+      }
+    ],
+    "tags": [
+      "tax_planning"
+    ],
+    "fallback": true,
+    "issues": [
+      "hiragana/katakana mismatch at part 10: expected \"が\", got \"\"",
+      "hiragana/katakana mismatch at part 12: expected \"となる\", got \"\""
+    ]
+  },
+  {
+    "id": "fp3_l4_tp_04",
+    "level": 4,
+    "category": "tax_planning",
+    "display": "青色申告特別控除は最大65万円で、複式簿記と電子申告等が要件である",
+    "input": "aoiroshinnkokutokubetsukoujohasaidairokujuugomannendefukushikibokitodennshishinnkokutougayoukendearu",
+    "tokens": [
+      {
+        "text": "青色申告特別控除",
+        "yomi": "あおいろしんこくとくべつこうじょ"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "最大65万円",
+        "yomi": "さいだいろくじゅうごまんえん"
+      },
+      {
+        "text": "で",
+        "yomi": "で"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "複式簿記",
+        "yomi": "ふくしきぼき"
+      },
+      {
+        "text": "と",
+        "yomi": "と",
+        "particle": true
+      },
+      {
+        "text": "電子申告等",
+        "yomi": "でんししんこくとう"
+      },
+      {
+        "text": "が",
+        "yomi": "が",
+        "particle": true
+      },
+      {
+        "text": "要件",
+        "yomi": "ようけん"
+      },
+      {
+        "text": "である",
+        "yomi": "である"
+      }
+    ],
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l4_tp_05",
+    "level": 4,
+    "category": "tax_planning",
+    "display": "医療費控除は10万円を超えた額が対象で、所得200万円未満は所得の5%が基準となる",
+    "input": "iryouhikoujohajuumannenwokoetagakugataishoudeshotokunihyakumannennmimanhashotokunogopaasenntogakijuntonaru",
+    "tokens": [
+      {
+        "text": "医療費控除",
+        "yomi": "いりょうひこうじょ"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "10万円",
+        "yomi": "じゅうまんえん"
+      },
+      {
+        "text": "を",
+        "yomi": "を",
+        "particle": true
+      },
+      {
+        "text": "超",
+        "yomi": "こ"
+      },
+      {
+        "text": "えた",
+        "yomi": "えた"
+      },
+      {
+        "text": "額",
+        "yomi": "がく"
+      },
+      {
+        "text": "が",
+        "yomi": "が",
+        "particle": true
+      },
+      {
+        "text": "対象",
+        "yomi": "たいしょう"
+      },
+      {
+        "text": "で",
+        "yomi": "で"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "所得200万円未満",
+        "yomi": "しょとくにひゃくまんえんみまん"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "所得",
+        "yomi": "しょとく"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "5%",
+        "yomi": "ごぱーせんと"
+      },
+      {
+        "text": "が",
+        "yomi": "が",
+        "particle": true
+      },
+      {
+        "text": "基準",
+        "yomi": "きじゅん"
+      },
+      {
+        "text": "となる",
+        "yomi": "となる"
+      }
+    ],
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l4_tp_06",
+    "level": 4,
+    "category": "tax_planning",
+    "display": "ふるさと納税はワンストップ特例なら確定申告不要で、5自治体以内が条件である",
+    "input": "furusatonouzeihawannsutopputokureinarakakuteishinnkokufuyoudegojichitaiinaigajoukendearu",
+    "tokens": [
+      {
+        "text": "ふるさと",
+        "yomi": "ふるさと"
+      },
+      {
+        "text": "納税",
+        "yomi": "のうぜい"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "ワンストップ",
+        "yomi": "わんすとっぷ"
+      },
+      {
+        "text": "特例",
+        "yomi": "とくれい"
+      },
+      {
+        "text": "なら",
+        "yomi": "なら"
+      },
+      {
+        "text": "確定申告不要",
+        "yomi": "かくていしんこくふよう"
+      },
+      {
+        "text": "で",
+        "yomi": "で"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "5自治体以内",
+        "yomi": "ごじちたいいない"
+      },
+      {
+        "text": "が",
+        "yomi": "が",
+        "particle": true
+      },
+      {
+        "text": "条件",
+        "yomi": "じょうけん"
+      },
+      {
+        "text": "である",
+        "yomi": "である"
+      }
+    ],
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l4_tp_07",
+    "level": 4,
+    "category": "tax_planning",
+    "display": "基礎控除は最大48万円で、合計所得2400万円超から段階的に減額される",
+    "input": "kisokoujohasaidaiyonnjuuhachimannendegoukeishotokunisennyonnhyakumannennchoukaradannkaitekinigenngakusareru",
+    "tokens": [
+      {
+        "text": "基礎控除",
+        "yomi": "きそこうじょ"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "最大48万円",
+        "yomi": "さいだいよんじゅうはちまんえん"
+      },
+      {
+        "text": "で",
+        "yomi": "で"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "合計所得2400万円超",
+        "yomi": "ごうけいしょとくにせんよんひゃくまんえんちょう"
+      },
+      {
+        "text": "から",
+        "yomi": "から"
+      },
+      {
+        "text": "段階的",
+        "yomi": "だんかいてき"
+      },
+      {
+        "text": "に",
+        "yomi": "に",
+        "particle": true
+      },
+      {
+        "text": "減額",
+        "yomi": "げんがく"
+      },
+      {
+        "text": "される",
+        "yomi": "される"
+      }
+    ],
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l4_tp_08",
+    "level": 4,
+    "category": "tax_planning",
+    "display": "配偶者控除は最大38万円で、納税者本人の所得900万円超から減額される",
+    "input": "haiguushakoujohasaidaisannjuuhachimannendenouzeishahonnninnoshotokukyuuhyakumannennchoukaragenngakusareru",
+    "tokens": [
+      {
+        "text": "配偶者控除",
+        "yomi": "はいぐうしゃこうじょ"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "最大38万円",
+        "yomi": "さいだいさんじゅうはちまんえん"
+      },
+      {
+        "text": "で",
+        "yomi": "で"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "納税者本人",
+        "yomi": "のうぜいしゃほんにん"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "所得900万円超",
+        "yomi": "しょとくきゅうひゃくまんえんちょう"
+      },
+      {
+        "text": "から",
+        "yomi": "から"
+      },
+      {
+        "text": "減額",
+        "yomi": "げんがく"
+      },
+      {
+        "text": "される",
+        "yomi": "される"
+      }
+    ],
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l4_re_01",
+    "level": 4,
+    "category": "real_estate",
+    "display": "居住用財産を10年超所有して譲渡すると、軽減税率の特例が適用される",
+    "input": "kyojuuyouzaisanwojuunennchoushoyuushitejoutosurutokeigennzeiritsunotokureigatekiyousareru",
+    "tokens": [
+      {
+        "text": "居住用財産",
+        "yomi": "きょじゅうようざいさん"
+      },
+      {
+        "text": "を",
+        "yomi": "を",
+        "particle": true
+      },
+      {
+        "text": "10年超所有",
+        "yomi": "じゅうねんちょうしょゆう"
+      },
+      {
+        "text": "して",
+        "yomi": "して"
+      },
+      {
+        "text": "譲渡",
+        "yomi": "じょうと"
+      },
+      {
+        "text": "すると",
+        "yomi": "すると"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "軽減税率",
+        "yomi": "けいげんぜいりつ"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "特例",
+        "yomi": "とくれい"
+      },
+      {
+        "text": "が",
+        "yomi": "が",
+        "particle": true
+      },
+      {
+        "text": "適用",
+        "yomi": "てきよう"
+      },
+      {
+        "text": "される",
+        "yomi": "される"
+      }
+    ],
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l4_re_02",
+    "level": 4,
+    "category": "real_estate",
+    "display": "固定資産税は1月1日現在の所有者に課税され、納期は通常年4回である",
+    "input": "koteishisannzeihaichigatsutsuitachigennzainoshoyuushanikazeisarenoukihatsuujounennyonnkaidearu",
+    "tokens": [
+      {
+        "text": "固定資産税",
+        "yomi": "こていしさんぜい"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "1月1日現在",
+        "yomi": "いちがつついたちげんざい"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "所有者",
+        "yomi": "しょゆうしゃ"
+      },
+      {
+        "text": "に",
+        "yomi": "に",
+        "particle": true
+      },
+      {
+        "text": "課税",
+        "yomi": "かぜい"
+      },
+      {
+        "text": "され",
+        "yomi": "され"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "納期",
+        "yomi": "のうき"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "通常年4回",
+        "yomi": "つうじょうねんよんかい"
+      },
+      {
+        "text": "である",
+        "yomi": "である"
+      }
+    ],
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l4_re_03",
+    "level": 4,
+    "category": "real_estate",
+    "display": "建ぺい率は敷地面積に対する建築面積の割合で、防火地域では緩和措置がある",
+    "input": "kenpeiritsuhashikichimennsekinitaisurukennchikumennsekinowariaideboukachiikidehakannwasochigaaru",
+    "tokens": [
+      {
+        "text": "建",
+        "yomi": "けん"
+      },
+      {
+        "text": "ぺい",
+        "yomi": "ぺい"
+      },
+      {
+        "text": "率",
+        "yomi": "りつ"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "敷地面積",
+        "yomi": "しきちめんせき"
+      },
+      {
+        "text": "に",
+        "yomi": "に",
+        "particle": true
+      },
+      {
+        "text": "対",
+        "yomi": "たい"
+      },
+      {
+        "text": "する",
+        "yomi": "する"
+      },
+      {
+        "text": "建築面積",
+        "yomi": "けんちくめんせき"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "割合",
+        "yomi": "わりあい"
+      },
+      {
+        "text": "で",
+        "yomi": "で"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "防火地域",
+        "yomi": "ぼうかちいき"
+      },
+      {
+        "text": "では",
+        "yomi": "では"
+      },
+      {
+        "text": "緩和措置",
+        "yomi": "かんわそち"
+      },
+      {
+        "text": "がある",
+        "yomi": "がある"
+      }
+    ],
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l4_re_04",
+    "level": 4,
+    "category": "real_estate",
+    "display": "接道義務は幅員4メートル以上の道路に2メートル以上接することで、満たさないと再建築できない",
+    "input": "setsudougimuhafukuinnyonmeetoruijounodouroninimeetoruijousextusurukotodemitasanaitosaikennchikudekinai",
+    "tokens": [
+      {
+        "text": "接道義務",
+        "yomi": "せつどうぎむ"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "幅員4",
+        "yomi": "ふくいんよん"
+      },
+      {
+        "text": "メートル",
+        "yomi": "めーとる"
+      },
+      {
+        "text": "以上",
+        "yomi": "いじょう"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "道路",
+        "yomi": "どうろ"
+      },
+      {
+        "text": "に",
+        "yomi": "に",
+        "particle": true
+      },
+      {
+        "text": "2",
+        "yomi": "に"
+      },
+      {
+        "text": "メートル",
+        "yomi": "めーとる"
+      },
+      {
+        "text": "以上接",
+        "yomi": "いじょうせっ"
+      },
+      {
+        "text": "することで",
+        "yomi": "することで"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "満",
+        "yomi": "み"
+      },
+      {
+        "text": "たさないと",
+        "yomi": "たさないと"
+      },
+      {
+        "text": "再建築",
+        "yomi": "さいけんちく"
+      },
+      {
+        "text": "できない",
+        "yomi": "できない"
+      }
+    ],
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l4_re_05",
+    "level": 4,
+    "category": "real_estate",
+    "display": "不動産取得税の課税標準は固定資産税評価額で、住宅には軽減措置がある",
+    "input": "fudousannshutokuzeinokazeihyoujunhakoteishisannzeihyoukagakudejuutakunihakeigennsochigaaru",
+    "tokens": [
+      {
+        "text": "不動産取得税",
+        "yomi": "ふどうさんしゅとくぜい"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "課税標準",
+        "yomi": "かぜいひょうじゅん"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "固定資産税評価額",
+        "yomi": "こていしさんぜいひょうかがく"
+      },
+      {
+        "text": "で",
+        "yomi": "で"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "住宅",
+        "yomi": "じゅうたく"
+      },
+      {
+        "text": "には",
+        "yomi": "には"
+      },
+      {
+        "text": "軽減措置",
+        "yomi": "けいげんそち"
+      },
+      {
+        "text": "がある",
+        "yomi": "がある"
+      }
+    ],
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l4_re_06",
+    "level": 4,
+    "category": "real_estate",
+    "display": "普通借地権は存続期間30年以上で、更新後は1回目20年・2回目以降10年となる",
+    "input": "futsuushakuchikennhasonnzokukikannsannjuunennijoudekoushinngohaikkaimenijuunennnikaimeikoujuunenntonaru",
+    "tokens": [
+      {
+        "text": "普通借地権は存続期間30年以上で、更新後は1回目20年・2回目以降10年となる",
+        "yomi": "ふつうしゃくちけんはそんぞくきかんさんじゅうねんいじょうでこうしんごはいっかいめにじゅうねんにかいめいこうじゅうねんとなる"
+      }
+    ],
+    "tags": [
+      "real_estate"
+    ],
+    "fallback": true,
+    "issues": [
+      "hiragana/katakana mismatch at part 10: expected \"となる\", got \"\""
+    ]
+  },
+  {
+    "id": "fp3_l4_re_07",
+    "level": 4,
+    "category": "real_estate",
+    "display": "路線価は相続税や贈与税の評価に使われ、公示価格の80%が目安である",
+    "input": "rosennkahasouzokuzeiyazouyozeinohyoukanitsukawarekoujikakakunohachijuppaasenntogameyasudearu",
+    "tokens": [
+      {
+        "text": "路線価",
+        "yomi": "ろせんか"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "相続税",
+        "yomi": "そうぞくぜい"
+      },
+      {
+        "text": "や",
+        "yomi": "や",
+        "particle": true
+      },
+      {
+        "text": "贈与税",
+        "yomi": "ぞうよぜい"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "評価",
+        "yomi": "ひょうか"
+      },
+      {
+        "text": "に",
+        "yomi": "に",
+        "particle": true
+      },
+      {
+        "text": "使",
+        "yomi": "つか"
+      },
+      {
+        "text": "われ",
+        "yomi": "われ"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "公示価格",
+        "yomi": "こうじかかく"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "80%",
+        "yomi": "はちじゅっぱーせんと"
+      },
+      {
+        "text": "が",
+        "yomi": "が",
+        "particle": true
+      },
+      {
+        "text": "目安",
+        "yomi": "めやす"
+      },
+      {
+        "text": "である",
+        "yomi": "である"
+      }
+    ],
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l4_re_08",
+    "level": 4,
+    "category": "real_estate",
+    "display": "居住用財産の3000万円特別控除は、所有期間を問わず適用される",
+    "input": "kyojuuyouzaisannosannzennmannenntokubetsukoujohashoyuukikanwotowazutekiyousareru",
+    "tokens": [
+      {
+        "text": "居住用財産",
+        "yomi": "きょじゅうようざいさん"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "3000万円特別控除",
+        "yomi": "さんぜんまんえんとくべつこうじょ"
+      },
+      {
+        "text": "は",
+        "yomi": "は"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "所有期間",
+        "yomi": "しょゆうきかん"
+      },
+      {
+        "text": "を",
+        "yomi": "を",
+        "particle": true
+      },
+      {
+        "text": "問",
+        "yomi": "と"
+      },
+      {
+        "text": "わず",
+        "yomi": "わず"
+      },
+      {
+        "text": "適用",
+        "yomi": "てきよう"
+      },
+      {
+        "text": "される",
+        "yomi": "される"
+      }
+    ],
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l4_in_01",
+    "level": 4,
+    "category": "inheritance",
+    "display": "相続税の基礎控除は3000万円＋600万円×法定相続人の数で計算される",
+    "input": "souzokuzeinokisokoujohasannzennmannennpurasuroppyakumannennkakeruhouteisouzokuninnnokazudekeisannsareru",
+    "tokens": [
+      {
+        "text": "相続税の基礎控除は3000万円＋600万円×法定相続人の数で計算される",
+        "yomi": "そうぞくぜいのきそこうじょはさんぜんまんえんぷらすろっぴゃくまんえんかけるほうていそうぞくにんのかずでけいさんされる"
+      }
+    ],
+    "tags": [
+      "inheritance"
+    ],
+    "fallback": true,
+    "issues": [
+      "hiragana/katakana mismatch at part 9: expected \"される\", got \"さんさ\"",
+      "yomi length mismatch: consumed 53, total 58"
+    ]
+  },
+  {
+    "id": "fp3_l4_in_02",
+    "level": 4,
+    "category": "inheritance",
+    "display": "配偶者の税額軽減は1億6000万円か法定相続分のいずれか多い額までが非課税である",
+    "input": "haiguushanozeigakukeigenhaichiokurokusennmannenkahouteisouzokubunnoizurekaooigakumadegahikazeidearu",
+    "tokens": [
+      {
+        "text": "配偶者",
+        "yomi": "はいぐうしゃ"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "税額軽減",
+        "yomi": "ぜいがくけいげん"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "1億6000万円",
+        "yomi": "いちおくろくせんまんえん"
+      },
+      {
+        "text": "か",
+        "yomi": "か"
+      },
+      {
+        "text": "法定相続分",
+        "yomi": "ほうていそうぞくぶん"
+      },
+      {
+        "text": "のいずれか",
+        "yomi": "のいずれか"
+      },
+      {
+        "text": "多",
+        "yomi": "おお"
+      },
+      {
+        "text": "い",
+        "yomi": "い"
+      },
+      {
+        "text": "額",
+        "yomi": "がく"
+      },
+      {
+        "text": "までが",
+        "yomi": "までが"
+      },
+      {
+        "text": "非課税",
+        "yomi": "ひかぜい"
+      },
+      {
+        "text": "である",
+        "yomi": "である"
+      }
+    ],
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l4_in_03",
+    "level": 4,
+    "category": "inheritance",
+    "display": "相続時精算課税制度は累計2500万円まで非課税で、超過分は20%の贈与税となる",
+    "input": "souzokujiseisannkazeiseidoharuikeinisenngohyakumannennmadehikazeidechoukabunnhanijuppaasenntonozouyozeitonaru",
+    "tokens": [
+      {
+        "text": "相続時精算課税制度は累計2500万円まで非課税で、超過分は20%の贈与税となる",
+        "yomi": "そうぞくじせいさんかぜいせいどはるいけいにせんごひゃくまんえんまでひかぜいでちょうかぶんはにじゅっぱーせんとのぞうよぜいとなる"
+      }
+    ],
+    "tags": [
+      "inheritance"
+    ],
+    "fallback": true,
+    "issues": [
+      "hiragana/katakana mismatch at part 3: expected \"まで\", got \"まん\""
+    ]
+  },
+  {
+    "id": "fp3_l4_in_04",
+    "level": 4,
+    "category": "inheritance",
+    "display": "自筆証書遺言は全文を自書するが、財産目録はパソコン作成も可能である",
+    "input": "jihitsushoushoyuigonhazennbunwojishosurugazaisannmokurokuhapasokonsakuseimokanoudearu",
+    "tokens": [
+      {
+        "text": "自筆証書遺言",
+        "yomi": "じひつしょうしょゆいごん"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "全文",
+        "yomi": "ぜんぶん"
+      },
+      {
+        "text": "を",
+        "yomi": "を",
+        "particle": true
+      },
+      {
+        "text": "自書",
+        "yomi": "じしょ"
+      },
+      {
+        "text": "するが",
+        "yomi": "するが"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "財産目録",
+        "yomi": "ざいさんもくろく"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "パソコン",
+        "yomi": "ぱそこん"
+      },
+      {
+        "text": "作成",
+        "yomi": "さくせい"
+      },
+      {
+        "text": "も",
+        "yomi": "も",
+        "particle": true
+      },
+      {
+        "text": "可能",
+        "yomi": "かのう"
+      },
+      {
+        "text": "である",
+        "yomi": "である"
+      }
+    ],
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l4_in_05",
+    "level": 4,
+    "category": "inheritance",
+    "display": "相続放棄は相続開始を知った日から3か月以内で、家庭裁判所への申述が必要である",
+    "input": "souzokuhoukihasouzokukaishiwoshittahikarasankagetsuinaidekateisaibannshohenoshinnjutsugahitsuyoudearu",
+    "tokens": [
+      {
+        "text": "相続放棄",
+        "yomi": "そうぞくほうき"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "相続開始",
+        "yomi": "そうぞくかいし"
+      },
+      {
+        "text": "を",
+        "yomi": "を",
+        "particle": true
+      },
+      {
+        "text": "知",
+        "yomi": "し"
+      },
+      {
+        "text": "った",
+        "yomi": "った"
+      },
+      {
+        "text": "日",
+        "yomi": "ひ"
+      },
+      {
+        "text": "から",
+        "yomi": "から"
+      },
+      {
+        "text": "3",
+        "yomi": "さん"
+      },
+      {
+        "text": "か",
+        "yomi": "か"
+      },
+      {
+        "text": "月以内",
+        "yomi": "げついない"
+      },
+      {
+        "text": "で",
+        "yomi": "で"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "家庭裁判所",
+        "yomi": "かていさいばんしょ"
+      },
+      {
+        "text": "への",
+        "yomi": "への"
+      },
+      {
+        "text": "申述",
+        "yomi": "しんじゅつ"
+      },
+      {
+        "text": "が",
+        "yomi": "が",
+        "particle": true
+      },
+      {
+        "text": "必要",
+        "yomi": "ひつよう"
+      },
+      {
+        "text": "である",
+        "yomi": "である"
+      }
+    ],
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l4_in_06",
+    "level": 4,
+    "category": "inheritance",
+    "display": "死亡保険金と死亡退職金は、それぞれ500万円×法定相続人の数まで非課税となる",
+    "input": "shibouhokennkintoshiboutaishokukinhasorezoregohyakumannennkakeruhouteisouzokuninnokazumadehikazeitonaru",
+    "tokens": [
+      {
+        "text": "死亡保険金",
+        "yomi": "しぼうほけんきん"
+      },
+      {
+        "text": "と",
+        "yomi": "と",
+        "particle": true
+      },
+      {
+        "text": "死亡退職金",
+        "yomi": "しぼうたいしょくきん"
+      },
+      {
+        "text": "は",
+        "yomi": "は"
+      },
+      {
+        "text": "、",
+        "yomi": ""
+      },
+      {
+        "text": "それぞれ",
+        "yomi": "それぞれ"
+      },
+      {
+        "text": "500万円×法定相続人",
+        "yomi": "ごひゃくまんえんかけるほうていそうぞくにん"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "数",
+        "yomi": "かず"
+      },
+      {
+        "text": "まで",
+        "yomi": "まで"
+      },
+      {
+        "text": "非課税",
+        "yomi": "ひかぜい"
+      },
+      {
+        "text": "となる",
+        "yomi": "となる"
+      }
+    ],
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l4_in_07",
+    "level": 4,
+    "category": "inheritance",
+    "display": "小規模宅地等の特例は居住用宅地330㎡まで80%の評価減ができる",
+    "input": "shoukibotakuchitounotokureihakyojuuyoutakuchisannbyakusannjuhheibeimadehachijuppaasenntonohyoukagengadekiru",
+    "tokens": [
+      {
+        "text": "小規模宅地等",
+        "yomi": "しょうきぼたくちとう"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "特例",
+        "yomi": "とくれい"
+      },
+      {
+        "text": "は",
+        "yomi": "は",
+        "particle": true
+      },
+      {
+        "text": "居住用宅地330㎡",
+        "yomi": "きょじゅうようたくちさんびゃくさんじゅっへいべい"
+      },
+      {
+        "text": "まで",
+        "yomi": "まで"
+      },
+      {
+        "text": "80%",
+        "yomi": "はちじゅっぱーせんと"
+      },
+      {
+        "text": "の",
+        "yomi": "の"
+      },
+      {
+        "text": "評価減",
+        "yomi": "ひょうかげん"
+      },
+      {
+        "text": "ができる",
+        "yomi": "ができる"
+      }
+    ],
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l4_in_08",
+    "level": 4,
+    "category": "inheritance",
+    "display": "直系尊属からの教育資金一括贈与は1500万円まで非課税となる",
+    "input": "chokkeisonnzokukaranokyouikushikinnikkatsuzouyohasenngohyakumannennmadehikazeitonaru",
+    "tokens": [
+      {
+        "text": "直系尊属からの教育資金一括贈与は1500万円まで非課税となる",
+        "yomi": "ちょっけいそんぞくからのきょういくしきんいっかつぞうよはせんごひゃくまんえんまでひかぜいとなる"
+      }
+    ],
+    "tags": [
+      "inheritance"
+    ],
+    "fallback": true,
+    "issues": [
+      "hiragana/katakana mismatch at part 5: expected \"まで\", got \"まん\""
+    ]
+  }
+]

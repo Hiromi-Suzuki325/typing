@@ -1,0 +1,778 @@
+[
+  {
+    "id": "fp3_l1_lp_01",
+    "level": 1,
+    "category": "life_planning",
+    "display": "公的年金",
+    "input": "koutekinennkin",
+    "tokens": [
+      {
+        "text": "公的年金",
+        "yomi": "こうてきねんきん"
+      }
+    ],
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_lp_02",
+    "level": 1,
+    "category": "life_planning",
+    "display": "厚生年金",
+    "input": "kouseinennkin",
+    "tokens": [
+      {
+        "text": "厚生年金",
+        "yomi": "こうせいねんきん"
+      }
+    ],
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_lp_03",
+    "level": 1,
+    "category": "life_planning",
+    "display": "国民年金",
+    "input": "kokuminnnennkin",
+    "tokens": [
+      {
+        "text": "国民年金",
+        "yomi": "こくみんねんきん"
+      }
+    ],
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_lp_04",
+    "level": 1,
+    "category": "life_planning",
+    "display": "高額療養費",
+    "input": "kougakuryouyouhi",
+    "tokens": [
+      {
+        "text": "高額療養費",
+        "yomi": "こうがくりょうようひ"
+      }
+    ],
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_lp_05",
+    "level": 1,
+    "category": "life_planning",
+    "display": "傷病手当金",
+    "input": "shoubyouteatekin",
+    "tokens": [
+      {
+        "text": "傷病手当金",
+        "yomi": "しょうびょうてあてきん"
+      }
+    ],
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_lp_06",
+    "level": 1,
+    "category": "life_planning",
+    "display": "介護保険",
+    "input": "kaigohoken",
+    "tokens": [
+      {
+        "text": "介護保険",
+        "yomi": "かいごほけん"
+      }
+    ],
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_lp_07",
+    "level": 1,
+    "category": "life_planning",
+    "display": "可処分所得",
+    "input": "kashobunnshotoku",
+    "tokens": [
+      {
+        "text": "可処分所得",
+        "yomi": "かしょぶんしょとく"
+      }
+    ],
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_lp_08",
+    "level": 1,
+    "category": "life_planning",
+    "display": "雇用保険",
+    "input": "koyouhoken",
+    "tokens": [
+      {
+        "text": "雇用保険",
+        "yomi": "こようほけん"
+      }
+    ],
+    "tags": [
+      "life_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_rm_01",
+    "level": 1,
+    "category": "risk_management",
+    "display": "生命保険",
+    "input": "seimeihoken",
+    "tokens": [
+      {
+        "text": "生命保険",
+        "yomi": "せいめいほけん"
+      }
+    ],
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_rm_02",
+    "level": 1,
+    "category": "risk_management",
+    "display": "医療保険",
+    "input": "iryouhoken",
+    "tokens": [
+      {
+        "text": "医療保険",
+        "yomi": "いりょうほけん"
+      }
+    ],
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_rm_03",
+    "level": 1,
+    "category": "risk_management",
+    "display": "損害保険",
+    "input": "sonngaihoken",
+    "tokens": [
+      {
+        "text": "損害保険",
+        "yomi": "そんがいほけん"
+      }
+    ],
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_rm_04",
+    "level": 1,
+    "category": "risk_management",
+    "display": "自動車保険",
+    "input": "jidoushahoken",
+    "tokens": [
+      {
+        "text": "自動車保険",
+        "yomi": "じどうしゃほけん"
+      }
+    ],
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_rm_05",
+    "level": 1,
+    "category": "risk_management",
+    "display": "火災保険",
+    "input": "kasaihoken",
+    "tokens": [
+      {
+        "text": "火災保険",
+        "yomi": "かさいほけん"
+      }
+    ],
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_rm_06",
+    "level": 1,
+    "category": "risk_management",
+    "display": "地震保険",
+    "input": "jishinnhoken",
+    "tokens": [
+      {
+        "text": "地震保険",
+        "yomi": "じしんほけん"
+      }
+    ],
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_rm_07",
+    "level": 1,
+    "category": "risk_management",
+    "display": "がん保険",
+    "input": "ganhoken",
+    "tokens": [
+      {
+        "text": "がん",
+        "yomi": "がん"
+      },
+      {
+        "text": "保険",
+        "yomi": "ほけん"
+      }
+    ],
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_rm_08",
+    "level": 1,
+    "category": "risk_management",
+    "display": "個人年金保険",
+    "input": "kojinnnennkinnhoken",
+    "tokens": [
+      {
+        "text": "個人年金保険",
+        "yomi": "こじんねんきんほけん"
+      }
+    ],
+    "tags": [
+      "risk_management"
+    ]
+  },
+  {
+    "id": "fp3_l1_fa_01",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "NISA",
+    "input": "NISA",
+    "tokens": [
+      {
+        "text": "NISA",
+        "kind": "raw"
+      }
+    ],
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_fa_02",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "iDeCo",
+    "input": "iDeCo",
+    "tokens": [
+      {
+        "text": "iDeCo",
+        "kind": "raw"
+      }
+    ],
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_fa_03",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "投資信託",
+    "input": "toushishinntaku",
+    "tokens": [
+      {
+        "text": "投資信託",
+        "yomi": "とうししんたく"
+      }
+    ],
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_fa_04",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "株式投資",
+    "input": "kabushikitoushi",
+    "tokens": [
+      {
+        "text": "株式投資",
+        "yomi": "かぶしきとうし"
+      }
+    ],
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_fa_05",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "債券",
+    "input": "saiken",
+    "tokens": [
+      {
+        "text": "債券",
+        "yomi": "さいけん"
+      }
+    ],
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_fa_06",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "外貨預金",
+    "input": "gaikayokin",
+    "tokens": [
+      {
+        "text": "外貨預金",
+        "yomi": "がいかよきん"
+      }
+    ],
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_fa_07",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "預金保険",
+    "input": "yokinnhoken",
+    "tokens": [
+      {
+        "text": "預金保険",
+        "yomi": "よきんほけん"
+      }
+    ],
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_fa_08",
+    "level": 1,
+    "category": "financial_assets",
+    "display": "利回り",
+    "input": "rimawari",
+    "tokens": [
+      {
+        "text": "利回",
+        "yomi": "りまわ"
+      },
+      {
+        "text": "り",
+        "yomi": "り"
+      }
+    ],
+    "tags": [
+      "financial_assets"
+    ]
+  },
+  {
+    "id": "fp3_l1_tp_01",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "所得税",
+    "input": "shotokuzei",
+    "tokens": [
+      {
+        "text": "所得税",
+        "yomi": "しょとくぜい"
+      }
+    ],
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_tp_02",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "住民税",
+    "input": "juuminnzei",
+    "tokens": [
+      {
+        "text": "住民税",
+        "yomi": "じゅうみんぜい"
+      }
+    ],
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_tp_03",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "給与所得",
+    "input": "kyuuyoshotoku",
+    "tokens": [
+      {
+        "text": "給与所得",
+        "yomi": "きゅうよしょとく"
+      }
+    ],
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_tp_04",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "事業所得",
+    "input": "jigyoushotoku",
+    "tokens": [
+      {
+        "text": "事業所得",
+        "yomi": "じぎょうしょとく"
+      }
+    ],
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_tp_05",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "不動産所得",
+    "input": "fudousannshotoku",
+    "tokens": [
+      {
+        "text": "不動産所得",
+        "yomi": "ふどうさんしょとく"
+      }
+    ],
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_tp_06",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "配当所得",
+    "input": "haitoushotoku",
+    "tokens": [
+      {
+        "text": "配当所得",
+        "yomi": "はいとうしょとく"
+      }
+    ],
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_tp_07",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "退職所得",
+    "input": "taishokushotoku",
+    "tokens": [
+      {
+        "text": "退職所得",
+        "yomi": "たいしょくしょとく"
+      }
+    ],
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_tp_08",
+    "level": 1,
+    "category": "tax_planning",
+    "display": "確定申告",
+    "input": "kakuteishinnkoku",
+    "tokens": [
+      {
+        "text": "確定申告",
+        "yomi": "かくていしんこく"
+      }
+    ],
+    "tags": [
+      "tax_planning"
+    ]
+  },
+  {
+    "id": "fp3_l1_re_01",
+    "level": 1,
+    "category": "real_estate",
+    "display": "不動産登記",
+    "input": "fudousanntouki",
+    "tokens": [
+      {
+        "text": "不動産登記",
+        "yomi": "ふどうさんとうき"
+      }
+    ],
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_re_02",
+    "level": 1,
+    "category": "real_estate",
+    "display": "路線価",
+    "input": "rosennka",
+    "tokens": [
+      {
+        "text": "路線価",
+        "yomi": "ろせんか"
+      }
+    ],
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_re_03",
+    "level": 1,
+    "category": "real_estate",
+    "display": "固定資産税",
+    "input": "koteishisannzei",
+    "tokens": [
+      {
+        "text": "固定資産税",
+        "yomi": "こていしさんぜい"
+      }
+    ],
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_re_04",
+    "level": 1,
+    "category": "real_estate",
+    "display": "都市計画税",
+    "input": "toshikeikakuzei",
+    "tokens": [
+      {
+        "text": "都市計画税",
+        "yomi": "としけいかくぜい"
+      }
+    ],
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_re_05",
+    "level": 1,
+    "category": "real_estate",
+    "display": "建築基準法",
+    "input": "kennchikukijunnhou",
+    "tokens": [
+      {
+        "text": "建築基準法",
+        "yomi": "けんちくきじゅんほう"
+      }
+    ],
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_re_06",
+    "level": 1,
+    "category": "real_estate",
+    "display": "借地権",
+    "input": "shakuchiken",
+    "tokens": [
+      {
+        "text": "借地権",
+        "yomi": "しゃくちけん"
+      }
+    ],
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_re_07",
+    "level": 1,
+    "category": "real_estate",
+    "display": "借家権",
+    "input": "shakkaken",
+    "tokens": [
+      {
+        "text": "借家権",
+        "yomi": "しゃっかけん"
+      }
+    ],
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_re_08",
+    "level": 1,
+    "category": "real_estate",
+    "display": "区分所有",
+    "input": "kubunnshoyuu",
+    "tokens": [
+      {
+        "text": "区分所有",
+        "yomi": "くぶんしょゆう"
+      }
+    ],
+    "tags": [
+      "real_estate"
+    ]
+  },
+  {
+    "id": "fp3_l1_in_01",
+    "level": 1,
+    "category": "inheritance",
+    "display": "法定相続",
+    "input": "houteisouzoku",
+    "tokens": [
+      {
+        "text": "法定相続",
+        "yomi": "ほうていそうぞく"
+      }
+    ],
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_in_02",
+    "level": 1,
+    "category": "inheritance",
+    "display": "遺言",
+    "input": "yuigon",
+    "tokens": [
+      {
+        "text": "遺言",
+        "yomi": "ゆいごん"
+      }
+    ],
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_in_03",
+    "level": 1,
+    "category": "inheritance",
+    "display": "遺留分",
+    "input": "iryuubun",
+    "tokens": [
+      {
+        "text": "遺留分",
+        "yomi": "いりゅうぶん"
+      }
+    ],
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_in_04",
+    "level": 1,
+    "category": "inheritance",
+    "display": "相続税",
+    "input": "souzokuzei",
+    "tokens": [
+      {
+        "text": "相続税",
+        "yomi": "そうぞくぜい"
+      }
+    ],
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_in_05",
+    "level": 1,
+    "category": "inheritance",
+    "display": "贈与税",
+    "input": "zouyozei",
+    "tokens": [
+      {
+        "text": "贈与税",
+        "yomi": "ぞうよぜい"
+      }
+    ],
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_in_06",
+    "level": 1,
+    "category": "inheritance",
+    "display": "暦年課税",
+    "input": "rekinennkazei",
+    "tokens": [
+      {
+        "text": "暦年課税",
+        "yomi": "れきねんかぜい"
+      }
+    ],
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_in_07",
+    "level": 1,
+    "category": "inheritance",
+    "display": "養子縁組",
+    "input": "youshienngumi",
+    "tokens": [
+      {
+        "text": "養子縁組",
+        "yomi": "ようしえんぐみ"
+      }
+    ],
+    "tags": [
+      "inheritance"
+    ]
+  },
+  {
+    "id": "fp3_l1_in_08",
+    "level": 1,
+    "category": "inheritance",
+    "display": "生前贈与",
+    "input": "seizennzouyo",
+    "tokens": [
+      {
+        "text": "生前贈与",
+        "yomi": "せいぜんぞうよ"
+      }
+    ],
+    "tags": [
+      "inheritance"
+    ]
+  }
+]

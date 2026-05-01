@@ -34,7 +34,7 @@
     "level": 1,
     "category": "life_planning",
     "display": "キャッシュフロー表",
-    "input": "kyasshu furo hyou",
+    "input": "kyasshu furo- hyou",
     "tags": [
       "life_planning"
     ]
@@ -44,7 +44,7 @@
     "level": 1,
     "category": "life_planning",
     "display": "バランスシート",
-    "input": "baransu shito",
+    "input": "baransu shi-to",
     "tags": [
       "life_planning"
     ]
@@ -234,7 +234,7 @@
     "level": 1,
     "category": "life_planning",
     "display": "教育ローン",
-    "input": "kyouiku ron",
+    "input": "kyouiku ro-n",
     "tags": [
       "life_planning"
     ]
@@ -244,7 +244,7 @@
     "level": 1,
     "category": "life_planning",
     "display": "住宅ローン",
-    "input": "juutaku ron",
+    "input": "juutaku ro-n",
     "tags": [
       "life_planning"
     ]
@@ -784,7 +784,7 @@
     "level": 1,
     "category": "risk_management",
     "display": "クーリングオフ",
-    "input": "kuringu ofu",
+    "input": "ku-ringu ofu",
     "tags": [
       "risk_management"
     ]
@@ -974,7 +974,7 @@
     "level": 1,
     "category": "risk_management",
     "display": "ソルベンシーマージン",
-    "input": "sorubenshi majin",
+    "input": "sorubenshi- ma-jin",
     "tags": [
       "risk_management"
     ]
@@ -1214,7 +1214,7 @@
     "level": 1,
     "category": "financial_assets",
     "display": "ポートフォリオ",
-    "input": "potoforio",
+    "input": "po-toforio",
     "tags": [
       "financial_assets"
     ]
@@ -1224,7 +1224,7 @@
     "level": 1,
     "category": "financial_assets",
     "display": "アセットアロケーション",
-    "input": "asetto arokeishon",
+    "input": "asetto aroke-shon",
     "tags": [
       "financial_assets"
     ]
@@ -1314,7 +1314,7 @@
     "level": 1,
     "category": "financial_assets",
     "display": "インフレーション",
-    "input": "infureshon",
+    "input": "infure-shon",
     "tags": [
       "financial_assets"
     ]
@@ -1324,7 +1324,7 @@
     "level": 1,
     "category": "financial_assets",
     "display": "デフレーション",
-    "input": "defureshon",
+    "input": "defure-shon",
     "tags": [
       "financial_assets"
     ]
@@ -1904,7 +1904,7 @@
     "level": 1,
     "category": "tax_planning",
     "display": "住宅ローン控除",
-    "input": "juutaku ron koujo",
+    "input": "juutaku ro-n koujo",
     "tags": [
       "tax_planning"
     ]

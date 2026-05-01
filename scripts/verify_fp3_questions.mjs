@@ -20,7 +20,32 @@ const minCounts = new Map([
   [3, 180],
   [4, 120],
 ]);
-const inputPattern = /^[a-z ]+$/;
+const inputPattern = /^[a-z -]+$/;
+const forbiddenHyphenPatterns = [
+  "kyo-",
+  "ko-",
+  "shu-",
+  "sho-",
+  "syo-",
+  "cho-",
+  "tyo-",
+  "jo-",
+  "jyo-",
+  "ju-",
+  "jyu-",
+  "ryo-",
+  "nyu-",
+  "gyo-",
+  "hyo-",
+  "fudo-",
+  "so-",
+  "zo-",
+  "to-",
+  "no-",
+  "ho-",
+  "yo-",
+  "do-",
+];
 
 const seenIds = new Set();
 const errors = [];
@@ -95,6 +120,11 @@ for (const [level, minCount] of minCounts) {
       }
       if (question.input.includes("  ")) {
         errors.push(`${location}: input must not contain repeated spaces`);
+      }
+      for (const pattern of forbiddenHyphenPatterns) {
+        if (question.input.includes(pattern)) {
+          errors.push(`${location}: input contains forbidden Japanese long-vowel hyphen "${pattern}"`);
+        }
       }
     }
 

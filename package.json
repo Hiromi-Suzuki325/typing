@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "verify": "node scripts/verify_fp3_questions.mjs && node scripts/verify_tokens.mjs && node scripts/check_romaji_variants.mjs"
+  }
+}

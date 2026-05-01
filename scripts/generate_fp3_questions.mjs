@@ -387,6 +387,28 @@ const level4Inputs = {
   inheritance: "souzoku to zouyo dewa zaisan no naiyou dake de naku ishi hyouji kazoku kankei tetsuzuki no nagare wo seiri suru",
 };
 
+const loanwordInputs = new Map([
+  ["ライフプラン", "raifu puran"],
+  ["ファイナンシャルプランナー", "fainansharu puranna"],
+  ["キャッシュフロー表", "kyasshu furo- hyou"],
+  ["バランスシート", "baransu shi-to"],
+  ["ライフイベント表", "raifu ibento hyou"],
+  ["ライフデザイン", "raifu dezain"],
+  ["リタイアメントプラン", "ritaiamento puran"],
+  ["教育ローン", "kyouiku ro-n"],
+  ["住宅ローン", "juutaku ro-n"],
+  ["クーリングオフ", "ku-ringu ofu"],
+  ["ソルベンシーマージン", "sorubenshi- ma-jin"],
+  ["キャピタルゲイン", "kyapitaru gein"],
+  ["インカムゲイン", "inkamu gein"],
+  ["ポートフォリオ", "po-toforio"],
+  ["アセットアロケーション", "asetto aroke-shon"],
+  ["インフレーション", "infure-shon"],
+  ["デフレーション", "defure-shon"],
+  ["タックスプランニング", "takkusu puranningu"],
+  ["マンション管理", "manshon kanri"],
+]);
+
 function parseTerms(category) {
   return termRows[category]
     .trim()
@@ -399,6 +421,30 @@ function parseTerms(category) {
 
 function questionId(level, seq) {
   return `fp3_l${level}_${String(seq).padStart(4, "0")}`;
+}
+
+function formatLongVowels(input) {
+  return input;
+}
+
+function formatLoanwordInput(display, input) {
+  for (const [word, romaji] of loanwordInputs) {
+    if (display === word) return romaji;
+    if (!display.includes(word)) continue;
+    return input.replaceAll(loanwordInputs.get(word).replaceAll("-", ""), romaji);
+  }
+
+  return input;
+}
+
+function formatQuestionInput(question) {
+  return {
+    ...question,
+    input: formatLoanwordInput(
+      question.display,
+      formatLongVowels(question.input)
+    ),
+  };
 }
 
 function buildLevel1() {
@@ -478,10 +524,10 @@ function buildLevel4() {
 }
 
 const levels = new Map([
-  [1, buildLevel1()],
-  [2, buildLevel2()],
-  [3, buildLevel3()],
-  [4, buildLevel4()],
+  [1, buildLevel1().map(formatQuestionInput)],
+  [2, buildLevel2().map(formatQuestionInput)],
+  [3, buildLevel3().map(formatQuestionInput)],
+  [4, buildLevel4().map(formatQuestionInput)],
 ]);
 
 await mkdir(dataDir, { recursive: true });

@@ -4,7 +4,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "ライフプランは、将来の収支と生活設計を結び付けて整理する項目です。",
-    "input": "raifu puran wa shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
+    "input": "raifu puran ha shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -15,7 +15,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "ライフプランは、家計の目標を確認し資金準備の順序を考えるために使います。",
-    "input": "raifu puran wa kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
+    "input": "raifu puran ha kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -26,7 +26,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "ライフプランは、相談者の働き方や家族構成に合わせて確認する知識です。",
-    "input": "raifu puran wa soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
+    "input": "raifu puran ha soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -37,7 +37,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "ファイナンシャルプランナーは、将来の収支と生活設計を結び付けて整理する項目です。",
-    "input": "fainansharu puranna wa shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
+    "input": "fainansharu puranna ha shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -48,7 +48,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "ファイナンシャルプランナーは、家計の目標を確認し資金準備の順序を考えるために使います。",
-    "input": "fainansharu puranna wa kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
+    "input": "fainansharu puranna ha kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -59,7 +59,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "ファイナンシャルプランナーは、相談者の働き方や家族構成に合わせて確認する知識です。",
-    "input": "fainansharu puranna wa soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
+    "input": "fainansharu puranna ha soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -70,7 +70,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "資金計画は、将来の収支と生活設計を結び付けて整理する項目です。",
-    "input": "shikin keikaku wa shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
+    "input": "shikin keikaku ha shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -81,7 +81,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "資金計画は、家計の目標を確認し資金準備の順序を考えるために使います。",
-    "input": "shikin keikaku wa kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
+    "input": "shikin keikaku ha kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -92,7 +92,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "資金計画は、相談者の働き方や家族構成に合わせて確認する知識です。",
-    "input": "shikin keikaku wa soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
+    "input": "shikin keikaku ha soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -103,7 +103,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "キャッシュフロー表は、将来の収支と生活設計を結び付けて整理する項目です。",
-    "input": "kyasshu furo hyou wa shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
+    "input": "kyasshu furo- hyou ha shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -114,7 +114,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "キャッシュフロー表は、家計の目標を確認し資金準備の順序を考えるために使います。",
-    "input": "kyasshu furo hyou wa kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
+    "input": "kyasshu furo- hyou ha kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -125,7 +125,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "キャッシュフロー表は、相談者の働き方や家族構成に合わせて確認する知識です。",
-    "input": "kyasshu furo hyou wa soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
+    "input": "kyasshu furo- hyou ha soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -136,7 +136,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "バランスシートは、将来の収支と生活設計を結び付けて整理する項目です。",
-    "input": "baransu shito wa shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
+    "input": "baransu shi-to ha shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -147,7 +147,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "バランスシートは、家計の目標を確認し資金準備の順序を考えるために使います。",
-    "input": "baransu shito wa kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
+    "input": "baransu shi-to ha kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -158,7 +158,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "バランスシートは、相談者の働き方や家族構成に合わせて確認する知識です。",
-    "input": "baransu shito wa soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
+    "input": "baransu shi-to ha soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -169,7 +169,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "可処分所得は、将来の収支と生活設計を結び付けて整理する項目です。",
-    "input": "kashobun shotoku wa shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
+    "input": "kashobun shotoku ha shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -180,7 +180,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "可処分所得は、家計の目標を確認し資金準備の順序を考えるために使います。",
-    "input": "kashobun shotoku wa kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
+    "input": "kashobun shotoku ha kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -191,7 +191,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "可処分所得は、相談者の働き方や家族構成に合わせて確認する知識です。",
-    "input": "kashobun shotoku wa soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
+    "input": "kashobun shotoku ha soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -202,7 +202,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "ライフイベント表は、将来の収支と生活設計を結び付けて整理する項目です。",
-    "input": "raifu ibento hyou wa shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
+    "input": "raifu ibento hyou ha shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -213,7 +213,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "ライフイベント表は、家計の目標を確認し資金準備の順序を考えるために使います。",
-    "input": "raifu ibento hyou wa kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
+    "input": "raifu ibento hyou ha kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -224,7 +224,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "ライフイベント表は、相談者の働き方や家族構成に合わせて確認する知識です。",
-    "input": "raifu ibento hyou wa soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
+    "input": "raifu ibento hyou ha soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -235,7 +235,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "教育資金は、将来の収支と生活設計を結び付けて整理する項目です。",
-    "input": "kyouiku shikin wa shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
+    "input": "kyouiku shikin ha shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -246,7 +246,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "教育資金は、家計の目標を確認し資金準備の順序を考えるために使います。",
-    "input": "kyouiku shikin wa kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
+    "input": "kyouiku shikin ha kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -257,7 +257,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "教育資金は、相談者の働き方や家族構成に合わせて確認する知識です。",
-    "input": "kyouiku shikin wa soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
+    "input": "kyouiku shikin ha soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -268,7 +268,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "住宅資金は、将来の収支と生活設計を結び付けて整理する項目です。",
-    "input": "juutaku shikin wa shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
+    "input": "juutaku shikin ha shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -279,7 +279,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "住宅資金は、家計の目標を確認し資金準備の順序を考えるために使います。",
-    "input": "juutaku shikin wa kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
+    "input": "juutaku shikin ha kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -290,7 +290,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "住宅資金は、相談者の働き方や家族構成に合わせて確認する知識です。",
-    "input": "juutaku shikin wa soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
+    "input": "juutaku shikin ha soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -301,7 +301,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "老後資金は、将来の収支と生活設計を結び付けて整理する項目です。",
-    "input": "rougo shikin wa shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
+    "input": "rougo shikin ha shourai no shuushi to seikatsu sekkei wo seiri suru koumoku desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -312,7 +312,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "老後資金は、家計の目標を確認し資金準備の順序を考えるために使います。",
-    "input": "rougo shikin wa kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
+    "input": "rougo shikin ha kakei no mokuhyou to shikin junbi no junjo wo kangaeru tame ni tsukaimasu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -323,7 +323,7 @@
     "level": 3,
     "category": "life_planning",
     "display": "老後資金は、相談者の働き方や家族構成に合わせて確認する知識です。",
-    "input": "rougo shikin wa soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
+    "input": "rougo shikin ha soudansha no hatarakikata ya kazoku kousei ni awasete kakunin suru chishiki desu",
     "tags": [
       "life_planning",
       "short_sentence"
@@ -334,7 +334,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "リスク管理は、起こり得る損失に備える手段を選ぶときの基本項目です。",
-    "input": "risuku kanri wa okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
+    "input": "risuku kanri ha okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -345,7 +345,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "リスク管理は、契約内容と保障の範囲を照らして確認することが大切です。",
-    "input": "risuku kanri wa keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
+    "input": "risuku kanri ha keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -356,7 +356,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "リスク管理は、家計に残すべきリスクと移転するリスクを分けて考えます。",
-    "input": "risuku kanri wa kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
+    "input": "risuku kanri ha kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -367,7 +367,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "生命保険は、起こり得る損失に備える手段を選ぶときの基本項目です。",
-    "input": "seimei hoken wa okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
+    "input": "seimei hoken ha okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -378,7 +378,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "生命保険は、契約内容と保障の範囲を照らして確認することが大切です。",
-    "input": "seimei hoken wa keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
+    "input": "seimei hoken ha keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -389,7 +389,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "生命保険は、家計に残すべきリスクと移転するリスクを分けて考えます。",
-    "input": "seimei hoken wa kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
+    "input": "seimei hoken ha kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -400,7 +400,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "損害保険は、起こり得る損失に備える手段を選ぶときの基本項目です。",
-    "input": "songai hoken wa okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
+    "input": "songai hoken ha okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -411,7 +411,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "損害保険は、契約内容と保障の範囲を照らして確認することが大切です。",
-    "input": "songai hoken wa keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
+    "input": "songai hoken ha keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -422,7 +422,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "損害保険は、家計に残すべきリスクと移転するリスクを分けて考えます。",
-    "input": "songai hoken wa kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
+    "input": "songai hoken ha kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -433,7 +433,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "第三分野保険は、起こり得る損失に備える手段を選ぶときの基本項目です。",
-    "input": "daisan bunya hoken wa okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
+    "input": "daisan bunya hoken ha okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -444,7 +444,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "第三分野保険は、契約内容と保障の範囲を照らして確認することが大切です。",
-    "input": "daisan bunya hoken wa keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
+    "input": "daisan bunya hoken ha keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -455,7 +455,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "第三分野保険は、家計に残すべきリスクと移転するリスクを分けて考えます。",
-    "input": "daisan bunya hoken wa kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
+    "input": "daisan bunya hoken ha kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -466,7 +466,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "定期保険は、起こり得る損失に備える手段を選ぶときの基本項目です。",
-    "input": "teiki hoken wa okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
+    "input": "teiki hoken ha okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -477,7 +477,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "定期保険は、契約内容と保障の範囲を照らして確認することが大切です。",
-    "input": "teiki hoken wa keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
+    "input": "teiki hoken ha keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -488,7 +488,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "定期保険は、家計に残すべきリスクと移転するリスクを分けて考えます。",
-    "input": "teiki hoken wa kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
+    "input": "teiki hoken ha kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -499,7 +499,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "終身保険は、起こり得る損失に備える手段を選ぶときの基本項目です。",
-    "input": "shuushin hoken wa okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
+    "input": "shuushin hoken ha okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -510,7 +510,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "終身保険は、契約内容と保障の範囲を照らして確認することが大切です。",
-    "input": "shuushin hoken wa keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
+    "input": "shuushin hoken ha keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -521,7 +521,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "終身保険は、家計に残すべきリスクと移転するリスクを分けて考えます。",
-    "input": "shuushin hoken wa kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
+    "input": "shuushin hoken ha kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -532,7 +532,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "養老保険は、起こり得る損失に備える手段を選ぶときの基本項目です。",
-    "input": "yourou hoken wa okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
+    "input": "yourou hoken ha okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -543,7 +543,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "養老保険は、契約内容と保障の範囲を照らして確認することが大切です。",
-    "input": "yourou hoken wa keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
+    "input": "yourou hoken ha keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -554,7 +554,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "養老保険は、家計に残すべきリスクと移転するリスクを分けて考えます。",
-    "input": "yourou hoken wa kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
+    "input": "yourou hoken ha kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -565,7 +565,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "医療保険は、起こり得る損失に備える手段を選ぶときの基本項目です。",
-    "input": "iryou hoken wa okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
+    "input": "iryou hoken ha okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -576,7 +576,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "医療保険は、契約内容と保障の範囲を照らして確認することが大切です。",
-    "input": "iryou hoken wa keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
+    "input": "iryou hoken ha keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -587,7 +587,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "医療保険は、家計に残すべきリスクと移転するリスクを分けて考えます。",
-    "input": "iryou hoken wa kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
+    "input": "iryou hoken ha kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -598,7 +598,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "がん保険は、起こり得る損失に備える手段を選ぶときの基本項目です。",
-    "input": "gan hoken wa okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
+    "input": "gan hoken ha okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -609,7 +609,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "がん保険は、契約内容と保障の範囲を照らして確認することが大切です。",
-    "input": "gan hoken wa keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
+    "input": "gan hoken ha keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -620,7 +620,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "がん保険は、家計に残すべきリスクと移転するリスクを分けて考えます。",
-    "input": "gan hoken wa kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
+    "input": "gan hoken ha kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -631,7 +631,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "介護保険は、起こり得る損失に備える手段を選ぶときの基本項目です。",
-    "input": "kaigo hoken wa okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
+    "input": "kaigo hoken ha okoriuru sonshitsu ni sonaeru shudan wo erabu toki no kihon koumoku desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -642,7 +642,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "介護保険は、契約内容と保障の範囲を照らして確認することが大切です。",
-    "input": "kaigo hoken wa keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
+    "input": "kaigo hoken ha keiyaku naiyou to hoshou no hani wo terashite kakunin suru koto ga taisetsu desu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -653,7 +653,7 @@
     "level": 3,
     "category": "risk_management",
     "display": "介護保険は、家計に残すべきリスクと移転するリスクを分けて考えます。",
-    "input": "kaigo hoken wa kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
+    "input": "kaigo hoken ha kakei ni nokosu risuku to iten suru risuku wo wakete kangaemasu",
     "tags": [
       "risk_management",
       "short_sentence"
@@ -664,7 +664,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "金融資産運用は、収益性と安全性と流動性のバランスを見て考える項目です。",
-    "input": "kinyuu shisan unyou wa shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
+    "input": "kinyuu shisan unyou ha shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -675,7 +675,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "金融資産運用は、値動きや信用状態を確認しながら運用方針を整理します。",
-    "input": "kinyuu shisan unyou wa neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
+    "input": "kinyuu shisan unyou ha neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -686,7 +686,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "金融資産運用は、目的と期間に合わせて商品や配分を選ぶための知識です。",
-    "input": "kinyuu shisan unyou wa mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
+    "input": "kinyuu shisan unyou ha mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -697,7 +697,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "預貯金は、収益性と安全性と流動性のバランスを見て考える項目です。",
-    "input": "yochokin wa shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
+    "input": "yochokin ha shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -708,7 +708,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "預貯金は、値動きや信用状態を確認しながら運用方針を整理します。",
-    "input": "yochokin wa neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
+    "input": "yochokin ha neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -719,7 +719,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "預貯金は、目的と期間に合わせて商品や配分を選ぶための知識です。",
-    "input": "yochokin wa mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
+    "input": "yochokin ha mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -730,7 +730,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "普通預金は、収益性と安全性と流動性のバランスを見て考える項目です。",
-    "input": "futsuu yokin wa shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
+    "input": "futsuu yokin ha shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -741,7 +741,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "普通預金は、値動きや信用状態を確認しながら運用方針を整理します。",
-    "input": "futsuu yokin wa neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
+    "input": "futsuu yokin ha neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -752,7 +752,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "普通預金は、目的と期間に合わせて商品や配分を選ぶための知識です。",
-    "input": "futsuu yokin wa mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
+    "input": "futsuu yokin ha mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -763,7 +763,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "定期預金は、収益性と安全性と流動性のバランスを見て考える項目です。",
-    "input": "teiki yokin wa shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
+    "input": "teiki yokin ha shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -774,7 +774,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "定期預金は、値動きや信用状態を確認しながら運用方針を整理します。",
-    "input": "teiki yokin wa neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
+    "input": "teiki yokin ha neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -785,7 +785,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "定期預金は、目的と期間に合わせて商品や配分を選ぶための知識です。",
-    "input": "teiki yokin wa mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
+    "input": "teiki yokin ha mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -796,7 +796,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "外貨預金は、収益性と安全性と流動性のバランスを見て考える項目です。",
-    "input": "gaika yokin wa shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
+    "input": "gaika yokin ha shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -807,7 +807,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "外貨預金は、値動きや信用状態を確認しながら運用方針を整理します。",
-    "input": "gaika yokin wa neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
+    "input": "gaika yokin ha neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -818,7 +818,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "外貨預金は、目的と期間に合わせて商品や配分を選ぶための知識です。",
-    "input": "gaika yokin wa mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
+    "input": "gaika yokin ha mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -829,7 +829,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "金利は、収益性と安全性と流動性のバランスを見て考える項目です。",
-    "input": "kinri wa shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
+    "input": "kinri ha shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -840,7 +840,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "金利は、値動きや信用状態を確認しながら運用方針を整理します。",
-    "input": "kinri wa neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
+    "input": "kinri ha neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -851,7 +851,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "金利は、目的と期間に合わせて商品や配分を選ぶための知識です。",
-    "input": "kinri wa mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
+    "input": "kinri ha mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -862,7 +862,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "利回りは、収益性と安全性と流動性のバランスを見て考える項目です。",
-    "input": "rimawari wa shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
+    "input": "rimawari ha shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -873,7 +873,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "利回りは、値動きや信用状態を確認しながら運用方針を整理します。",
-    "input": "rimawari wa neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
+    "input": "rimawari ha neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -884,7 +884,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "利回りは、目的と期間に合わせて商品や配分を選ぶための知識です。",
-    "input": "rimawari wa mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
+    "input": "rimawari ha mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -895,7 +895,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "単利は、収益性と安全性と流動性のバランスを見て考える項目です。",
-    "input": "tanri wa shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
+    "input": "tanri ha shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -906,7 +906,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "単利は、値動きや信用状態を確認しながら運用方針を整理します。",
-    "input": "tanri wa neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
+    "input": "tanri ha neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -917,7 +917,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "単利は、目的と期間に合わせて商品や配分を選ぶための知識です。",
-    "input": "tanri wa mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
+    "input": "tanri ha mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -928,7 +928,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "複利は、収益性と安全性と流動性のバランスを見て考える項目です。",
-    "input": "fukuri wa shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
+    "input": "fukuri ha shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -939,7 +939,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "複利は、値動きや信用状態を確認しながら運用方針を整理します。",
-    "input": "fukuri wa neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
+    "input": "fukuri ha neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -950,7 +950,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "複利は、目的と期間に合わせて商品や配分を選ぶための知識です。",
-    "input": "fukuri wa mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
+    "input": "fukuri ha mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -961,7 +961,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "債券は、収益性と安全性と流動性のバランスを見て考える項目です。",
-    "input": "saiken wa shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
+    "input": "saiken ha shuuekisei to anzensei to ryuudousei no baransu wo mite kangaeru koumoku desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -972,7 +972,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "債券は、値動きや信用状態を確認しながら運用方針を整理します。",
-    "input": "saiken wa neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
+    "input": "saiken ha neugoki ya shinyou joutai wo kakunin shinagara unyou houshin wo seiri shimasu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -983,7 +983,7 @@
     "level": 3,
     "category": "financial_assets",
     "display": "債券は、目的と期間に合わせて商品や配分を選ぶための知識です。",
-    "input": "saiken wa mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
+    "input": "saiken ha mokuteki to kikan ni awasete shouhin ya haibun wo erabu tame no chishiki desu",
     "tags": [
       "financial_assets",
       "short_sentence"
@@ -994,7 +994,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "タックスプランニングは、所得の種類や控除の考え方を整理するときの基本項目です。",
-    "input": "takkusu puranningu wa shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
+    "input": "takkusu puranningu ha shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1005,7 +1005,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "タックスプランニングは、申告や納税の流れを理解するために確認する知識です。",
-    "input": "takkusu puranningu wa shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
+    "input": "takkusu puranningu ha shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1016,7 +1016,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "タックスプランニングは、課税関係を判断するときは所得区分と手続きを分けて考えます。",
-    "input": "takkusu puranningu wa kazei kankei wo handan suru toki wa shotoku kubun to tetsuzuki wo wakete kangaemasu",
+    "input": "takkusu puranningu ha kazei kankei wo handan suru toki ha shotoku kubun to tetsuzuki wo wakete kangaemasu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1027,7 +1027,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "所得税は、所得の種類や控除の考え方を整理するときの基本項目です。",
-    "input": "shotoku zei wa shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
+    "input": "shotoku zei ha shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1038,7 +1038,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "所得税は、申告や納税の流れを理解するために確認する知識です。",
-    "input": "shotoku zei wa shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
+    "input": "shotoku zei ha shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1049,7 +1049,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "所得税は、課税関係を判断するときは所得区分と手続きを分けて考えます。",
-    "input": "shotoku zei wa kazei kankei wo handan suru toki wa shotoku kubun to tetsuzuki wo wakete kangaemasu",
+    "input": "shotoku zei ha kazei kankei wo handan suru toki ha shotoku kubun to tetsuzuki wo wakete kangaemasu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1060,7 +1060,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "住民税は、所得の種類や控除の考え方を整理するときの基本項目です。",
-    "input": "juumin zei wa shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
+    "input": "juumin zei ha shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1071,7 +1071,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "住民税は、申告や納税の流れを理解するために確認する知識です。",
-    "input": "juumin zei wa shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
+    "input": "juumin zei ha shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1082,7 +1082,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "住民税は、課税関係を判断するときは所得区分と手続きを分けて考えます。",
-    "input": "juumin zei wa kazei kankei wo handan suru toki wa shotoku kubun to tetsuzuki wo wakete kangaemasu",
+    "input": "juumin zei ha kazei kankei wo handan suru toki ha shotoku kubun to tetsuzuki wo wakete kangaemasu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1093,7 +1093,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "法人税は、所得の種類や控除の考え方を整理するときの基本項目です。",
-    "input": "houjin zei wa shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
+    "input": "houjin zei ha shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1104,7 +1104,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "法人税は、申告や納税の流れを理解するために確認する知識です。",
-    "input": "houjin zei wa shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
+    "input": "houjin zei ha shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1115,7 +1115,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "法人税は、課税関係を判断するときは所得区分と手続きを分けて考えます。",
-    "input": "houjin zei wa kazei kankei wo handan suru toki wa shotoku kubun to tetsuzuki wo wakete kangaemasu",
+    "input": "houjin zei ha kazei kankei wo handan suru toki ha shotoku kubun to tetsuzuki wo wakete kangaemasu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1126,7 +1126,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "消費税は、所得の種類や控除の考え方を整理するときの基本項目です。",
-    "input": "shouhi zei wa shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
+    "input": "shouhi zei ha shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1137,7 +1137,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "消費税は、申告や納税の流れを理解するために確認する知識です。",
-    "input": "shouhi zei wa shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
+    "input": "shouhi zei ha shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1148,7 +1148,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "消費税は、課税関係を判断するときは所得区分と手続きを分けて考えます。",
-    "input": "shouhi zei wa kazei kankei wo handan suru toki wa shotoku kubun to tetsuzuki wo wakete kangaemasu",
+    "input": "shouhi zei ha kazei kankei wo handan suru toki ha shotoku kubun to tetsuzuki wo wakete kangaemasu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1159,7 +1159,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "相続税は、所得の種類や控除の考え方を整理するときの基本項目です。",
-    "input": "souzoku zei wa shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
+    "input": "souzoku zei ha shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1170,7 +1170,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "相続税は、申告や納税の流れを理解するために確認する知識です。",
-    "input": "souzoku zei wa shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
+    "input": "souzoku zei ha shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1181,7 +1181,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "相続税は、課税関係を判断するときは所得区分と手続きを分けて考えます。",
-    "input": "souzoku zei wa kazei kankei wo handan suru toki wa shotoku kubun to tetsuzuki wo wakete kangaemasu",
+    "input": "souzoku zei ha kazei kankei wo handan suru toki ha shotoku kubun to tetsuzuki wo wakete kangaemasu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1192,7 +1192,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "贈与税は、所得の種類や控除の考え方を整理するときの基本項目です。",
-    "input": "zouyo zei wa shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
+    "input": "zouyo zei ha shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1203,7 +1203,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "贈与税は、申告や納税の流れを理解するために確認する知識です。",
-    "input": "zouyo zei wa shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
+    "input": "zouyo zei ha shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1214,7 +1214,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "贈与税は、課税関係を判断するときは所得区分と手続きを分けて考えます。",
-    "input": "zouyo zei wa kazei kankei wo handan suru toki wa shotoku kubun to tetsuzuki wo wakete kangaemasu",
+    "input": "zouyo zei ha kazei kankei wo handan suru toki ha shotoku kubun to tetsuzuki wo wakete kangaemasu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1225,7 +1225,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "固定資産税は、所得の種類や控除の考え方を整理するときの基本項目です。",
-    "input": "kotei shisan zei wa shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
+    "input": "kotei shisan zei ha shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1236,7 +1236,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "固定資産税は、申告や納税の流れを理解するために確認する知識です。",
-    "input": "kotei shisan zei wa shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
+    "input": "kotei shisan zei ha shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1247,7 +1247,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "固定資産税は、課税関係を判断するときは所得区分と手続きを分けて考えます。",
-    "input": "kotei shisan zei wa kazei kankei wo handan suru toki wa shotoku kubun to tetsuzuki wo wakete kangaemasu",
+    "input": "kotei shisan zei ha kazei kankei wo handan suru toki ha shotoku kubun to tetsuzuki wo wakete kangaemasu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1258,7 +1258,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "所得は、所得の種類や控除の考え方を整理するときの基本項目です。",
-    "input": "shotoku wa shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
+    "input": "shotoku ha shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1269,7 +1269,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "所得は、申告や納税の流れを理解するために確認する知識です。",
-    "input": "shotoku wa shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
+    "input": "shotoku ha shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1280,7 +1280,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "所得は、課税関係を判断するときは所得区分と手続きを分けて考えます。",
-    "input": "shotoku wa kazei kankei wo handan suru toki wa shotoku kubun to tetsuzuki wo wakete kangaemasu",
+    "input": "shotoku ha kazei kankei wo handan suru toki ha shotoku kubun to tetsuzuki wo wakete kangaemasu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1291,7 +1291,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "収入は、所得の種類や控除の考え方を整理するときの基本項目です。",
-    "input": "shuunyuu wa shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
+    "input": "shuunyuu ha shotoku no shurui ya koujo no kangaekata wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1302,7 +1302,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "収入は、申告や納税の流れを理解するために確認する知識です。",
-    "input": "shuunyuu wa shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
+    "input": "shuunyuu ha shinkoku ya nouzei no nagare wo rikai suru tame ni kakunin suru chishiki desu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1313,7 +1313,7 @@
     "level": 3,
     "category": "tax_planning",
     "display": "収入は、課税関係を判断するときは所得区分と手続きを分けて考えます。",
-    "input": "shuunyuu wa kazei kankei wo handan suru toki wa shotoku kubun to tetsuzuki wo wakete kangaemasu",
+    "input": "shuunyuu ha kazei kankei wo handan suru toki ha shotoku kubun to tetsuzuki wo wakete kangaemasu",
     "tags": [
       "tax_planning",
       "short_sentence"
@@ -1324,7 +1324,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "不動産は、権利関係と取引条件を確認するときの基本項目です。",
-    "input": "fudousan wa kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
+    "input": "fudousan ha kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1335,7 +1335,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "不動産は、土地や建物の利用制限を整理するために使う知識です。",
-    "input": "fudousan wa tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
+    "input": "fudousan ha tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1346,7 +1346,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "不動産は、価格や契約の判断では資料と説明内容を合わせて確認します。",
-    "input": "fudousan wa kakaku ya keiyaku no handan dewa shiryou to setsumei naiyou wo awasete kakunin shimasu",
+    "input": "fudousan ha kakaku ya keiyaku no handan deha shiryou to setsumei naiyou wo awasete kakunin shimasu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1357,7 +1357,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "土地は、権利関係と取引条件を確認するときの基本項目です。",
-    "input": "tochi wa kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
+    "input": "tochi ha kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1368,7 +1368,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "土地は、土地や建物の利用制限を整理するために使う知識です。",
-    "input": "tochi wa tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
+    "input": "tochi ha tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1379,7 +1379,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "土地は、価格や契約の判断では資料と説明内容を合わせて確認します。",
-    "input": "tochi wa kakaku ya keiyaku no handan dewa shiryou to setsumei naiyou wo awasete kakunin shimasu",
+    "input": "tochi ha kakaku ya keiyaku no handan deha shiryou to setsumei naiyou wo awasete kakunin shimasu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1390,7 +1390,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "建物は、権利関係と取引条件を確認するときの基本項目です。",
-    "input": "tatemono wa kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
+    "input": "tatemono ha kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1401,7 +1401,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "建物は、土地や建物の利用制限を整理するために使う知識です。",
-    "input": "tatemono wa tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
+    "input": "tatemono ha tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1412,7 +1412,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "建物は、価格や契約の判断では資料と説明内容を合わせて確認します。",
-    "input": "tatemono wa kakaku ya keiyaku no handan dewa shiryou to setsumei naiyou wo awasete kakunin shimasu",
+    "input": "tatemono ha kakaku ya keiyaku no handan deha shiryou to setsumei naiyou wo awasete kakunin shimasu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1423,7 +1423,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "宅地は、権利関係と取引条件を確認するときの基本項目です。",
-    "input": "takuchi wa kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
+    "input": "takuchi ha kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1434,7 +1434,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "宅地は、土地や建物の利用制限を整理するために使う知識です。",
-    "input": "takuchi wa tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
+    "input": "takuchi ha tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1445,7 +1445,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "宅地は、価格や契約の判断では資料と説明内容を合わせて確認します。",
-    "input": "takuchi wa kakaku ya keiyaku no handan dewa shiryou to setsumei naiyou wo awasete kakunin shimasu",
+    "input": "takuchi ha kakaku ya keiyaku no handan deha shiryou to setsumei naiyou wo awasete kakunin shimasu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1456,7 +1456,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "地目は、権利関係と取引条件を確認するときの基本項目です。",
-    "input": "chimoku wa kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
+    "input": "chimoku ha kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1467,7 +1467,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "地目は、土地や建物の利用制限を整理するために使う知識です。",
-    "input": "chimoku wa tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
+    "input": "chimoku ha tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1478,7 +1478,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "地目は、価格や契約の判断では資料と説明内容を合わせて確認します。",
-    "input": "chimoku wa kakaku ya keiyaku no handan dewa shiryou to setsumei naiyou wo awasete kakunin shimasu",
+    "input": "chimoku ha kakaku ya keiyaku no handan deha shiryou to setsumei naiyou wo awasete kakunin shimasu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1489,7 +1489,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "地積は、権利関係と取引条件を確認するときの基本項目です。",
-    "input": "chiseki wa kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
+    "input": "chiseki ha kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1500,7 +1500,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "地積は、土地や建物の利用制限を整理するために使う知識です。",
-    "input": "chiseki wa tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
+    "input": "chiseki ha tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1511,7 +1511,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "地積は、価格や契約の判断では資料と説明内容を合わせて確認します。",
-    "input": "chiseki wa kakaku ya keiyaku no handan dewa shiryou to setsumei naiyou wo awasete kakunin shimasu",
+    "input": "chiseki ha kakaku ya keiyaku no handan deha shiryou to setsumei naiyou wo awasete kakunin shimasu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1522,7 +1522,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "登記簿は、権利関係と取引条件を確認するときの基本項目です。",
-    "input": "toukibo wa kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
+    "input": "toukibo ha kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1533,7 +1533,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "登記簿は、土地や建物の利用制限を整理するために使う知識です。",
-    "input": "toukibo wa tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
+    "input": "toukibo ha tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1544,7 +1544,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "登記簿は、価格や契約の判断では資料と説明内容を合わせて確認します。",
-    "input": "toukibo wa kakaku ya keiyaku no handan dewa shiryou to setsumei naiyou wo awasete kakunin shimasu",
+    "input": "toukibo ha kakaku ya keiyaku no handan deha shiryou to setsumei naiyou wo awasete kakunin shimasu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1555,7 +1555,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "登記事項証明書は、権利関係と取引条件を確認するときの基本項目です。",
-    "input": "touki jikou shoumeisho wa kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
+    "input": "touki jikou shoumeisho ha kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1566,7 +1566,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "登記事項証明書は、土地や建物の利用制限を整理するために使う知識です。",
-    "input": "touki jikou shoumeisho wa tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
+    "input": "touki jikou shoumeisho ha tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1577,7 +1577,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "登記事項証明書は、価格や契約の判断では資料と説明内容を合わせて確認します。",
-    "input": "touki jikou shoumeisho wa kakaku ya keiyaku no handan dewa shiryou to setsumei naiyou wo awasete kakunin shimasu",
+    "input": "touki jikou shoumeisho ha kakaku ya keiyaku no handan deha shiryou to setsumei naiyou wo awasete kakunin shimasu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1588,7 +1588,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "所有権は、権利関係と取引条件を確認するときの基本項目です。",
-    "input": "shoyuuken wa kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
+    "input": "shoyuuken ha kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1599,7 +1599,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "所有権は、土地や建物の利用制限を整理するために使う知識です。",
-    "input": "shoyuuken wa tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
+    "input": "shoyuuken ha tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1610,7 +1610,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "所有権は、価格や契約の判断では資料と説明内容を合わせて確認します。",
-    "input": "shoyuuken wa kakaku ya keiyaku no handan dewa shiryou to setsumei naiyou wo awasete kakunin shimasu",
+    "input": "shoyuuken ha kakaku ya keiyaku no handan deha shiryou to setsumei naiyou wo awasete kakunin shimasu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1621,7 +1621,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "抵当権は、権利関係と取引条件を確認するときの基本項目です。",
-    "input": "teitouken wa kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
+    "input": "teitouken ha kenri kankei to torihiki jouken wo kakunin suru toki no kihon koumoku desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1632,7 +1632,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "抵当権は、土地や建物の利用制限を整理するために使う知識です。",
-    "input": "teitouken wa tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
+    "input": "teitouken ha tochi ya tatemono no riyou seigen wo seiri suru tame ni tsukau chishiki desu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1643,7 +1643,7 @@
     "level": 3,
     "category": "real_estate",
     "display": "抵当権は、価格や契約の判断では資料と説明内容を合わせて確認します。",
-    "input": "teitouken wa kakaku ya keiyaku no handan dewa shiryou to setsumei naiyou wo awasete kakunin shimasu",
+    "input": "teitouken ha kakaku ya keiyaku no handan deha shiryou to setsumei naiyou wo awasete kakunin shimasu",
     "tags": [
       "real_estate",
       "short_sentence"
@@ -1654,7 +1654,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "相続は、財産の移転と家族関係を整理するときの基本項目です。",
-    "input": "souzoku wa zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
+    "input": "souzoku ha zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1665,7 +1665,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "相続は、手続きや意思表示の有無を確認しながら判断する知識です。",
-    "input": "souzoku wa tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
+    "input": "souzoku ha tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1676,7 +1676,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "相続は、遺産の分け方や承継の準備を考える場面で使います。",
-    "input": "souzoku wa isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
+    "input": "souzoku ha isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1687,7 +1687,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "贈与は、財産の移転と家族関係を整理するときの基本項目です。",
-    "input": "zouyo wa zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
+    "input": "zouyo ha zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1698,7 +1698,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "贈与は、手続きや意思表示の有無を確認しながら判断する知識です。",
-    "input": "zouyo wa tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
+    "input": "zouyo ha tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1709,7 +1709,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "贈与は、遺産の分け方や承継の準備を考える場面で使います。",
-    "input": "zouyo wa isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
+    "input": "zouyo ha isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1720,7 +1720,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "遺言は、財産の移転と家族関係を整理するときの基本項目です。",
-    "input": "yuigon wa zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
+    "input": "yuigon ha zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1731,7 +1731,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "遺言は、手続きや意思表示の有無を確認しながら判断する知識です。",
-    "input": "yuigon wa tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
+    "input": "yuigon ha tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1742,7 +1742,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "遺言は、遺産の分け方や承継の準備を考える場面で使います。",
-    "input": "yuigon wa isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
+    "input": "yuigon ha isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1753,7 +1753,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "遺産分割は、財産の移転と家族関係を整理するときの基本項目です。",
-    "input": "isan bunkatsu wa zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
+    "input": "isan bunkatsu ha zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1764,7 +1764,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "遺産分割は、手続きや意思表示の有無を確認しながら判断する知識です。",
-    "input": "isan bunkatsu wa tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
+    "input": "isan bunkatsu ha tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1775,7 +1775,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "遺産分割は、遺産の分け方や承継の準備を考える場面で使います。",
-    "input": "isan bunkatsu wa isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
+    "input": "isan bunkatsu ha isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1786,7 +1786,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "法定相続人は、財産の移転と家族関係を整理するときの基本項目です。",
-    "input": "houtei souzokunin wa zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
+    "input": "houtei souzokunin ha zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1797,7 +1797,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "法定相続人は、手続きや意思表示の有無を確認しながら判断する知識です。",
-    "input": "houtei souzokunin wa tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
+    "input": "houtei souzokunin ha tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1808,7 +1808,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "法定相続人は、遺産の分け方や承継の準備を考える場面で使います。",
-    "input": "houtei souzokunin wa isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
+    "input": "houtei souzokunin ha isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1819,7 +1819,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "推定相続人は、財産の移転と家族関係を整理するときの基本項目です。",
-    "input": "suitei souzokunin wa zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
+    "input": "suitei souzokunin ha zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1830,7 +1830,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "推定相続人は、手続きや意思表示の有無を確認しながら判断する知識です。",
-    "input": "suitei souzokunin wa tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
+    "input": "suitei souzokunin ha tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1841,7 +1841,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "推定相続人は、遺産の分け方や承継の準備を考える場面で使います。",
-    "input": "suitei souzokunin wa isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
+    "input": "suitei souzokunin ha isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1852,7 +1852,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "相続財産は、財産の移転と家族関係を整理するときの基本項目です。",
-    "input": "souzoku zaisan wa zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
+    "input": "souzoku zaisan ha zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1863,7 +1863,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "相続財産は、手続きや意思表示の有無を確認しながら判断する知識です。",
-    "input": "souzoku zaisan wa tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
+    "input": "souzoku zaisan ha tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1874,7 +1874,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "相続財産は、遺産の分け方や承継の準備を考える場面で使います。",
-    "input": "souzoku zaisan wa isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
+    "input": "souzoku zaisan ha isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1885,7 +1885,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "遺留分は、財産の移転と家族関係を整理するときの基本項目です。",
-    "input": "iryubun wa zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
+    "input": "iryubun ha zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1896,7 +1896,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "遺留分は、手続きや意思表示の有無を確認しながら判断する知識です。",
-    "input": "iryubun wa tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
+    "input": "iryubun ha tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1907,7 +1907,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "遺留分は、遺産の分け方や承継の準備を考える場面で使います。",
-    "input": "iryubun wa isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
+    "input": "iryubun ha isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1918,7 +1918,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "遺贈は、財産の移転と家族関係を整理するときの基本項目です。",
-    "input": "izou wa zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
+    "input": "izou ha zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1929,7 +1929,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "遺贈は、手続きや意思表示の有無を確認しながら判断する知識です。",
-    "input": "izou wa tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
+    "input": "izou ha tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1940,7 +1940,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "遺贈は、遺産の分け方や承継の準備を考える場面で使います。",
-    "input": "izou wa isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
+    "input": "izou ha isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1951,7 +1951,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "死因贈与は、財産の移転と家族関係を整理するときの基本項目です。",
-    "input": "shiin zouyo wa zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
+    "input": "shiin zouyo ha zaisan no iten to kazoku kankei wo seiri suru toki no kihon koumoku desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1962,7 +1962,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "死因贈与は、手続きや意思表示の有無を確認しながら判断する知識です。",
-    "input": "shiin zouyo wa tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
+    "input": "shiin zouyo ha tetsuzuki ya ishi hyouji no umu wo kakunin shinagara handan suru chishiki desu",
     "tags": [
       "inheritance",
       "short_sentence"
@@ -1973,7 +1973,7 @@
     "level": 3,
     "category": "inheritance",
     "display": "死因贈与は、遺産の分け方や承継の準備を考える場面で使います。",
-    "input": "shiin zouyo wa isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
+    "input": "shiin zouyo ha isan no wakekata ya shoukei no junbi wo kangaeru bamen de tsukaimasu",
     "tags": [
       "inheritance",
       "short_sentence"
