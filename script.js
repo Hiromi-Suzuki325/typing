@@ -16,7 +16,13 @@ let compositionText = "";
 let isGameStarting = false;
 let lastElapsed = 0;
 
-const TIME_LIMIT = 60; // タイムリミット（秒）
+const DEFAULT_TIME_LIMIT = 60; // タイムリミット（秒）
+const TIME_LIMITS_BY_LEVEL = {
+  2: 70,
+  3: 80,
+  4: 90,
+};
+let currentTimeLimit = DEFAULT_TIME_LIMIT;
 const LEVEL_LABELS = {
   1: "初級",
   2: "中級",
@@ -81,7 +87,6 @@ function prepareQuestion() {
 function renderQuestion() {
   questionDisplayEl.textContent = currentQuestion.display;
   questionCategoryEl.textContent = currentQuestion.categoryLabel;
-  questionEl.classList.toggle("long", getTypingGuideText(currentQuestion.tokens).length > 34);
   questionEl.innerHTML = "";
 
   const { moraDone } = machine?.getProgress() || { moraDone: 0 };
@@ -169,6 +174,7 @@ function startGame() {
   updateNextKey();
 
   const level = getSelectedLevel();
+  currentTimeLimit = getTimeLimit(level);
   activeLevelEl.textContent = LEVEL_LABELS[level] || LEVEL_LABELS[1];
 
   loadQuestions(level)
@@ -206,15 +212,15 @@ function startTyping() {
   timerInterval = setInterval(() => {
     const elapsed = (performance.now() - startTime) / 1000;
     lastElapsed = elapsed;
-    timerEl.textContent = Math.min(elapsed, TIME_LIMIT).toFixed(1);
-    if (elapsed >= TIME_LIMIT) finishGame();
+    timerEl.textContent = Math.min(elapsed, currentTimeLimit).toFixed(1);
+    if (elapsed >= currentTimeLimit) finishGame();
   }, 100);
 }
 
 function finishGame() {
   clearInterval(timerInterval);
   isGameStarting = false;
-  const elapsedSec = Math.min(lastElapsed, TIME_LIMIT);
+  const elapsedSec = Math.min(lastElapsed, currentTimeLimit);
   timerEl.textContent = elapsedSec.toFixed(1);
   finalScoreEl.textContent = `スコア: ${score}`;
   finalCharsEl.textContent = totalChars;
@@ -237,6 +243,10 @@ function getSelectedLevel() {
     if (r.checked) return r.value;
   }
   return "1";
+}
+
+function getTimeLimit(level) {
+  return TIME_LIMITS_BY_LEVEL[Number(level)] || DEFAULT_TIME_LIMIT;
 }
 
 function shuffle(array) {

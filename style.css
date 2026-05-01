@@ -56,13 +56,20 @@ h2 {
 }
 
 h1 {
-  font-size: clamp(3rem, 10vw, 6rem);
+  margin-bottom: 42px;
+  font-family: 'Reggae One', cursive;
+  font-size: clamp(3.4rem, 11vw, 6.8rem);
   line-height: 1;
+  transform: translateX(-0.08em);
   white-space: nowrap;
 }
 
 h2 {
   font-size: clamp(2rem, 5vw, 3.5rem);
+}
+
+#result-screen h2 {
+  font-family: 'Reggae One', cursive;
 }
 
 
@@ -93,6 +100,7 @@ h2 {
   border-radius: 8px;
   background: #fff;
   color: var(--muted);
+  font-family: 'Zen Kurenaido', sans-serif;
   font-weight: 700;
   transition:
     border-color 0.16s ease,
@@ -125,7 +133,12 @@ h2 {
   border-radius: 999px;
   background: #fff;
   color: var(--muted);
+  font-family: 'Zen Kurenaido', sans-serif;
   font-size: 0.92rem;
+}
+
+.message kbd {
+  font-family: "Avenir Next", "Helvetica Neue", system-ui, sans-serif;
 }
 
 kbd {
@@ -254,15 +267,6 @@ kbd {
 
 #question span.incorrect {
   color: #c62828;
-}
-
-#question.long {
-  font-size: clamp(0.86rem, 2.55vw, 1.32rem);
-  letter-spacing: 0.04em;
-}
-
-#question.long span {
-  min-width: 0.48em;
 }
 
 #next-key {
@@ -442,9 +446,5 @@ kbd {
 
   #question {
     font-size: clamp(1.02rem, 5.8vw, 1.42rem);
-  }
-
-  #question.long {
-    font-size: clamp(0.78rem, 4vw, 1rem);
   }
 }
